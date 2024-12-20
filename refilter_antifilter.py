@@ -63,12 +63,12 @@ def process_and_refilter(url1, url2, url3, output_file):
     community_domains = extract_domains(community_list)
     antifilter_domains = extract_domains(antifilter_list)
 
-    # Убираем дубликаты
-    unique_domains = ooni_domains.union(community_domains).union(antifilter_domains)
-    print(f"Объединено {len(unique_domains)} уникальных доменов.")
+    # Создаем общий список доменов
+    all_domains = ooni_domains.union(community_domains).union(antifilter_domains)
+    print(f"Объединено {len(all_domains)} уникальных доменов.")
 
     # Преобразуем в формат Switchy Omega
-    switchy_lines = convert_to_switchy(unique_domains)
+    switchy_lines = convert_to_switchy(all_domains)
 
     # Сохраняем итоговый список
     save_to_file(output_file, switchy_lines)
