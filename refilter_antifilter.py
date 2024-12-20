@@ -61,7 +61,7 @@ def process_and_refilter(url1, url2, url3, output_file):
         "[Wildcard]"
     ] + formatted_domains + [
         "#END",
-        f"# List compiled: {current_time}"  # Время составления списка в конце
+        f"# Generated on: {current_time}"  # Время составления списка в конце
     ]
 
     # Сохраняем итоговый список
