@@ -74,6 +74,10 @@ def process_and_refilter(url1, url2, url3, output_file):
     # Преобразуем в формат Switchy Omega для итогового списка
     switchy_lines = convert_to_switchy(all_domains)
 
+    # Добавляем дату и время составления списка
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    switchy_lines.append(f"\n# Generated on: {current_time}\n")
+
     # Сохраняем итоговый список
     save_to_file(output_file, switchy_lines)
 
