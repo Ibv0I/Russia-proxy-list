@@ -24,6 +24,7 @@ def extract_domains(lines):
         line = line.strip()
         if line.startswith("*://") and "/*" in line:
             domain = line.replace("*://", "").replace("/*", "").lstrip("*")
+            domain = domain.replace("..", ".")  # Убираем лишние точки
             domains.add(domain)
     return domains
 
@@ -45,7 +46,7 @@ def main():
     for name, url in {"list_1": URLS["list_1"], "list_2": URLS["list_2"]}.items():
         print(f"Загружаем и обрабатываем список {name}...")
         lines = download_list(url)
-        all_domains.update(line.strip() for line in lines if line.strip())
+        all_domains.update(extract_domains(lines))
 
     # Удаление дубликатов и сортировка
     all_domains = sorted(set(all_domains))
