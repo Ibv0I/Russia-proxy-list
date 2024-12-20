@@ -35,14 +35,14 @@ def extract_domains(lines):
             print(f"Пропущена некорректная строка: {line}")
     return domains
 
-def convert_to_switchy(domains):
-    """Преобразует домены в формат Switchy Omega."""
+def convert_to_switchy(lines):
+    """Преобразует строки в формат Switchy Omega."""
     switchy_lines = ["#BEGIN\n\n[Wildcard]\n"]
-    for domain in sorted(domains):  # Сортируем для порядка
-        switchy_lines.append(f"*://*.{domain}/*\n")
+    for line in lines:
+        line = line.strip()
+        if line:  # Проверяем, что строка не пустая
+            switchy_lines.append(f"*://*.{line}/*\n")
     switchy_lines.append("#END\n")
-    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")  # Текущее время
-    switchy_lines.append(f"# List created on {now}\n")
     return switchy_lines
 
 def save_to_file(filename, lines):
@@ -58,16 +58,22 @@ def process_and_refilter(url1, url2, url3, output_file):
     community_list = download_list(url2)
     antifilter_list = download_list(url3)
 
-    # Извлекаем домены
+    # Извлекаем домены из первого списка
     ooni_domains = extract_domains(ooni_list)
-    community_domains = extract_domains(community_list)
-    antifilter_domains = extract_domains(antifilter_list)
+
+    # Преобразуем второй и третий списки в формат Switchy Omega
+    community_switchy = convert_to_switchy(community_list)
+    antifilter_switchy = convert_to_switchy(antifilter_list)
+
+    # Извлекаем домены из преобразованных списков
+    community_domains = extract_domains(community_switchy)
+    antifilter_domains = extract_domains(antifilter_switchy)
 
     # Создаем общий список доменов
     all_domains = ooni_domains.union(community_domains).union(antifilter_domains)
     print(f"Объединено {len(all_domains)} уникальных доменов.")
 
-    # Преобразуем в формат Switchy Omega
+    # Преобразуем в формат Switchy Omega для итогового списка
     switchy_lines = convert_to_switchy(all_domains)
 
     # Сохраняем итоговый список
@@ -75,3 +81,5 @@ def process_and_refilter(url1, url2, url3, output_file):
 
 if __name__ == "__main__":
     process_and_refilter(url_ooni, url_community, url_antifilter, output_file)
+
+Найти еще
