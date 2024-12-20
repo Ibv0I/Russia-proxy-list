@@ -81,5 +81,3 @@ def process_and_refilter(url1, url2, url3, output_file):
 
 if __name__ == "__main__":
     process_and_refilter(url_ooni, url_community, url_antifilter, output_file)
-
-Найти еще
