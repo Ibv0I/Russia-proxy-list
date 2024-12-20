@@ -1,69 +1,77 @@
 import requests
 from datetime import datetime
+import re
 
-# URLs для загрузки списков
-URLS = {
-    "antifilter": "https://community.antifilter.download/list/domains.txt",
-    "list_1": "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst",
-    "list_2": "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst",
-}
+# URLs для скачивания списков
+url_ooni = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"  # URL основного списка (переименован в ooni)
+url_community = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"  # URL community списка
+url_antifilter = "https://community.antifilter.download/list/domains.txt"  # URL списка antifilter
 
-# Имя выходного файла
-OUTPUT_FILE = "Re-filter+antifilter.txt"
+# Имя итогового файла
+output_file = "Re-filter+antifilter.txt"
 
-# Функция для загрузки списка
 def download_list(url):
-    response = requests.get(url)
-    response.raise_for_status()
-    return response.text.splitlines()
+    """Скачивает список доменов по URL."""
+    try:
+        print(f"Скачивание списка: {url}")
+        response = requests.get(url)
+        response.raise_for_status()
+        print("Список успешно скачан.")
+        return response.text.splitlines()
+    except requests.exceptions.RequestException as e:
+        print(f"Ошибка при скачивании списка: {e}")
+        return []
 
-# Функция для извлечения доменов из формата Switchy Omega
 def extract_domains(lines):
+    """Извлекает домены из формата Switchy Omega."""
     domains = set()
+    domain_pattern = re.compile(r"^\*://\*\.(.+)/\*$")  # Регулярка для извлечения доменов
     for line in lines:
         line = line.strip()
-        if line.startswith("*://") and "/*" in line:
-            domain = line.replace("*://", "").replace("/*", "").lstrip("*")
-            domain = domain.replace("..", ".")  # Убираем лишние точки
-            domains.add(domain)
+        match = domain_pattern.match(line)
+        if match:
+            domains.add(match.group(1))  # Добавляем только домен
+        else:
+            print(f"Пропущена некорректная строка: {line}")
     return domains
 
-# Функция для преобразования списка доменов в формат Switchy Omega
 def convert_to_switchy(domains):
-    switchy_lines = [f"*://*.{domain}/*" for domain in sorted(domains)]
+    """Преобразует домены в формат Switchy Omega."""
+    switchy_lines = ["#BEGIN\n\n[Wildcard]\n"]
+    for domain in sorted(domains):  # Сортируем для порядка
+        switchy_lines.append(f"*://*.{domain}/*\n")
+    switchy_lines.append("#END\n")
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")  # Текущее время
+    switchy_lines.append(f"# List created on {now}\n")
     return switchy_lines
 
-# Основная функция
-def main():
-    all_domains = set()
+def save_to_file(filename, lines):
+    """Сохраняет строки в файл."""
+    with open(filename, "w", encoding="utf-8") as file:
+        file.writelines(lines)
+    print(f"Итоговый список сохранён в {filename}")
 
-    # Обработка списка в формате Switchy Omega
-    print("Загружаем и обрабатываем список antifilter...")
-    switchy_lines = download_list(URLS["antifilter"])
-    all_domains.update(extract_domains(switchy_lines))
+def process_and_refilter(url1, url2, url3, output_file):
+    """Скачивает, обрабатывает списки и сохраняет результат."""
+    # Скачиваем списки
+    ooni_list = download_list(url1)
+    community_list = download_list(url2)
+    antifilter_list = download_list(url3)
 
-    # Обработка дополнительных списков
-    for name, url in {"list_1": URLS["list_1"], "list_2": URLS["list_2"]}.items():
-        print(f"Загружаем и обрабатываем список {name}...")
-        lines = download_list(url)
-        all_domains.update(extract_domains(lines))
+    # Извлекаем домены
+    ooni_domains = extract_domains(ooni_list)
+    community_domains = extract_domains(community_list)
+    antifilter_domains = extract_domains(antifilter_list)
 
-    # Удаление дубликатов и сортировка
-    all_domains = sorted(set(all_domains))
+    # Убираем дубликаты
+    unique_domains = ooni_domains.union(community_domains).union(antifilter_domains)
+    print(f"Объединено {len(unique_domains)} уникальных доменов.")
 
-    # Преобразование объединённого списка в формат Switchy Omega
-    print("Преобразуем объединённый список в формат Switchy Omega...")
-    switchy_lines = convert_to_switchy(all_domains)
+    # Преобразуем в формат Switchy Omega
+    switchy_lines = convert_to_switchy(unique_domains)
 
-    # Сохранение результата в файл
-    print(f"Сохраняем результат в файл {OUTPUT_FILE}...")
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as outfile:
-        outfile.write("#BEGIN\n\n[Wildcard]\n")
-        outfile.write("\n".join(switchy_lines))
-        outfile.write("\n#END\n")
-        outfile.write(f"# Generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-
-    print(f"Список успешно сохранён в {OUTPUT_FILE}")
+    # Сохраняем итоговый список
+    save_to_file(output_file, switchy_lines)
 
 if __name__ == "__main__":
-    main()
+    process_and_refilter(url_ooni, url_community, url_antifilter, output_file)
