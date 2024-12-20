@@ -23,9 +23,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run re_filter_to_switchy.py
+      - name: Run refilter_to_switchy.py
         run: |
-          python re_filter_to_switchy.py
+          python refilter_to_switchy.py
 
       - name: Run refilter_antifilter.py
         run: |
