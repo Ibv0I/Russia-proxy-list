@@ -3,7 +3,7 @@ from datetime import datetime
 import re
 
 # URLs для скачивания списков
-url_ooni = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"  # URL основного списка (переименован в ooni)
+url_ooni = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"  # URL ooni списка
 url_community = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"  # URL community списка
 url_antifilter = "https://community.antifilter.download/list/domains.txt"  # URL списка antifilter
 
