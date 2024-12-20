@@ -23,7 +23,11 @@ def download_list(url):
         return []
 
 def extract_domains(lines):
-    """Извлекает домены из формата Switchy Omega."""
+    """Извлекает домены из простого списка доменов."""
+    return {line.strip() for line in lines if line.strip()}  # Убираем пробелы и пустые строки
+
+def clean_antifilter(lines):
+    """Очищает список antifilter от формата Switchy Omega, оставляя только домены."""
     domains = set()
     domain_pattern = re.compile(r"^\*://\*\.(.+)/\*$")  # Регулярка для извлечения доменов
     for line in lines:
@@ -35,13 +39,11 @@ def extract_domains(lines):
             print(f"Пропущена некорректная строка: {line}")
     return domains
 
-def convert_to_switchy(lines):
-    """Преобразует строки в формат Switchy Omega."""
+def convert_to_switchy(domains):
+    """Преобразует домены в формат Switchy Omega."""
     switchy_lines = ["#BEGIN\n\n[Wildcard]\n"]
-    for line in lines:
-        line = line.strip()
-        if line:  # Проверяем, что строка не пустая
-            switchy_lines.append(f"*://*.{line}/*\n")
+    for domain in sorted(domains):  # Сортируем для порядка
+        switchy_lines.append(f"*://*.{domain}/*\n")
     switchy_lines.append("#END\n")
     return switchy_lines
 
@@ -58,16 +60,12 @@ def process_and_refilter(url1, url2, url3, output_file):
     community_list = download_list(url2)
     antifilter_list = download_list(url3)
 
-    # Извлекаем домены из первого списка
+    # Извлекаем домены из первого и второго списка
     ooni_domains = extract_domains(ooni_list)
+    community_domains = extract_domains(community_list)
 
-    # Преобразуем второй и третий списки в формат Switchy Omega
-    community_switchy = convert_to_switchy(community_list)
-    antifilter_switchy = convert_to_switchy(antifilter_list)
-
-    # Извлекаем домены из преобразованных списков
-    community_domains = extract_domains(community_switchy)
-    antifilter_domains = extract_domains(antifilter_switchy)
+    # Очищаем третий список от формата Switchy Omega, оставляя только домены
+    antifilter_domains = clean_antifilter(antifilter_list)
 
     # Создаем общий список доменов
     all_domains = ooni_domains.union(community_domains).union(antifilter_domains)
@@ -81,5 +79,3 @@ def process_and_refilter(url1, url2, url3, output_file):
 
 if __name__ == "__main__":
     process_and_refilter(url_ooni, url_community, url_antifilter, output_file)
-
-Найти еще
