@@ -2,9 +2,9 @@ import requests
 from datetime import datetime
 
 # URLs для скачивания списков
-url_ooni = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"  # URL ooni списка 
-url_community = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"  # URL community списка 
-url_antifilter = "https://community.antifilter.download/list/domains.lst"  # URL списка antifilter
+url_ooni = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"  # URL ooni списка
+url_community = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"  # URL community списка
+url_antifilter = "https://community.antifilter.download/list/domains.lst"  # URL списка antifilter 
 
 # Имя итогового файла
 output_file = "Re-filter+antifilter.txt"
@@ -53,10 +53,19 @@ def process_and_refilter(url1, url2, url3, output_file):
 
     # Добавляем дату и время составления списка
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    formatted_domains.append(f"# Generated on: {current_time}")
+    
+    # Формируем итоговый список с заголовками и окончанием
+    final_output = [
+        "#BEGIN",
+        "",  # Пустая строка
+        "[Wildcard]"
+    ] + formatted_domains + [
+        "#END",
+        f"# List compiled: {current_time}"  # Время составления списка в конце
+    ]
 
     # Сохраняем итоговый список
-    save_to_file(output_file, formatted_domains)
+    save_to_file(output_file, final_output)
 
 if __name__ == "__main__":
     process_and_refilter(url_ooni, url_community, url_antifilter, output_file)
