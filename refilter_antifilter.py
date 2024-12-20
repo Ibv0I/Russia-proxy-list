@@ -47,6 +47,9 @@ def main():
         lines = download_list(url)
         all_domains.update(line.strip() for line in lines if line.strip())
 
+    # Удаление дубликатов и сортировка
+    all_domains = sorted(set(all_domains))
+
     # Преобразование объединённого списка в формат Switchy Omega
     print("Преобразуем объединённый список в формат Switchy Omega...")
     switchy_lines = convert_to_switchy(all_domains)
