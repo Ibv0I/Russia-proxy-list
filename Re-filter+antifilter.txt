@@ -963,6 +963,9 @@
 *://*.shroomery.org/*
 *://*.shtab.navalny.com/*
 *://*.sibreal.org/*
+*://*.signal.art/*
+*://*.signal.org/*
+*://*.signalusers.org/*
 *://*.singlekey-id.com/*
 *://*.skai.gr/*
 *://*.skat.media/*
@@ -1160,11 +1163,13 @@
 *://*.welt.de/*
 *://*.wetransfer.com/*
 *://*.wheather.com/*
+*://*.whispersystems.org/*
 *://*.white.instagram.com/*
 *://*.wide-youtube.l.google.com/*
 *://*.wikianime.club/*
 *://*.windguru.cz/*
 *://*.windscribe.com/*
+*://*.wise.com/*
 *://*.wixmp.com/*
 *://*.world.comments.ua/*
 *://*.wpengine.com/*
@@ -1244,4 +1249,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2024-12-24 01:40:38
+# Generated on: 2024-12-25 01:39:28

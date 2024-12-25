@@ -326,6 +326,9 @@
 *://*.slideshare.net/*
 *://*.soapui.org/*
 *://*.software.cisco.com/*
+*://*.signal.art/*
+*://*.signal.org/*
+*://*.signalusers.org/*
 *://*.soundcloud.com/*
 *://*.spotify.com/*
 *://*.streamable.com/*
@@ -373,8 +376,10 @@
 *://*.wetransfer.com/*
 *://*.wheather.com/*
 *://*.windguru.cz/*
+*://*.wise.com/*
 *://*.wixmp.com/*
 *://*.youtube.com/*
+*://*.whispersystems.org/*
 *://*.wunderground.com/*
 *://*.www.analog.com/*
 *://*.www.hetzner.com/*
@@ -389,11 +394,10 @@
 *://*.www.youtube.com/*
 *://*.www.ti.com/*
 *://*.www.wikiart.org/*
-*://*.www.wunderground.com/*
 *://*.xhamster.com/*
 *://*.xhamsterlive.com/*
 *://*.znanija.com/*
 *://*.zohomail.com/*
 *://*.zolika1351.pages.dev/*
 #END
-# Generated on 2024-12-24 01:40:36
+# Generated on 2024-12-25 01:39:27
