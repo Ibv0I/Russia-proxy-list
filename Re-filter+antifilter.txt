@@ -560,6 +560,7 @@
 *://*.kino.pub/*
 *://*.kinobase.org/*
 *://*.kinobolt.ru/*
+*://*.kinogo.ec/*
 *://*.kinogoo.cc/*
 *://*.kinokopilka.pro/*
 *://*.kinokrad.co/*
@@ -1249,4 +1250,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-01-07 01:41:44
+# Generated on: 2025-01-08 01:41:18
