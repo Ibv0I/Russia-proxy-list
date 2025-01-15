@@ -758,6 +758,7 @@
 *://*.opensocietyfoundations.org/*
 *://*.openuni.io/*
 *://*.openwrt.wk.cz/*
+*://*.orbit-games.com/*
 *://*.orf.at/*
 *://*.orldwildlife.org/*
 *://*.os.mbed.com/*
@@ -949,6 +950,7 @@
 *://*.shroomery.org/*
 *://*.shtab.navalny.com/*
 *://*.sibreal.org/*
+*://*.siemens-home.bsh-group.com/*
 *://*.signal.art/*
 *://*.signal.org/*
 *://*.signalusers.org/*
@@ -1201,6 +1203,7 @@
 *://*.www.youtube.com/*
 *://*.x.com/*
 *://*.xanga.com/*
+*://*.xerox.com/*
 *://*.xgay.ru/*
 *://*.xhamster.com/*
 *://*.xhamsterlive.com/*
@@ -1235,4 +1238,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-01-14 01:36:36
+# Generated on: 2025-01-15 01:38:36
