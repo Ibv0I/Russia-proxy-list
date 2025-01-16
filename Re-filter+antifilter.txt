@@ -325,6 +325,7 @@
 *://*.elhosting.ru/*
 *://*.elmundo.es/*
 *://*.elpais.com/*
+*://*.envato.com/*
 *://*.epravda.com.ua/*
 *://*.equaldex.com/*
 *://*.erowid.org/*
@@ -684,6 +685,7 @@
 *://*.nazarene.org/*
 *://*.ndi.org/*
 *://*.ned.org/*
+*://*.netapp.com/*
 *://*.netflix.com/*
 *://*.netmap.su/*
 *://*.networksolutions.com/*
@@ -965,6 +967,7 @@
 *://*.slotland.com/*
 *://*.slovodel.com/*
 *://*.sme.sk/*
+*://*.snapmagic.com/*
 *://*.soapui.org/*
 *://*.sobesednik.ru/*
 *://*.socom.mil/*
@@ -1238,4 +1241,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-01-15 01:38:36
+# Generated on: 2025-01-16 01:37:48
