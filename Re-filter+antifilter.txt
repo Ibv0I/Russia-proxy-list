@@ -81,6 +81,7 @@
 *://*.aplawrence.com/*
 *://*.apollo.lv/*
 *://*.aport.ru/*
+*://*.app.4pda.to/*
 *://*.app.m3u.in/*
 *://*.app.paraswap.io/*
 *://*.app.wire.com/*
@@ -1241,4 +1242,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-01-18 01:35:02
+# Generated on: 2025-01-19 01:44:10
