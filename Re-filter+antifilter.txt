@@ -470,6 +470,7 @@
 *://*.holiday.ru/*
 *://*.holod.global.ssl.fastly.net/*
 *://*.holod.media/*
+*://*.honeywell.com/*
 *://*.hornet.com/*
 *://*.hostgator.com/*
 *://*.hotgaylist.com/*
@@ -1244,4 +1245,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-01-29 01:38:06
+# Generated on: 2025-01-30 01:36:50
