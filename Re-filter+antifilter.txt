@@ -219,6 +219,7 @@
 *://*.crimea-news.info/*
 *://*.crunchyroll.com/*
 *://*.cryptpad.fr/*
+*://*.cub.red/*
 *://*.current-time.gitlab.io/*
 *://*.currenttime.tv/*
 *://*.cyberghostvpn.com/*
@@ -1245,4 +1246,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-02-08 01:36:59
+# Generated on: 2025-02-09 01:43:41
