@@ -3187,7 +3187,6 @@
 *://*.alphavids.cc/*
 *://*.alphv.ru/*
 *://*.alpina.finance/*
-*://*.alqassam.ps/*
 *://*.alt-cigaret.com/*
 *://*.alt-fin-base.shop/*
 *://*.alt-rulo.co/*
@@ -4607,6 +4606,7 @@
 *://*.banghub.org/*
 *://*.bangseeds.com/*
 *://*.bangseeds.online/*
+*://*.bankir.ru/*
 *://*.bannedavtonom.noblogs.org/*
 *://*.bannerboo.com/*
 *://*.banners.livepartners.com/*
@@ -5141,6 +5141,7 @@
 *://*.bighentai.info/*
 *://*.bighortbi.sbs/*
 *://*.biginvesprog.info/*
+*://*.biglion.ru/*
 *://*.bigmir.net/*
 *://*.bignonczbe.website/*
 *://*.bigopt.com/*
@@ -5269,6 +5270,7 @@
 *://*.bitbucket.org/*
 *://*.bitchute.com/*
 *://*.bitcoin.org/*
+*://*.bitcoin.sipa.be/*
 *://*.bitexcapital.io/*
 *://*.bitexibit.com/*
 *://*.bitfinex.com/*
@@ -5501,6 +5503,7 @@
 *://*.block4alrisk.top/*
 *://*.block4alundertaking.shop/*
 *://*.blockaway.net/*
+*://*.blockdx.co/*
 *://*.blockonomi.com/*
 *://*.blog-alser.shop/*
 *://*.blog-mikhailnesterets.blogspot.com/*
@@ -5633,7 +5636,6 @@
 *://*.bodyguardsonline.com/*
 *://*.bofilm.ru/*
 *://*.bogatstvo.icu/*
-*://*.bogus.d2a8n1.rootcanary.net/*
 *://*.bogvideo.com/*
 *://*.bohe.kinogid.pw/*
 *://*.boingboing.net/*
@@ -5883,6 +5885,7 @@
 *://*.brazzershemale.pro/*
 *://*.brdnzsp.info/*
 *://*.breached.to/*
+*://*.breached.vc/*
 *://*.breakberry.net/*
 *://*.breakfree-forex.com/*
 *://*.breaking-bad-online.zfilm-hd-1954.online/*
@@ -6010,6 +6013,7 @@
 *://*.bs24web.at/*
 *://*.bs2best-at.ru/*
 *://*.bs2best-at.su/*
+*://*.bs2best.at/*
 *://*.bs2best.shop/*
 *://*.bs2bot.com/*
 *://*.bs2bot.net/*
@@ -6235,6 +6239,7 @@
 *://*.buryad-mongol.org/*
 *://*.bus-club.ru/*
 *://*.businesobraz-2.org/*
+*://*.business-gazeta.ru/*
 *://*.business-gazeta.zfilm2000.site/*
 *://*.business-hash7.ru/*
 *://*.business.club/*
@@ -6680,6 +6685,7 @@
 *://*.cccp-kpss.narod.ru/*
 *://*.ccd.folza.top/*
 *://*.ccdplanetmta.ru/*
+*://*.ccel.org/*
 *://*.ccklgm.com/*
 *://*.ccnexus.global/*
 *://*.ccoolbroker.website/*
@@ -6733,7 +6739,6 @@
 *://*.censortracker.org/*
 *://*.censoru.net/*
 *://*.censussister.com/*
-*://*.centcom.mil/*
 *://*.center-kgh.ru/*
 *://*.center-medoc.com/*
 *://*.center-school-tlt.ru/*
@@ -7253,7 +7258,6 @@
 *://*.cipmayt.cyou/*
 *://*.circuinumd.website/*
 *://*.cis-fxpro.com/*
-*://*.cis.minsk.by/*
 *://*.cis.tiviha-tv.ru/*
 *://*.cisca.tiviha-tv.ru/*
 *://*.cisco.com/*
@@ -8606,6 +8610,7 @@
 *://*.diapumi.pro/*
 *://*.diaries-of-a-psycho.tumblr.com/*
 *://*.diariognomico.blogspot.com/*
+*://*.diary.ru/*
 *://*.diaspora.permutationsofchaos.com/*
 *://*.diasporiana.org.ua/*
 *://*.dick.ddpills.com/*
@@ -8922,7 +8927,6 @@
 *://*.docvuztomm.org/*
 *://*.docycii.info/*
 *://*.dodepov.site/*
-*://*.dodmayak.ru/*
 *://*.dodo24.cc/*
 *://*.dofusports.xyz/*
 *://*.dog-house.me/*
@@ -9119,6 +9123,7 @@
 *://*.doska-parni.ru/*
 *://*.doska.aptekistolichki.ru/*
 *://*.doska.gay/*
+*://*.doski.ru/*
 *://*.dossier.center/*
 *://*.dostatokgame.site/*
 *://*.dostatokgames.site/*
@@ -9301,7 +9306,6 @@
 *://*.drsex.ru/*
 *://*.drtinnv.com/*
 *://*.drugs-forum.com/*
-*://*.drugsdata.org/*
 *://*.drwatson-restaurant.ru/*
 *://*.drxs.pirat.one/*
 *://*.dry-rb.org/*
@@ -9761,7 +9765,6 @@
 *://*.elez-mezenat.ru/*
 *://*.elgoles.co/*
 *://*.elgreloo.com/*
-*://*.elhosting.ru/*
 *://*.elibrary-book.ru/*
 *://*.elikor-studio.ru/*
 *://*.elimustawi.com/*
@@ -10576,7 +10579,6 @@
 *://*.fa2147526e8a79f406317196d49651ee.mararus.com/*
 *://*.faapy.com/*
 *://*.fabius.limited/*
-*://*.fabricmc.net/*
 *://*.fabrik-act.net/*
 *://*.fabrika-chekov.net/*
 *://*.fabrika-hostel.ru/*
@@ -11815,7 +11817,6 @@
 *://*.freya-suba-etalon.space/*
 *://*.fri-gate.org/*
 *://*.fribed.ru/*
-*://*.fridaysforfuture.org/*
 *://*.friends-bar.ru/*
 *://*.friends.in.ua/*
 *://*.frind.crumb.top/*
@@ -11838,7 +11839,6 @@
 *://*.fromua.news/*
 *://*.front4uvstv.com/*
 *://*.frontierblades.com/*
-*://*.frontlineaids.org/*
 *://*.frosfo.ru/*
 *://*.frostbiteflashily.pro/*
 *://*.frp10.ru/*
@@ -12462,6 +12462,7 @@
 *://*.gay-virtual.com/*
 *://*.gay.7porn.ru/*
 *://*.gay.alsoporn.com/*
+*://*.gay.com/*
 *://*.gay.fleshbot.com/*
 *://*.gay.isporno.net/*
 *://*.gay.wiki/*
@@ -12973,6 +12974,7 @@
 *://*.git-init.ru/*
 *://*.gitand.werbin.site/*
 *://*.giteli.info/*
+*://*.giters.com/*
 *://*.gitexcapital.pro/*
 *://*.gitinifili.serialofan.online/*
 *://*.gitlab.io/*
@@ -13095,6 +13097,7 @@
 *://*.globalmmf.ru/*
 *://*.globalnerdds.website/*
 *://*.globalpremiers.com/*
+*://*.globalpressjournal.com/*
 *://*.globalprogressfx.com/*
 *://*.globalshippingfx.com/*
 *://*.globalsoftcore.com/*
@@ -13107,6 +13110,7 @@
 *://*.globaxweb.click/*
 *://*.globaxweb.com/*
 *://*.globespanfinanciallimited.com/*
+*://*.globet.com/*
 *://*.globextuneslimited.com/*
 *://*.globicacctiv.cyou/*
 *://*.globre-mit.co/*
@@ -15125,6 +15129,7 @@
 *://*.i.v-s.mobi/*
 *://*.i.xn--100-8cdk2c1afji.xn--p1ai/*
 *://*.i.xn--2-8sbgyj1ahg.xn--p1ai/*
+*://*.i.ytimg.com/*
 *://*.i02spravo4ky.ru/*
 *://*.i1.eastcontent.com/*
 *://*.i1.ekogate.club/*
@@ -15139,7 +15144,7 @@
 *://*.i2.xxxsexcomix.com/*
 *://*.i2.zenworks.online/*
 *://*.i2ku.pirat.one/*
-*://*.i2p2.de/*
+*://*.i2pforum.net/*
 *://*.i3.eastcontent.com/*
 *://*.i3.joyfilm.top/*
 *://*.i3.sigmapic.com/*
@@ -15154,7 +15159,6 @@
 *://*.i7.joyfilm.top/*
 *://*.i8.joyfilm.top/*
 *://*.ia-viking.ru/*
-*://*.ia801908.us.archive.org/*
 *://*.iaeste.org/*
 *://*.ialsls.intesk.top/*
 *://*.iamjeffsims.com/*
@@ -15711,6 +15715,7 @@
 *://*.inremonta.ru/*
 *://*.ins.sheelpor.top/*
 *://*.insane.gg/*
+*://*.insecure.org/*
 *://*.insei.ru/*
 *://*.insertsignals.com/*
 *://*.inshe.tv/*
@@ -15938,6 +15943,7 @@
 *://*.is4a.lordfilmx.cfd/*
 *://*.isa4310.com/*
 *://*.isa5417.com/*
+*://*.isaalmasih.net/*
 *://*.isd.itunt.xyz/*
 *://*.isd7.pirat.one/*
 *://*.isdarat.cloud/*
@@ -16003,7 +16009,6 @@
 *://*.italavka.ru/*
 *://*.itarmy.com.ua/*
 *://*.itbite.biz/*
-*://*.itblogs.ru/*
 *://*.itc.ua/*
 *://*.itclubm.ru/*
 *://*.itcontrols.ru/*
@@ -16425,7 +16430,6 @@
 *://*.jut-su.com/*
 *://*.jut-su.life/*
 *://*.jut-su.moe/*
-*://*.jut.su/*
 *://*.juwn.ru/*
 *://*.jv.djeneriki.biz/*
 *://*.jvaz.pirat.one/*
@@ -17864,6 +17868,7 @@
 *://*.korton-1.net/*
 *://*.korusolution.com/*
 *://*.kos.koduspps.site/*
+*://*.kosa.media/*
 *://*.kosend.megapeer.ru/*
 *://*.koshkindom-donetsk2.ru/*
 *://*.kosmolet.pro/*
@@ -18689,6 +18694,7 @@
 *://*.libertysystem.store/*
 *://*.libertysystem.xyz/*
 *://*.liberumteatre.ru/*
+*://*.libgen.fun/*
 *://*.libgen.is/*
 *://*.libgen.lc/*
 *://*.libgen.life/*
@@ -18696,6 +18702,7 @@
 *://*.libgen.mrunblock.best/*
 *://*.libgen.nl/*
 *://*.libgen.rs/*
+*://*.libgen.space/*
 *://*.library.khpg.org/*
 *://*.library.ucoz.org/*
 *://*.librarykotel.ru/*
@@ -18887,6 +18894,7 @@
 *://*.livefootballtodaymatch.com/*
 *://*.livelyei.com/*
 *://*.livematch.ws/*
+*://*.livemy.info/*
 *://*.lives-events.com/*
 *://*.livesport.ws/*
 *://*.livetv.lol/*
@@ -20297,6 +20305,7 @@
 *://*.mangahentai.org/*
 *://*.mangahub.ru/*
 *://*.mangal-house67.ru/*
+*://*.mangamammy.ru/*
 *://*.mangapark.io/*
 *://*.mangapark.net/*
 *://*.mangapark.org/*
@@ -21095,7 +21104,6 @@
 *://*.met2.top-expert.quest/*
 *://*.meta-bitmarket.com/*
 *://*.meta-force.space/*
-*://*.meta.com/*
 *://*.meta.tiviha-tv.ru/*
 *://*.meta1pwapro.werbin.site/*
 *://*.metacritic.com/*
@@ -22693,6 +22701,7 @@
 *://*.narvafinance.com/*
 *://*.nash-amsterdam.nl/*
 *://*.nash-dom.info/*
+*://*.nash-sever.info/*
 *://*.nash-sovremennik.ru/*
 *://*.nasha-strana.info/*
 *://*.nashagazeta.net/*
@@ -22746,7 +22755,6 @@
 *://*.navi-gator.top/*
 *://*.navi.gg/*
 *://*.navopros.ru/*
-*://*.navy.mil/*
 *://*.nawfilms.ru/*
 *://*.naxtronassets.com/*
 *://*.naxyxai.info/*
@@ -22846,6 +22854,7 @@
 *://*.net.knigisamizdat.ru/*
 *://*.net.ru-knigi.ru/*
 *://*.net.sofosbuvir24h.ru/*
+*://*.netaddress.com/*
 *://*.netbel.contactoffice.com/*
 *://*.netfact.ru/*
 *://*.netfapx.com/*
@@ -23165,6 +23174,7 @@
 *://*.nlmk-sort.ru/*
 *://*.nlt.ltd/*
 *://*.nm.lordfilmik.fun/*
+*://*.nmap.org/*
 *://*.nmarkets.org/*
 *://*.nmjxgks.info/*
 *://*.nmodel.cc/*
@@ -24034,7 +24044,6 @@
 *://*.omskgovorit.ru/*
 *://*.omu.org.ua/*
 *://*.omv-extras.org/*
-*://*.omvesti.ru/*
 *://*.on-best.cfd/*
 *://*.on-best.hair/*
 *://*.on-best.icu/*
@@ -24642,7 +24651,6 @@
 *://*.pacificalliance.online/*
 *://*.packages.gitlab.com/*
 *://*.pacmeta.pro/*
-*://*.pacom.mil/*
 *://*.padaread.top/*
 *://*.padaread1.top/*
 *://*.padaread2.top/*
@@ -24792,7 +24800,6 @@
 *://*.pawoo.net/*
 *://*.paxromgryw.xyz/*
 *://*.pay-kurss.info/*
-*://*.pay.0x00dev.com/*
 *://*.pay.buckaroo.nl/*
 *://*.paying-hyip-monitor.ru/*
 *://*.paylab.pw/*
@@ -26214,6 +26221,7 @@
 *://*.professional-tools.cfd/*
 *://*.professional-tools.homes/*
 *://*.professional-tools.online/*
+*://*.professionali.ru/*
 *://*.professor-moriarty-fo.com/*
 *://*.professor-moriarty-mega.com/*
 *://*.professormoriarties.com/*
@@ -26762,7 +26770,6 @@
 *://*.qualityway.club/*
 *://*.qualityway.top/*
 *://*.quantcapitmon.com/*
-*://*.quantico.marines.mil/*
 *://*.quantiqflux.com/*
 *://*.quantum-ai.io/*
 *://*.quantum-ai.trading/*
@@ -27767,8 +27774,6 @@
 *://*.roofspiter.ru/*
 *://*.roomp.co/*
 *://*.roorions.xyz/*
-*://*.root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/*
-*://*.root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/*
 *://*.root.megapeer.ru/*
 *://*.roriland.info/*
 *://*.ros-ard.ru/*
@@ -27786,6 +27791,7 @@
 *://*.roshen.ru/*
 *://*.rosinform.press/*
 *://*.roskarta.org/*
+*://*.roskomsvoboda.org/*
 *://*.roslavl.aseevka.ru/*
 *://*.roslavl.larousse.ru/*
 *://*.rosphoto.com/*
@@ -28212,6 +28218,7 @@
 *://*.ru.node-tricks.com/*
 *://*.ru.offfilm.lol/*
 *://*.ru.omgomg-onion.net/*
+*://*.ru.onlinecasinos5.ru/*
 *://*.ru.oxu.az/*
 *://*.ru.paradisehill.cc/*
 *://*.ru.parni.online/*
@@ -29551,6 +29558,7 @@
 *://*.seasonvar.ws/*
 *://*.sebastiansmolyn.com/*
 *://*.sebeanus.online/*
+*://*.seclists.org/*
 *://*.secmail.pro/*
 *://*.second.go2me.top/*
 *://*.secorgroup.ru/*
@@ -31022,12 +31030,12 @@
 *://*.soundfor.ru/*
 *://*.soundfreedom.pirat.one/*
 *://*.soundpark.rocks/*
-*://*.southcom.mil/*
 *://*.southpark.su/*
 *://*.soutsar.ru/*
 *://*.soutu6.com/*
 *://*.souzmult.zfilm-hd-1237.online/*
 *://*.sov-tokar.ru/*
+*://*.sova-center.ru/*
 *://*.sova58.ru/*
 *://*.sovanews.tv/*
 *://*.sovet.kidstaff.com.ua/*
@@ -31146,7 +31154,6 @@
 *://*.spherequeer.org/*
 *://*.sphurba.ru/*
 *://*.spider-man.pirat.one/*
-*://*.spideroak.com/*
 *://*.spiegel.de/*
 *://*.spinpalace.com/*
 *://*.spion-market.com.ua/*
@@ -31247,6 +31254,8 @@
 *://*.sportystreamz.com/*
 *://*.spotify.com/*
 *://*.sppravac.site/*
+*://*.spr.ru/*
+*://*.sprashivai.ru/*
 *://*.sprav-piter.com/*
 *://*.sprav-piter.ru/*
 *://*.sprav.fun/*
@@ -31516,6 +31525,7 @@
 *://*.stay.makelikepro.lol/*
 *://*.staystrong.biz/*
 *://*.stbro.ru/*
+*://*.stealthchat.com/*
 *://*.steam.pirat.one/*
 *://*.stedmood.ru/*
 *://*.steepinsides.com/*
@@ -31618,7 +31628,6 @@
 *://*.strana.ru/*
 *://*.stranachudes-sp.ru/*
 *://*.strapchiy.ru/*
-*://*.stratcom.mil/*
 *://*.strategy-spb.ru/*
 *://*.strategy2025.ru/*
 *://*.stratford-shakespear.ru/*
@@ -32452,7 +32461,6 @@
 *://*.teenh.net/*
 *://*.teenhd.porn/*
 *://*.teenhdpussy.com/*
-*://*.teenhealthfx.com/*
 *://*.teeninside.com/*
 *://*.teenmegaworld.net/*
 *://*.teenmodelling.site/*
@@ -33092,6 +33100,7 @@
 *://*.top.go2me.top/*
 *://*.top.hdfilms.life/*
 *://*.top.invst-project.guru/*
+*://*.top.jdu.ru/*
 *://*.top.kinobar.top/*
 *://*.top.kinokong.ws/*
 *://*.top.kinolandyyyyy.site/*
@@ -35376,12 +35385,10 @@
 *://*.usa-tovar.ru/*
 *://*.usa.one/*
 *://*.usadba18vek.ru/*
-*://*.usafa.af.mil/*
 *://*.usafarmax.com/*
 *://*.usaforlife.ru/*
 *://*.usagoals.ws/*
 *://*.usbergerac-rugby.com/*
-*://*.uscg.mil/*
 *://*.usd-doubler.xyz/*
 *://*.usdfarm.top/*
 *://*.usdgnomes.biz/*
@@ -35501,7 +35508,6 @@
 *://*.uzhasy-lordfilm.top/*
 *://*.uzhgorod.in/*
 *://*.uzmedia.net/*
-*://*.uzmovi.com/*
 *://*.uzmovii.com/*
 *://*.uznai-pravdu.com/*
 *://*.uzohoegh4d.execute-api.eu-central-1.amazonaws.com/*
@@ -35663,6 +35669,7 @@
 *://*.valyuta.casa/*
 *://*.vambonus.com/*
 *://*.vamtabak4.ru/*
+*://*.vanguardnewsnetwork.com/*
 *://*.vanilla-rock.com/*
 *://*.vanyavpn.app/*
 *://*.vanyavpn.org/*
@@ -35830,7 +35837,6 @@
 *://*.velvishop.ru/*
 *://*.venoms.top/*
 *://*.ventfasad39.ru/*
-*://*.veoh.com/*
 *://*.veohentai.com/*
 *://*.veopornogratis.xxx/*
 *://*.ver2.lordserial.quest/*
@@ -36142,6 +36148,7 @@
 *://*.vkorolenko.ru/*
 *://*.vkpornoxxx.com/*
 *://*.vkrane.net/*
+*://*.vkrugudruzei.ru/*
 *://*.vkruiz.ru/*
 *://*.vktek-uk.kz/*
 *://*.vktor.org/*
@@ -42121,6 +42128,7 @@
 *://*.yorki-kristal.ru/*
 *://*.yorkshirs.ru/*
 *://*.yosounds.ru/*
+*://*.yotube.com/*
 *://*.you-books.com/*
 *://*.you.lordfilm0.site/*
 *://*.you.lordfilmx.cfd/*
@@ -42172,7 +42180,6 @@
 *://*.youtube.com/*
 *://*.youtube.googleapis.com/*
 *://*.youtube.lurkmore.com/*
-*://*.youtube.ru/*
 *://*.youtube.video.az/*
 *://*.youtubeembeddedplayer.googleapis.com/*
 *://*.youtubei.googleapis.com/*
@@ -42194,6 +42201,7 @@
 *://*.yt.drgnz.club/*
 *://*.yt.yoc.ovh/*
 *://*.yt3.ggpht.com/*
+*://*.yt4.ggpht.com/*
 *://*.ytcs.pirat.one/*
 *://*.ytgram.ru/*
 *://*.ytimg.com/*
@@ -42773,4 +42781,4 @@
 *://*.zzztube.com/*
 *://*.zzztube.tv/*
 #END
-# Generated on 2025-02-11 01:39:53
+# Generated on 2025-02-12 01:40:06

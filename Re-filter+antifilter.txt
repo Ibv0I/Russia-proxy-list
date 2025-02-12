@@ -51,7 +51,6 @@
 *://*.alice-vpn.com/*
 *://*.allrus.news/*
 *://*.allthefallen.moe/*
-*://*.alqassam.ps/*
 *://*.americannaziparty.com/*
 *://*.amnesty.org/*
 *://*.amnesty.org.ru/*
@@ -117,6 +116,7 @@
 *://*.babook.org/*
 *://*.backstage-api.com/*
 *://*.baikal-journal.ru/*
+*://*.bankir.ru/*
 *://*.bard.google.com/*
 *://*.baskino.me/*
 *://*.bbc.co.uk/*
@@ -133,10 +133,12 @@
 *://*.betfair.com/*
 *://*.betternet.co/*
 *://*.beyondexgay.com/*
+*://*.biglion.ru/*
 *://*.bing-amp.com/*
 *://*.bitbucket.org/*
 *://*.bitchute.com/*
 *://*.bitcoin.org/*
+*://*.bitcoin.sipa.be/*
 *://*.bitfinex.com/*
 *://*.bitru.org/*
 *://*.bittornado.com/*
@@ -146,11 +148,11 @@
 *://*.blackseango.org/*
 *://*.blackseatv.com/*
 *://*.blancvpn.com/*
+*://*.blockdx.co/*
 *://*.blog.business.instagram.com/*
 *://*.blog.instagram.com/*
 *://*.blogs.voanews.com/*
 *://*.bluehost.com/*
-*://*.bogus.d2a8n1.rootcanary.net/*
 *://*.boingboing.net/*
 *://*.bok-o-bok.com/*
 *://*.bonprix.ru/*
@@ -159,15 +161,18 @@
 *://*.bosch-home.com/*
 *://*.bradyid.com/*
 *://*.bravoporn.com/*
+*://*.breached.vc/*
 *://*.briarproject.org/*
 *://*.bridges.torproject.org/*
 *://*.browsec.com/*
+*://*.bs2best.at/*
 *://*.bt.t-ru.org/*
 *://*.bt2.t-ru.org/*
 *://*.bt3.t-ru.org/*
 *://*.bt4.t-ru.org/*
 *://*.builds.parsec.app/*
 *://*.bungiestore.com/*
+*://*.business-gazeta.ru/*
 *://*.business.instagram.com/*
 *://*.cactusvpn.com/*
 *://*.canva.com/*
@@ -175,6 +180,7 @@
 *://*.casino.com/*
 *://*.casinotropez.com/*
 *://*.caucasustimes.com/*
+*://*.ccel.org/*
 *://*.cdn-client.medium.com/*
 *://*.cdn.betterttv.net/*
 *://*.cdn.fbsbx.com/*
@@ -185,7 +191,6 @@
 *://*.censor.net.ua/*
 *://*.censorship.no/*
 *://*.censortracker.org/*
-*://*.centcom.mil/*
 *://*.centre1.com/*
 *://*.certifytheweb.com/*
 *://*.ceskatelevize.cz/*
@@ -200,7 +205,6 @@
 *://*.chronicles.media/*
 *://*.church.ua/*
 *://*.cia.gov/*
-*://*.cis.minsk.by/*
 *://*.cisco.com/*
 *://*.citrix.com/*
 *://*.clamav.net/*
@@ -251,6 +255,7 @@
 *://*.deviantart.com/*
 *://*.devops.com/*
 *://*.dialog.ua/*
+*://*.diary.ru/*
 *://*.diena.lv/*
 *://*.digi24.ro/*
 *://*.digitalocean.com/*
@@ -288,12 +293,12 @@
 *://*.docs.redis.com/*
 *://*.doctorvic.ru/*
 *://*.documentation.meraki.com/*
-*://*.dodmayak.ru/*
 *://*.doh-fi.blahdns.com/*
 *://*.doh.centraleu.pi-dns.com/*
 *://*.donbass.ua/*
 *://*.donpress.com/*
 *://*.doovi.com/*
+*://*.doski.ru/*
 *://*.dossier.center/*
 *://*.doubleclick.net/*
 *://*.dovod.online/*
@@ -306,7 +311,6 @@
 *://*.dreamhost.com/*
 *://*.dron.media/*
 *://*.drugs-forum.com/*
-*://*.drugsdata.org/*
 *://*.dsau.dp.ua/*
 *://*.dual-a-0001.a-msedge.net/*
 *://*.dw.com/*
@@ -326,7 +330,6 @@
 *://*.ehorussia.com/*
 *://*.ej.ru/*
 *://*.ekhokavkaza.com/*
-*://*.elhosting.ru/*
 *://*.elmundo.es/*
 *://*.elpais.com/*
 *://*.envato.com/*
@@ -356,7 +359,6 @@
 *://*.eztv.ag/*
 *://*.eztv.re/*
 *://*.f95zone.to/*
-*://*.fabricmc.net/*
 *://*.facebook.com/*
 *://*.factograph.info/*
 *://*.fakty.ua/*
@@ -396,8 +398,6 @@
 *://*.freemedia.io/*
 *://*.freevpnplanet.com/*
 *://*.fri-gate.org/*
-*://*.fridaysforfuture.org/*
-*://*.frontlineaids.org/*
 *://*.fw-download.ubnt.com/*
 *://*.fw-update.ubnt.com/*
 *://*.g2a.com/*
@@ -406,6 +406,7 @@
 *://*.gambling.com/*
 *://*.game.brawlstarsgame.com/*
 *://*.gateway.discord.gg/*
+*://*.gay.com/*
 *://*.gaycity.love/*
 *://*.gazeta.ua/*
 *://*.geni.us/*
@@ -413,6 +414,7 @@
 *://*.getlantern.org/*
 *://*.getoutline.org/*
 *://*.ggpht.com/*
+*://*.giters.com/*
 *://*.gitlab.io/*
 *://*.glasnaya.media/*
 *://*.glavcom.ua/*
@@ -423,6 +425,8 @@
 *://*.glil.org/*
 *://*.gllto.glpals.com/*
 *://*.globalgiving.org/*
+*://*.globalpressjournal.com/*
+*://*.globet.com/*
 *://*.gnome-look.org/*
 *://*.godaddy.com/*
 *://*.golbis.com/*
@@ -486,8 +490,8 @@
 *://*.hyperlapse.instagram.com/*
 *://*.i.gr-assets.com/*
 *://*.i.instagram.com/*
-*://*.i2p2.de/*
-*://*.ia801908.us.archive.org/*
+*://*.i.ytimg.com/*
+*://*.i2pforum.net/*
 *://*.ichef.bbci.co.uk/*
 *://*.ichkeria.info/*
 *://*.id.cisco.com/*
@@ -498,6 +502,7 @@
 *://*.ikhwanonline.com/*
 *://*.iltalehti.fi/*
 *://*.image.tmdb.org/*
+*://*.imagefap.com/*
 *://*.images.discordapp.net/*
 *://*.images.instagram.com/*
 *://*.imrussia.org/*
@@ -506,6 +511,7 @@
 *://*.inforeactor.ru/*
 *://*.information.dk/*
 *://*.informator.ua/*
+*://*.insecure.org/*
 *://*.instagram.com/*
 *://*.instagram.fhrk1-1.fna.fbcdn.net/*
 *://*.instagram.fkun2-1.fna.fbcdn.net/*
@@ -521,11 +527,11 @@
 *://*.ipvnews.org/*
 *://*.irishtimes.com/*
 *://*.is.fi/*
+*://*.isaalmasih.net/*
 *://*.islamdoor.com/*
 *://*.island-of-pleasure.site/*
 *://*.istories.media/*
 *://*.itarmy.com.ua/*
-*://*.itblogs.ru/*
 *://*.itgetsbetter.org/*
 *://*.itsmycity.ru/*
 *://*.jackpotcitycasino1.com/*
@@ -533,7 +539,6 @@
 *://*.jpgazeta.ru/*
 *://*.jsf.mil/*
 *://*.jut.su/*
-*://*.jw.org/*
 *://*.kabobfest.com/*
 *://*.kafanews.com/*
 *://*.kamatera.com/*
@@ -567,6 +572,7 @@
 *://*.knews.kg/*
 *://*.kolezev.ru/*
 *://*.korrespondent.net/*
+*://*.kosa.media/*
 *://*.kpapp.link/*
 *://*.krymsos.com/*
 *://*.kuzpress.ru/*
@@ -588,11 +594,13 @@
 *://*.lgbtru.com/*
 *://*.lib.rus.ec/*
 *://*.liberation.fr/*
+*://*.libgen.fun/*
 *://*.libgen.is/*
 *://*.libgen.lc/*
 *://*.libgen.life/*
 *://*.libgen.me/*
 *://*.libgen.rs/*
+*://*.libgen.space/*
 *://*.liga.net/*
 *://*.limetorrents.lol/*
 *://*.limetorrents.pro/*
@@ -601,6 +609,7 @@
 *://*.linktr.ee/*
 *://*.linuxiac.com/*
 *://*.listock.ru/*
+*://*.livemy.info/*
 *://*.liveuamap.com/*
 *://*.localbitcoins.com/*
 *://*.login.amd.com/*
@@ -622,6 +631,7 @@
 *://*.maltatoday.com.mt/*
 *://*.malwarebytes.com/*
 *://*.manas.news/*
+*://*.mangamammy.ru/*
 *://*.maps.instagram.com/*
 *://*.marketplace.atlassian.com/*
 *://*.marxist.news/*
@@ -656,7 +666,6 @@
 *://*.megatv.com/*
 *://*.memohrc.org/*
 *://*.messenger.com/*
-*://*.meta.com/*
 *://*.metacritic.com/*
 *://*.metal-archives.com/*
 *://*.meteo.paraplan.net/*
@@ -682,15 +691,16 @@
 *://*.myc.news/*
 *://*.myworld-portal.leica-geosystems.com/*
 *://*.narkotiki.ru/*
+*://*.nash-sever.info/*
 *://*.nashaniva.com/*
 *://*.nasvsehtoshnit.ru/*
 *://*.nation-news.ru/*
 *://*.navalny.com/*
 *://*.navi.gg/*
-*://*.navy.mil/*
 *://*.nazarene.org/*
 *://*.ndi.org/*
 *://*.ned.org/*
+*://*.netaddress.com/*
 *://*.netapp.com/*
 *://*.netflix.com/*
 *://*.netmap.su/*
@@ -707,9 +717,9 @@
 *://*.newtimes.ru/*
 *://*.newvz.ru/*
 *://*.nextmail.ru/*
-*://*.nhentai.to/*
 *://*.nih.gov/*
 *://*.nikk.agency/*
+*://*.nmap.org/*
 *://*.nnmclub.to/*
 *://*.noblockme.ru/*
 *://*.nomer-org.website/*
@@ -747,7 +757,6 @@
 *://*.oic-oci.org/*
 *://*.omsk.com/*
 *://*.omv-extras.org/*
-*://*.omvesti.ru/*
 *://*.on-instant.com/*
 *://*.onderzine.com/*
 *://*.onlinegambling.com/*
@@ -773,7 +782,6 @@
 *://*.ovdinfo.org/*
 *://*.oxu.az/*
 *://*.packages.gitlab.com/*
-*://*.pacom.mil/*
 *://*.pandasecurity.com/*
 *://*.pap.pl/*
 *://*.paperpaper.io/*
@@ -784,7 +792,6 @@
 *://*.partypoker.net/*
 *://*.path3.xtracloud.net/*
 *://*.patreon.com/*
-*://*.pay.0x00dev.com/*
 *://*.pay.buckaroo.nl/*
 *://*.paypal.com/*
 *://*.pb.wtf/*
@@ -826,6 +833,7 @@
 *://*.privatevpn.com/*
 *://*.production-openaicom-storage.azureedge.net/*
 *://*.proekt.media/*
+*://*.professionali.ru/*
 *://*.propastop.org/*
 *://*.prosleduet.media/*
 *://*.protokol.band/*
@@ -849,7 +857,6 @@
 *://*.putinbog.wordpress.com/*
 *://*.qha.com.ua/*
 *://*.qip.ru/*
-*://*.quantico.marines.mil/*
 *://*.queerfest.ru/*
 *://*.queernet.org/*
 *://*.quora.com/*
@@ -892,9 +899,8 @@
 *://*.risk-inform.ru/*
 *://*.riverbelle.com/*
 *://*.romb.tv/*
-*://*.root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/*
-*://*.root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/*
 *://*.rosdep.org/*
+*://*.roskomsvoboda.org/*
 *://*.royalvegas.com/*
 *://*.rpm.grafana.com/*
 *://*.rsf.org/*
@@ -908,7 +914,9 @@
 *://*.ru.euronews.com/*
 *://*.ru.iherb.com/*
 *://*.ru.krymr.com/*
+*://*.ru.onlinecasinos5.ru/*
 *://*.ru.oxu.az/*
+*://*.ru.wukihow.com/*
 *://*.rueconomics.ru/*
 *://*.rumble.com/*
 *://*.rureporter.com/*
@@ -942,6 +950,7 @@
 *://*.search.com/*
 *://*.searchfloor.org/*
 *://*.sebeanus.online/*
+*://*.seclists.org/*
 *://*.secure-web.cisco.com/*
 *://*.secure.avaaz.org/*
 *://*.seedoff.zannn.top/*
@@ -982,16 +991,17 @@
 *://*.sotaproject.com/*
 *://*.sotnik-tv.com/*
 *://*.soundcloud.com/*
-*://*.southcom.mil/*
+*://*.sova-center.ru/*
 *://*.sovanews.tv/*
 *://*.speeddater.co.uk/*
 *://*.spektr.press/*
-*://*.spideroak.com/*
 *://*.spiegel.de/*
 *://*.spinpalace.com/*
 *://*.sportingbet.com/*
 *://*.sportsinteraction.com/*
 *://*.spotify.com/*
+*://*.spr.ru/*
+*://*.sprashivai.ru/*
 *://*.spring96.org/*
 *://*.sprotyv.info/*
 *://*.sputnikipogrom.com/*
@@ -1008,13 +1018,13 @@
 *://*.staticxx.facebook.com/*
 *://*.status.discord.com/*
 *://*.status.discordapp.com/*
+*://*.stealthchat.com/*
 *://*.stepanov2021.org/*
 *://*.stirileprotv.ro/*
 *://*.stockx.com/*
 *://*.stopfake.org/*
 *://*.story.te-st.org/*
 *://*.strana.ru/*
-*://*.stratcom.mil/*
 *://*.strava.com/*
 *://*.stream.voidboost.cc/*
 *://*.streamable.com/*
@@ -1042,7 +1052,6 @@
 *://*.teachers-union.ru/*
 *://*.team29.org/*
 *://*.technorati.com/*
-*://*.teenhealthfx.com/*
 *://*.telegraf.com.ua/*
 *://*.telegraph.co.uk/*
 *://*.terraform.io/*
@@ -1069,6 +1078,7 @@
 *://*.tochka.net/*
 *://*.tokenized.play.google.com/*
 *://*.tools.cisco.com/*
+*://*.top.jdu.ru/*
 *://*.tor.eff.org/*
 *://*.torontovka.com/*
 *://*.torproject.org/*
@@ -1118,18 +1128,15 @@
 *://*.upogau.org/*
 *://*.urduvoa.com/*
 *://*.usa.one/*
-*://*.usafa.af.mil/*
-*://*.uscg.mil/*
 *://*.use-application-dns.net/*
 *://*.usrf.us/*
 *://*.ust-kut24.com/*
 *://*.utro02.tv/*
-*://*.uzmovi.com/*
+*://*.vanguardnewsnetwork.com/*
 *://*.vector.im/*
 *://*.vectorworks.net/*
 *://*.veeam.com/*
 *://*.velocidrone.com/*
-*://*.veoh.com/*
 *://*.veritas.com/*
 *://*.versia.ru/*
 *://*.verstka.media/*
@@ -1143,6 +1150,7 @@
 *://*.visaginas.lt/*
 *://*.vitaportal.ru/*
 *://*.vitk.com.ua/*
+*://*.vkrugudruzei.ru/*
 *://*.vlasti.net/*
 *://*.voanews.com/*
 *://*.vot-tak.tv/*
@@ -1221,12 +1229,12 @@
 *://*.xvideos.com/*
 *://*.y2mate.com/*
 *://*.yle.fi/*
+*://*.yotube.com/*
 *://*.youporn.com/*
 *://*.youtube-nocookie.com/*
 *://*.youtube-ui.l.google.com/*
 *://*.youtube.com/*
 *://*.youtube.googleapis.com/*
-*://*.youtube.ru/*
 *://*.youtube.video.az/*
 *://*.youtubeembeddedplayer.googleapis.com/*
 *://*.youtubei.googleapis.com/*
@@ -1234,6 +1242,7 @@
 *://*.yt-video-upload.l.google.com/*
 *://*.yt.be/*
 *://*.yt3.ggpht.com/*
+*://*.yt4.ggpht.com/*
 *://*.ytimg.com/*
 *://*.yummyanime.org/*
 *://*.zaprava.ru/*
@@ -1247,4 +1256,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-02-11 01:39:53
+# Generated on: 2025-02-12 01:40:07
