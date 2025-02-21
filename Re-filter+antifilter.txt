@@ -129,7 +129,6 @@
 *://*.belsat.eu/*
 *://*.belsat.pl/*
 *://*.berlingske.dk/*
-*://*.bestchange.ru/*
 *://*.betfair.com/*
 *://*.betternet.co/*
 *://*.beyondexgay.com/*
@@ -1257,4 +1256,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-02-20 01:41:25
+# Generated on: 2025-02-21 01:41:36
