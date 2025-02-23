@@ -1218,6 +1218,7 @@
 *://*.www.wikiart.org/*
 *://*.www.wunderground.com/*
 *://*.www.youtube.com/*
+*://*.x.ai/*
 *://*.x.com/*
 *://*.xanga.com/*
 *://*.xerox.com/*
@@ -1256,4 +1257,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-02-22 01:38:08
+# Generated on: 2025-02-23 01:46:46
