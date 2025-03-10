@@ -60,6 +60,7 @@
 *://*.animedub.ru/*
 *://*.animego.watch/*
 *://*.animelib.me/*
+*://*.animestars.org/*
 *://*.animevost.tv/*
 *://*.anonymizer.ru/*
 *://*.anonymouse.org/*
@@ -1257,4 +1258,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-03-09 01:24:18
+# Generated on: 2025-03-10 01:22:02
