@@ -1230,6 +1230,7 @@
 *://*.xroxy.com/*
 *://*.xvideos.com/*
 *://*.y2mate.com/*
+*://*.yeggi.com/*
 *://*.yle.fi/*
 *://*.yotube.com/*
 *://*.youporn.com/*
@@ -1258,4 +1259,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-03-13 01:46:24
+# Generated on: 2025-03-14 01:44:26
