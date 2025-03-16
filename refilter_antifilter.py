@@ -4,7 +4,8 @@ from datetime import datetime
 # URLs для скачивания списков
 url_ooni = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"  # URL ooni списка
 url_community = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"  # URL community списка
-url_antifilter = "https://community.antifilter.download/list/domains.lst"  # URL списка antifilter 
+url_antifilter = "https://community.antifilter.download/list/domains.lst"  # URL списка antifilter
+url_additional = "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst"  # URL itdog russsia
 
 # Имя итогового файла
 output_file = "Re-filter+antifilter.txt"
@@ -32,25 +33,27 @@ def save_to_file(filename, data):
             file.write(line + "\n")
     print(f"Итоговый список сохранён в {filename}")
 
-def process_and_refilter(url1, url2, url3, output_file):
+def process_and_refilter(url1, url2, url3, url4, output_file):
     """Скачивает, обрабатывает списки и сохраняет результат."""
     # Скачиваем списки
     ooni_list = download_list(url1)
     community_list = download_list(url2)
     antifilter_list = download_list(url3)
-
+    additional_list = download_list(url4)
+    
     # Извлекаем домены из всех списков
     ooni_domains = extract_domains(ooni_list)
     community_domains = extract_domains(community_list)
     antifilter_domains = extract_domains(antifilter_list)
-
+    additional_domains = extract_domains(additional_list)
+    
     # Создаем общий список доменов, убирая дубликаты
-    all_domains = ooni_domains.union(community_domains).union(antifilter_domains)
+    all_domains = ooni_domains.union(community_domains).union(antifilter_domains).union(additional_domains)
     print(f"Объединено {len(all_domains)} уникальных доменов.")
-
+    
     # Форматируем данные для SwitchyOmega
     formatted_domains = [f"*://*.{domain}/*" for domain in sorted(all_domains)]
-
+    
     # Добавляем дату и время составления списка
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     
@@ -63,9 +66,9 @@ def process_and_refilter(url1, url2, url3, output_file):
         "#END",
         f"# Generated on: {current_time}"  # Время составления списка в конце
     ]
-
+    
     # Сохраняем итоговый список
     save_to_file(output_file, final_output)
 
 if __name__ == "__main__":
-    process_and_refilter(url_ooni, url_community, url_antifilter, output_file)
+    process_and_refilter(url_ooni, url_community, url_antifilter, url_additional, output_file)
