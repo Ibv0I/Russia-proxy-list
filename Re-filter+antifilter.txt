@@ -215,6 +215,8 @@
 *://*.bonprix.ru/*
 *://*.booktracker.org/*
 *://*.boosteroid.com/*
+*://*.booth.pm/*
+*://*.booth.pximg.net/*
 *://*.bosch-home.com/*
 *://*.botnadzor.org/*
 *://*.bradyid.com/*
@@ -972,6 +974,7 @@
 *://*.moz.gov.ua/*
 *://*.mp3.com/*
 *://*.mrakopedia.net/*
+*://*.mssg.me/*
 *://*.mullvad.net/*
 *://*.multporn.net/*
 *://*.muscdn.com/*
@@ -982,6 +985,7 @@
 *://*.my.atlassian.com/*
 *://*.myc.news/*
 *://*.mydoramy.club/*
+*://*.myheritage.com/*
 *://*.myjetbrains.com/*
 *://*.myworld-portal.leica-geosystems.com/*
 *://*.narkotiki.ru/*
@@ -1361,6 +1365,7 @@
 *://*.saverudata.online/*
 *://*.schwingen.net/*
 *://*.sci-hub.se/*
+*://*.sci-hub.st/*
 *://*.scontent-ams4-1.cdninstagram.com/*
 *://*.scontent-vie1-1.cdninstagram.com/*
 *://*.scontent.cdninstagram.com/*
@@ -1834,4 +1839,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-03-23 01:53:06
+# Generated on: 2025-03-24 01:50:56
