@@ -38,6 +38,7 @@
 *://*.account.proton.me/*
 *://*.account.protonmail.com/*
 *://*.accounts.spotify.com/*
+*://*.accounts.supercell.com/*
 *://*.activatica.org/*
 *://*.ad.nl/*
 *://*.adguard-vpn.com/*
@@ -1002,7 +1003,6 @@
 *://*.neformat.com.ua/*
 *://*.neo4j.com/*
 *://*.netaddress.com/*
-*://*.netapp.com/*
 *://*.netflix.ca/*
 *://*.netflix.com/*
 *://*.netflix.net/*
@@ -1486,6 +1486,7 @@
 *://*.stirileprotv.ro/*
 *://*.stockx.com/*
 *://*.stopfake.org/*
+*://*.store.supercell.com/*
 *://*.story.te-st.org/*
 *://*.strana.news/*
 *://*.strana.ru/*
@@ -1839,4 +1840,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-04-02 01:49:51
+# Generated on: 2025-04-03 01:48:15
