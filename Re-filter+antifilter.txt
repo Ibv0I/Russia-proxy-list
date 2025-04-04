@@ -247,6 +247,7 @@
 *://*.cactusvpn.com/*
 *://*.canva.com/*
 *://*.canva.dev/*
+*://*.capacitorjs.com/*
 *://*.capcut.com/*
 *://*.carnegieendowment.org/*
 *://*.carrefouruae.com/*
@@ -258,7 +259,6 @@
 *://*.cbilling.vip/*
 *://*.ccel.org/*
 *://*.cdn-client.medium.com/*
-*://*.cdn-telegram.org/*
 *://*.cdn.betterttv.net/*
 *://*.cdn.fbsbx.com/*
 *://*.cdn.id.supercell.com/*
@@ -296,6 +296,7 @@
 *://*.clashroyaleapp.com/*
 *://*.claude.ai/*
 *://*.clickup.com/*
+*://*.clip.opus.pro/*
 *://*.cloud.mongodb.com/*
 *://*.cloudflare-dns.com/*
 *://*.cloudflare-ech.com/*
@@ -311,13 +312,11 @@
 *://*.coldfilm.xyz/*
 *://*.colta.ru/*
 *://*.com.cy/*
-*://*.comments.app/*
 *://*.community.cisco.com/*
 *://*.community.instagram.com/*
 *://*.community.sophos.com/*
 *://*.compromat.ru/*
 *://*.contabo.com/*
-*://*.contest.com/*
 *://*.cool.bbsgayru17.com/*
 *://*.coomer.su/*
 *://*.copilot-proxy.githubusercontent.com/*
@@ -559,7 +558,6 @@
 *://*.forum.torproject.org/*
 *://*.forum.voynaplemyon.com/*
 *://*.foxnews.com/*
-*://*.fragment.com/*
 *://*.framer.com/*
 *://*.frant.me/*
 *://*.frc.org/*
@@ -640,7 +638,6 @@
 *://*.grand-casino0.com/*
 *://*.grani.ru/*
 *://*.graniru.org/*
-*://*.graph.org/*
 *://*.graty.me/*
 *://*.graylog.org/*
 *://*.grazie.ai/*
@@ -1240,7 +1237,6 @@
 *://*.queerfest.ru/*
 *://*.queernet.org/*
 *://*.quickconnect.to/*
-*://*.quiz.directory/*
 *://*.quora.com/*
 *://*.quora.com.cdn.cloudflare.net/*
 *://*.r4.err.ee/*
@@ -1289,6 +1285,7 @@
 *://*.research.net/*
 *://*.resp.app/*
 *://*.returnyoutubedislikeapi.com/*
+*://*.reve.art/*
 *://*.rezka.ag/*
 *://*.rezka.my/*
 *://*.rezkify.com/*
@@ -1519,37 +1516,26 @@
 *://*.sysdig.com/*
 *://*.systranbox.com/*
 *://*.t.co/*
-*://*.t.me/*
 *://*.tableau.com/*
 *://*.tailscale.com/*
 *://*.talosintelligence.com/*
 *://*.tayga.info/*
 *://*.tcr9i.chat.openai.com/*
-*://*.tdesktop.com/*
 *://*.te-st.org/*
 *://*.teachers-union.ru/*
 *://*.team29.org/*
 *://*.teamviewer.com/*
 *://*.technorati.com/*
-*://*.telega.one/*
-*://*.telegra.ph/*
 *://*.telegraf.by/*
 *://*.telegraf.com.ua/*
 *://*.telegraf.news/*
-*://*.telegram-cdn.org/*
-*://*.telegram.dog/*
-*://*.telegram.me/*
-*://*.telegram.org/*
-*://*.telegram.space/*
 *://*.telegraph.co.uk/*
 *://*.telemetr.io/*
-*://*.telesco.pe/*
 *://*.tellapart.com/*
 *://*.tempmail.plus/*
 *://*.temu.com/*
 *://*.terraform.io/*
 *://*.tf1info.fr/*
-*://*.tg.dev/*
 *://*.the-village.ru/*
 *://*.theaudiodb.com/*
 *://*.thebarentsobserver.com/*
@@ -1637,7 +1623,6 @@
 *://*.twttr.com/*
 *://*.twttr.net/*
 *://*.twvid.com/*
-*://*.tx.me/*
 *://*.typing.com/*
 *://*.ua.korrespondent.net/*
 *://*.ua.krymr.com/*
@@ -1673,7 +1658,6 @@
 *://*.urduvoa.com/*
 *://*.usa.one/*
 *://*.use-application-dns.net/*
-*://*.usercontent.dev/*
 *://*.usrf.us/*
 *://*.ust-kut24.com/*
 *://*.utro02.tv/*
@@ -1840,4 +1824,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-04-03 01:48:15
+# Generated on: 2025-04-04 01:48:17
