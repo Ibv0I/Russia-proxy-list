@@ -1000,6 +1000,7 @@
 *://*.neformat.com.ua/*
 *://*.neo4j.com/*
 *://*.netaddress.com/*
+*://*.netapp.com/*
 *://*.netflix.ca/*
 *://*.netflix.com/*
 *://*.netflix.net/*
@@ -1824,4 +1825,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-04-08 01:49:01
+# Generated on: 2025-04-09 01:49:10
