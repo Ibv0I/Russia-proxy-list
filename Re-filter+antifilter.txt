@@ -448,6 +448,7 @@
 *://*.dovod.online/*
 *://*.download.jetbrains.com/*
 *://*.download.lenovo.com/*
+*://*.download.qt.io/*
 *://*.download.screamingfrog.co.uk/*
 *://*.download.wetransfer.com/*
 *://*.download3.omnissa.com/*
@@ -1851,4 +1852,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-04-16 01:52:22
+# Generated on: 2025-04-17 01:50:31
