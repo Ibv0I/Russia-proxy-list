@@ -603,6 +603,7 @@
 *://*.gaycity.love/*
 *://*.gazeta.ua/*
 *://*.gdb.rferl.org/*
+*://*.geekyfuroshiki.com/*
 *://*.geforcenow.com/*
 *://*.gelbooru.com/*
 *://*.gemini.google.com/*
@@ -1852,4 +1853,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-04-23 01:51:52
+# Generated on: 2025-04-24 01:52:29
