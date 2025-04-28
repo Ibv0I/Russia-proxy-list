@@ -1382,6 +1382,7 @@
 *://*.samesexmarriage.ca/*
 *://*.samizdatonline.org/*
 *://*.sap.com/*
+*://*.saveeditonline.com/*
 *://*.saverudata.info/*
 *://*.saverudata.net/*
 *://*.saverudata.online/*
@@ -1831,6 +1832,7 @@
 *://*.yt4.ggpht.com/*
 *://*.ytimg.com/*
 *://*.ytimg.l.google.com/*
+*://*.yting.com/*
 *://*.yummyani.me/*
 *://*.yummyanime.org/*
 *://*.z-lib.org/*
@@ -1853,4 +1855,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-04-27 01:57:40
+# Generated on: 2025-04-28 01:56:01
