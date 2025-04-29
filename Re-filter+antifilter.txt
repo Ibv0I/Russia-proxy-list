@@ -722,6 +722,7 @@
 *://*.hunafa.com/*
 *://*.hyperhost.ua/*
 *://*.hyperlapse.instagram.com/*
+*://*.i.4pda.ws/*
 *://*.i.gr-assets.com/*
 *://*.i.instagram.com/*
 *://*.i.sakh.com/*
@@ -1855,4 +1856,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-04-28 01:56:01
+# Generated on: 2025-04-29 01:53:35
