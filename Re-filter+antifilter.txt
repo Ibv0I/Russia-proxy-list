@@ -215,6 +215,7 @@
 *://*.bitdefender.com/*
 *://*.bitfinex.com/*
 *://*.bitmask.net/*
+*://*.bitnami.com/*
 *://*.bitru.org/*
 *://*.bittornado.com/*
 *://*.black.instagram.com/*
@@ -607,6 +608,7 @@
 *://*.geforcenow.com/*
 *://*.gelbooru.com/*
 *://*.gemini.google.com/*
+*://*.generativelanguage.googleapis.com/*
 *://*.geni.us/*
 *://*.genius.com/*
 *://*.geolocation.onetrust.com/*
@@ -854,6 +856,7 @@
 *://*.krymsos.com/*
 *://*.kupujemprodajem.com/*
 *://*.kuzpress.ru/*
+*://*.kym-cdn.com/*
 *://*.l.instagram.com/*
 *://*.la-croix.com/*
 *://*.la7.it/*
@@ -933,6 +936,7 @@
 *://*.mangadex.org/*
 *://*.mangahub.ru/*
 *://*.mangapark.net/*
+*://*.manus.im/*
 *://*.maps.instagram.com/*
 *://*.marketplace.atlassian.com/*
 *://*.marxist.news/*
@@ -1492,6 +1496,7 @@
 *://*.stable.dl2.discordapp.net/*
 *://*.stalker2.com/*
 *://*.startmail.com/*
+*://*.startpage.com/*
 *://*.static-ss.xvideos-cdn.com/*
 *://*.static.cdninstagram.com/*
 *://*.static.files.bbci.co.uk/*
@@ -1856,4 +1861,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-04-29 01:53:35
+# Generated on: 2025-04-30 01:53:14
