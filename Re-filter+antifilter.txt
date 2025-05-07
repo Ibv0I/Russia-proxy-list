@@ -500,6 +500,7 @@
 *://*.ertnews.gr/*
 *://*.espreso.tv/*
 *://*.etsy.com/*
+*://*.eu-iot-prod.aws.tcljd.com/*
 *://*.eu-objective.online/*
 *://*.euobserver.com/*
 *://*.eurasia.amnesty.org/*
@@ -1861,4 +1862,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-05-06 01:54:33
+# Generated on: 2025-05-07 01:55:15
