@@ -1192,6 +1192,7 @@
 *://*.pingdom.com/*
 *://*.pinknews.co.uk/*
 *://*.piratbit.top/*
+*://*.pixabay.com/*
 *://*.pixiv.net/*
 *://*.pkgs.tailscale.com/*
 *://*.plab.site/*
@@ -1862,4 +1863,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-05-07 01:55:15
+# Generated on: 2025-05-08 01:55:57
