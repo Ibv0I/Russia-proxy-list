@@ -125,6 +125,7 @@
 *://*.api.githubcopilot.com/*
 *://*.api.home-connect.com/*
 *://*.api.instagram.com/*
+*://*.api.jetbrains.ai/*
 *://*.api.openai.com/*
 *://*.api.protonmail.ch/*
 *://*.api.protonvpn.ch/*
@@ -656,6 +657,7 @@
 *://*.gordonua.com/*
 *://*.gotgayporn.com/*
 *://*.gpsonextra.net/*
+*://*.gpu-monkey.com/*
 *://*.gr-assets.com/*
 *://*.grafana.com/*
 *://*.grammarly.com/*
@@ -684,6 +686,7 @@
 *://*.hashicorp.com/*
 *://*.hath.network/*
 *://*.hbomax.com/*
+*://*.hd-rezka.tv/*
 *://*.hd.zetfix.online/*
 *://*.hdkinoteatr.com/*
 *://*.hdrezka.ac/*
@@ -1548,6 +1551,7 @@
 *://*.sydney.bing.com/*
 *://*.synoforum.com/*
 *://*.sysdig.com/*
+*://*.t-invariant.org/*
 *://*.t.co/*
 *://*.t3.chat/*
 *://*.tableau.com/*
@@ -1816,11 +1820,16 @@
 *://*.xgay.ru/*
 *://*.xhamster.com/*
 *://*.xhamsterlive.com/*
+*://*.xnxx-cdn.com/*
 *://*.xnxx.com/*
+*://*.xnxx.net/*
+*://*.xnxx.tv/*
+*://*.xnxx3.com/*
 *://*.xroxy.com/*
 *://*.xsts.auth.xboxlive.com/*
 *://*.xtracloud.net/*
 *://*.xv-ru.com/*
+*://*.xvideos-cdn.com/*
 *://*.xvideos.com/*
 *://*.y2mate.com/*
 *://*.yeggi.com/*
@@ -1863,4 +1872,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-05-11 02:01:01
+# Generated on: 2025-05-12 01:59:09
