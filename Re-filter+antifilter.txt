@@ -1330,6 +1330,7 @@
 *://*.rferl.org/*
 *://*.rfi.fr/*
 *://*.riafan.ru/*
+*://*.ridl.io/*
 *://*.riperam.org/*
 *://*.riseup.net/*
 *://*.risk-inform.ru/*
@@ -1872,4 +1873,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-05-12 01:59:09
+# Generated on: 2025-05-13 01:56:39
