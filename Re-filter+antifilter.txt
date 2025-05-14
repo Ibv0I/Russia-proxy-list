@@ -610,7 +610,6 @@
 *://*.geforcenow.com/*
 *://*.gelbooru.com/*
 *://*.gemini.google.com/*
-*://*.generativelanguage.googleapis.com/*
 *://*.geni.us/*
 *://*.genius.com/*
 *://*.geolocation.onetrust.com/*
@@ -1700,6 +1699,7 @@
 *://*.upwork.com/*
 *://*.urduvoa.com/*
 *://*.usa.one/*
+*://*.usatoday.com/*
 *://*.use-application-dns.net/*
 *://*.usrf.us/*
 *://*.ust-kut24.com/*
@@ -1873,4 +1873,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-05-13 01:56:39
+# Generated on: 2025-05-14 01:55:21
