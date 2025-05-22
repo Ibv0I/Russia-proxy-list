@@ -690,6 +690,7 @@
 *://*.hdkinoteatr.com/*
 *://*.hdrezka.ac/*
 *://*.hdrezka.ag/*
+*://*.hdrezka.fm/*
 *://*.hdrezka.me/*
 *://*.healthline.com/*
 *://*.helm.releases.hashicorp.com/*
@@ -1873,4 +1874,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-05-21 01:56:51
+# Generated on: 2025-05-22 01:56:22
