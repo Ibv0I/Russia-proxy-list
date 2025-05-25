@@ -153,6 +153,7 @@
 *://*.archive.is/*
 *://*.archive.ph/*
 *://*.archiveofourown.org/*
+*://*.arm.com/*
 *://*.army.mil/*
 *://*.arte.tv/*
 *://*.article19.org/*
@@ -1874,4 +1875,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-05-24 01:52:07
+# Generated on: 2025-05-25 02:05:13
