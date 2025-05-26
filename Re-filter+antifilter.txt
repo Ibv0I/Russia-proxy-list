@@ -93,6 +93,7 @@
 *://*.amnesty.org/*
 *://*.amnesty.org.ru/*
 *://*.amnezia.org/*
+*://*.amplitude.com/*
 *://*.amx.com/*
 *://*.analog.com/*
 *://*.anidub.com/*
@@ -399,6 +400,7 @@
 *://*.dia.mil/*
 *://*.dialog.ua/*
 *://*.diena.lv/*
+*://*.digash.live/*
 *://*.digi24.ro/*
 *://*.digikey.com/*
 *://*.digitalcontent.sky/*
@@ -606,7 +608,6 @@
 *://*.gay.com/*
 *://*.gaycity.love/*
 *://*.gazeta.ua/*
-*://*.gdb.rferl.org/*
 *://*.geekyfuroshiki.com/*
 *://*.geforcenow.com/*
 *://*.gelbooru.com/*
@@ -872,6 +873,7 @@
 *://*.lastampa.it/*
 *://*.lb.ua/*
 *://*.ldoceonline.com/*
+*://*.le-production.tv/*
 *://*.leafletjs.com/*
 *://*.lemonde.fr/*
 *://*.lenovo.com/*
@@ -1184,12 +1186,14 @@
 *://*.pcmag.com/*
 *://*.pdq.com/*
 *://*.peaceplea.org/*
+*://*.pepperl-fuchs.com/*
 *://*.periscope.tv/*
 *://*.pexels.com/*
 *://*.pflag.org/*
 *://*.phenoelit.org/*
 *://*.phncdn.com/*
 *://*.phncdn.com.sds.rncdn7.com/*
+*://*.phoenixcontact.com/*
 *://*.php.su/*
 *://*.piccy.info/*
 *://*.pimpletv.ru/*
@@ -1323,6 +1327,7 @@
 *://*.resp.app/*
 *://*.returnyoutubedislikeapi.com/*
 *://*.reve.art/*
+*://*.rezka-ua.in/*
 *://*.rezka.ag/*
 *://*.rezka.my/*
 *://*.rezkify.com/*
@@ -1357,6 +1362,7 @@
 *://*.rublacklist.net/*
 *://*.rueconomics.ru/*
 *://*.rule34.art/*
+*://*.rule34.xxx/*
 *://*.rumble.com/*
 *://*.rureporter.com/*
 *://*.rus-media.org/*
@@ -1485,6 +1491,7 @@
 *://*.spacelift.io/*
 *://*.speeddater.co.uk/*
 *://*.spektr.press/*
+*://*.spiceworks.com/*
 *://*.spiegel.de/*
 *://*.spinpalace.com/*
 *://*.spitfireaudio.com/*
@@ -1633,6 +1640,7 @@
 *://*.trellix.com/*
 *://*.trueblackmetalradio.com/*
 *://*.trust.zone/*
+*://*.truthsocial.com/*
 *://*.trv-science.org/*
 *://*.tsmc.com/*
 *://*.tsn.ua/*
@@ -1773,6 +1781,7 @@
 *://*.wilsoncenter.org/*
 *://*.windguru.cz/*
 *://*.windows10spotlight.com/*
+*://*.windsurf.com/*
 *://*.wise.com/*
 *://*.wixmp.com/*
 *://*.wonderzine.com/*
@@ -1875,4 +1884,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-05-25 02:05:13
+# Generated on: 2025-05-26 02:00:01
