@@ -824,4 +824,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on 2025-06-09 02:04:40
+# Generated on 2025-06-10 02:01:00
