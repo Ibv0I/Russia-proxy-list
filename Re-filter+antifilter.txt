@@ -1858,6 +1858,7 @@
 *://*.yt-video-upload.l.google.com/*
 *://*.yt.be/*
 *://*.yt3.ggpht.com/*
+*://*.yt3.googleusercontent.com/*
 *://*.yt4.ggpht.com/*
 *://*.ytimg.com/*
 *://*.ytimg.l.google.com/*
@@ -1884,4 +1885,4 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Generated on: 2025-06-11 01:59:47
+# Generated on: 2025-06-12 01:58:31
