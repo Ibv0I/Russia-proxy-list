@@ -17,6 +17,7 @@
 *://*.4freerussia.org/*
 *://*.4pda.ru/*
 *://*.4pda.to/*
+*://*.4pda.ws/*
 *://*.4pna.com/*
 *://*.5.ua/*
 *://*.5sim.net/*
@@ -95,8 +96,10 @@
 *://*.amx.com/*
 *://*.analog.com/*
 *://*.anidub.com/*
+*://*.anilibria.org/*
 *://*.anilibria.tv/*
 *://*.anilibria.uno/*
+*://*.anilibria.wtf/*
 *://*.animaunt.org/*
 *://*.anime-portal.ru/*
 *://*.anime-portal.su/*
@@ -484,6 +487,7 @@
 *://*.elpais.com/*
 *://*.envato.com/*
 *://*.epidemz.net.co/*
+*://*.eporner.com/*
 *://*.epravda.com.ua/*
 *://*.equaldex.com/*
 *://*.equalit.ie/*
@@ -678,6 +682,7 @@
 *://*.halooglasi.com/*
 *://*.hashicorp.com/*
 *://*.hath.network/*
+*://*.haydaygame.com/*
 *://*.hbomax.com/*
 *://*.hd-rezka.tv/*
 *://*.hd.zetfix.online/*
@@ -1456,6 +1461,7 @@
 *://*.smartdeploy.com/*
 *://*.sme.sk/*
 *://*.snapmagic.com/*
+*://*.sndcdn.com/*
 *://*.snort.org/*
 *://*.snyk.io/*
 *://*.soapui.org/*
@@ -1468,6 +1474,7 @@
 *://*.sora.com/*
 *://*.sotaproject.com/*
 *://*.sotnik-tv.com/*
+*://*.soundcloud.cloud/*
 *://*.soundcloud.com/*
 *://*.sovanews.tv/*
 *://*.sovetromantica.com/*
@@ -1521,6 +1528,7 @@
 *://*.stulchik.net/*
 *://*.suggestqueries.google.com/*
 *://*.supercell.com/*
+*://*.supersliv.biz/*
 *://*.support.cambiumnetworks.com/*
 *://*.support.huawei.com/*
 *://*.support.ruckuswireless.com/*
@@ -1838,6 +1846,7 @@
 *://*.yeggi.com/*
 *://*.yle.fi/*
 *://*.youporn.com/*
+*://*.youtrack.cloud/*
 *://*.youtu.be/*
 *://*.youtube-nocookie.com/*
 *://*.youtube-ui.l.google.com/*
@@ -1876,4 +1885,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-06-23 02:07:10
+# Generated on: 2025-06-24 02:01:07
