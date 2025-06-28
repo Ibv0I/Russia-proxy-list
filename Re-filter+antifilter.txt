@@ -95,6 +95,7 @@
 *://*.amplitude.com/*
 *://*.amx.com/*
 *://*.analog.com/*
+*://*.andrevi.ch/*
 *://*.anidub.com/*
 *://*.anilibria.org/*
 *://*.anilibria.tv/*
@@ -166,6 +167,7 @@
 *://*.atr.ua/*
 *://*.att.com/*
 *://*.attachments.f95zone.to/*
+*://*.audiobookbay.lu/*
 *://*.auth.grazie.ai/*
 *://*.auth.openai.com/*
 *://*.auth0.openai.com/*
@@ -233,6 +235,7 @@
 *://*.bok-o-bok.com/*
 *://*.bonprix.ru/*
 *://*.booktracker.org/*
+*://*.boominfo.org/*
 *://*.boosteroid.com/*
 *://*.booth.pm/*
 *://*.booth.pximg.net/*
@@ -254,6 +257,7 @@
 *://*.bt2.t-ru.org/*
 *://*.bt3.t-ru.org/*
 *://*.bt4.t-ru.org/*
+*://*.bt4gprx.com/*
 *://*.btdig.com/*
 *://*.btod.com/*
 *://*.buanzo.org/*
@@ -310,6 +314,7 @@
 *://*.church.ua/*
 *://*.cia.gov/*
 *://*.cisco.com/*
+*://*.cisecurity.org/*
 *://*.citrix.com/*
 *://*.clamav.net/*
 *://*.clashofclans.com/*
@@ -320,6 +325,7 @@
 *://*.cloud.mongodb.com/*
 *://*.cloudflare-dns.com/*
 *://*.cloudflare-ech.com/*
+*://*.cloudtorrents.com/*
 *://*.cms-twdigitalassets.com/*
 *://*.cnd2exp.online/*
 *://*.cnews.fr/*
@@ -541,6 +547,7 @@
 *://*.fergana.news/*
 *://*.fex.net/*
 *://*.ficbook.net/*
+*://*.filebin.net/*
 *://*.files.oaiusercontent.com/*
 *://*.filmitorrent.net/*
 *://*.filmix.ac/*
@@ -654,6 +661,7 @@
 *://*.gotgayporn.com/*
 *://*.gpsonextra.net/*
 *://*.gpu-monkey.com/*
+*://*.gql.twitch.tv/*
 *://*.gr-assets.com/*
 *://*.grafana.com/*
 *://*.grammarly.com/*
@@ -708,6 +716,7 @@
 *://*.holod.global.ssl.fastly.net/*
 *://*.holod.media/*
 *://*.home-connect.com/*
+*://*.home.by.me/*
 *://*.honeywell.com/*
 *://*.hornet.com/*
 *://*.host.livekit.cloud/*
@@ -745,6 +754,7 @@
 *://*.ign.com/*
 *://*.iherb.com/*
 *://*.iichan.hk/*
+*://*.ikea.com/*
 *://*.ikhwanonline.com/*
 *://*.ilga.org/*
 *://*.ilook.tv/*
@@ -837,6 +847,7 @@
 *://*.kinozal.guru/*
 *://*.kinozal.me/*
 *://*.kinozal.tv/*
+*://*.kinozaltv.life/*
 *://*.kiwifarms.net/*
 *://*.kmail-lists.com/*
 *://*.kmoun.info/*
@@ -982,6 +993,7 @@
 *://*.metal-archives.com/*
 *://*.meteo.paraplan.net/*
 *://*.metla.press/*
+*://*.metopera.org/*
 *://*.meydan.fm/*
 *://*.mhg.ru/*
 *://*.microsofttranslator.com/*
@@ -1181,6 +1193,8 @@
 *://*.pcmag.com/*
 *://*.pdq.com/*
 *://*.peaceplea.org/*
+*://*.penguin.com/*
+*://*.penguinrandomhouse.com/*
 *://*.pepperl-fuchs.com/*
 *://*.periscope.tv/*
 *://*.pexels.com/*
@@ -1413,6 +1427,7 @@
 *://*.seedoff.zannn.top/*
 *://*.selezen.org/*
 *://*.semnasem.org/*
+*://*.semrush.com/*
 *://*.sentry.io/*
 *://*.sephora.com/*
 *://*.serpstat.com/*
@@ -1453,6 +1468,7 @@
 *://*.slashlib.me/*
 *://*.slavicsac.com/*
 *://*.slideshare.net/*
+*://*.slifki.biz/*
 *://*.slon.ru/*
 *://*.slotland.com/*
 *://*.slovodel.com/*
@@ -1705,6 +1721,7 @@
 *://*.urduvoa.com/*
 *://*.usa.one/*
 *://*.usatoday.com/*
+*://*.usher.ttvnw.net/*
 *://*.usrf.us/*
 *://*.ust-kut24.com/*
 *://*.utro.ru/*
@@ -1885,4 +1902,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-06-27 02:01:15
+# Generated on: 2025-06-28 01:56:44
