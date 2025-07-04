@@ -941,6 +941,7 @@
 *://*.mailfence.com/*
 *://*.mailinator.com/*
 *://*.mailo.com/*
+*://*.make.com/*
 *://*.maltatoday.com.mt/*
 *://*.malwarebytes.com/*
 *://*.manas.news/*
@@ -1287,7 +1288,6 @@
 *://*.putinbog.wordpress.com/*
 *://*.qha.com.ua/*
 *://*.qt.io/*
-*://*.quickconnect.to/*
 *://*.quora.com/*
 *://*.quora.com.cdn.cloudflare.net/*
 *://*.r4.err.ee/*
@@ -1902,4 +1902,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-07-03 02:01:05
+# Generated on: 2025-07-04 02:00:30
