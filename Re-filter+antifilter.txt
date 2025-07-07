@@ -117,6 +117,7 @@
 *://*.annas-archive.org/*
 *://*.anonymizer.ru/*
 *://*.anonymouse.org/*
+*://*.ansys.com/*
 *://*.anthropic.com/*
 *://*.antikor.com.ua/*
 *://*.antivigilancia.org/*
@@ -1902,4 +1903,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-07-06 02:09:59
+# Generated on: 2025-07-07 02:06:37
