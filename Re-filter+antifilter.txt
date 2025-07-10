@@ -493,6 +493,7 @@
 *://*.elmundo.es/*
 *://*.elpais.com/*
 *://*.envato.com/*
+*://*.epg.one/*
 *://*.epidemz.net.co/*
 *://*.eporner.com/*
 *://*.epravda.com.ua/*
@@ -1903,4 +1904,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-07-09 02:03:13
+# Generated on: 2025-07-10 02:03:10
