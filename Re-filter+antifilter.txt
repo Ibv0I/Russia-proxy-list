@@ -550,6 +550,7 @@
 *://*.fex.net/*
 *://*.ficbook.net/*
 *://*.filebin.net/*
+*://*.files.manus.cdn/*
 *://*.files.oaiusercontent.com/*
 *://*.filmitorrent.net/*
 *://*.filmix.ac/*
@@ -1904,4 +1905,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-07-14 02:10:10
+# Generated on: 2025-07-14 16:16:57
