@@ -2,16 +2,20 @@ import requests
 from datetime import datetime
 
 # URLs для скачивания списков
-url_ooni = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"  # URL ooni списка
-url_community = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"  # URL community списка
-url_antifilter = "https://community.antifilter.download/list/domains.lst"  # URL списка antifilter
-url_additional = "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst"  # URL itdog russsia
+url_1 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"  # Refilter ooni
+url_2 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"  # Refilter communty
+url_3 = "https://community.antifilter.download/list/domains.lst"  # antifilter
+url_4 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst"  # itdog russsia inside
+url_5 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Categories/anime.lst" # itdog anime
+url_6 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Categories/block.lst" # itdog block
+url_7 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Categories/geoblock.lst" # itdog geoblock
+url_8 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Categories/news.lst" # itdog news
+url_9 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Categories/porn.lst" # itdog porn
 
 # Имя итогового файла
 output_file = "Re-filter+antifilter.txt"
 
 def download_list(url):
-    """Скачивает список доменов по URL."""
     try:
         print(f"Скачивание списка: {url}")
         response = requests.get(url)
@@ -23,52 +27,40 @@ def download_list(url):
         return []
 
 def extract_domains(lines):
-    """Извлекает домены из простого списка доменов."""
-    return {line.strip() for line in lines if line.strip()}  # Убираем пробелы и пустые строки
+    return {line.strip() for line in lines if line.strip()}
 
 def save_to_file(filename, data):
-    """Сохраняет данные в текстовый файл."""
     with open(filename, "w", encoding="utf-8") as file:
         for line in data:
             file.write(line + "\n")
     print(f"Итоговый список сохранён в {filename}")
 
-def process_and_refilter(url1, url2, url3, url4, output_file):
-    """Скачивает, обрабатывает списки и сохраняет результат."""
-    # Скачиваем списки
-    ooni_list = download_list(url1)
-    community_list = download_list(url2)
-    antifilter_list = download_list(url3)
-    additional_list = download_list(url4)
+def process_and_refilter(output_file):
+    # Скачиваем и объединяем списки
+    urls = [url_1, url_2, url_3, url_4, url_5, url_6, url_7, url_8, url_9]
+    all_domains = set()
     
-    # Извлекаем домены из всех списков
-    ooni_domains = extract_domains(ooni_list)
-    community_domains = extract_domains(community_list)
-    antifilter_domains = extract_domains(antifilter_list)
-    additional_domains = extract_domains(additional_list)
-    
-    # Создаем общий список доменов, убирая дубликаты
-    all_domains = ooni_domains.union(community_domains).union(antifilter_domains).union(additional_domains)
+    for url in urls:
+        lines = download_list(url)
+        all_domains.update(extract_domains(lines))
+
     print(f"Объединено {len(all_domains)} уникальных доменов.")
-    
+
     # Форматируем данные для SwitchyOmega
     formatted_domains = [f"*://*.{domain}/*" for domain in sorted(all_domains)]
-    
-    # Добавляем дату и время составления списка
+
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    
-    # Формируем итоговый список с заголовками и окончанием
+
     final_output = [
         "#BEGIN",
-        "",  # Пустая строка
+        "",
         "[Wildcard]"
     ] + formatted_domains + [
         "#END",
-        f"# Generated on: {current_time}"  # Время составления списка в конце
+        f"# Generated on: {current_time}"
     ]
-    
-    # Сохраняем итоговый список
+
     save_to_file(output_file, final_output)
 
 if __name__ == "__main__":
-    process_and_refilter(url_ooni, url_community, url_antifilter, url_additional, output_file)
+    process_and_refilter(output_file)
