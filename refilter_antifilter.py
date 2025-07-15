@@ -6,11 +6,6 @@ url_1 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_
 url_2 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"  # Refilter communty
 url_3 = "https://community.antifilter.download/list/domains.lst"  # antifilter
 url_4 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst"  # itdog russsia inside
-url_5 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Categories/anime.lst" # itdog anime
-url_6 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Categories/block.lst" # itdog block
-url_7 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Categories/geoblock.lst" # itdog geoblock
-url_8 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Categories/news.lst" # itdog news
-url_9 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Categories/porn.lst" # itdog porn
 
 # Имя итогового файла
 output_file = "Re-filter+antifilter.txt"
@@ -37,7 +32,7 @@ def save_to_file(filename, data):
 
 def process_and_refilter(output_file):
     # Скачиваем и объединяем списки
-    urls = [url_1, url_2, url_3, url_4, url_5, url_6, url_7, url_8, url_9]
+    urls = [url_1, url_2, url_3, url_4,]
     all_domains = set()
     
     for url in urls:
