@@ -97,6 +97,7 @@
 *://*.analog.com/*
 *://*.andrevi.ch/*
 *://*.anidub.com/*
+*://*.anilib.me/*
 *://*.anilibria.org/*
 *://*.anilibria.tv/*
 *://*.anilibria.uno/*
@@ -136,6 +137,7 @@
 *://*.api.theins.info/*
 *://*.api.themoviedb.org/*
 *://*.api.twitter.com/*
+*://*.apkmirror.com/*
 *://*.aplawrence.com/*
 *://*.apollo.lv/*
 *://*.aport.ru/*
@@ -489,6 +491,7 @@
 *://*.ej.ru/*
 *://*.ekhokavkaza.com/*
 *://*.element14.com/*
+*://*.elements.envato.com/*
 *://*.elevenlabs.io/*
 *://*.elmundo.es/*
 *://*.elpais.com/*
@@ -923,6 +926,7 @@
 *://*.lolz.guru/*
 *://*.lookaside.facebook.com/*
 *://*.lookerstudio.google.com/*
+*://*.lostfilm.download/*
 *://*.lostfilm.run/*
 *://*.lostfilm.tv/*
 *://*.lostfilm.win/*
@@ -1631,6 +1635,7 @@
 *://*.tmdb.org/*
 *://*.tochka.net/*
 *://*.tokenized.play.google.com/*
+*://*.toolbox.app/*
 *://*.tools.cisco.com/*
 *://*.top.jdu.ru/*
 *://*.tor.eff.org/*
@@ -1904,4 +1909,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-07-20 02:22:43
+# Generated on: 2025-07-21 02:19:54
