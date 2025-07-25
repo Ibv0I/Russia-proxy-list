@@ -45,8 +45,11 @@ def main():
 
         filename = OUTPUT_FILES[name]
         with open(filename, 'w', encoding='utf-8') as f:
-            f.write(f"! GFWList: {name}\n")
+            # Верхняя строка с заголовком [AutoProxy 0.2.9]
+            f.write("[AutoProxy 0.2.9]\n")
+            # Комментарий с датой генерации
             f.write(f"! Generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+            # Правила доменов
             f.write('\n'.join(rules))
             f.write('\n')
 
