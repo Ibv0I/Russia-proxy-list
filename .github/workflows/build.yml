@@ -3,7 +3,7 @@ name: Run Re-filter Scripts
 on:
   schedule:
     - cron: "0 0 * * *"  # Ежедневный запуск в полночь
-  workflow_dispatch:  # Возможность ручного запуска
+  workflow_dispatch:     # Возможность ручного запуска вручную
 
 jobs:
   run-scripts:
@@ -31,10 +31,17 @@ jobs:
         run: |
           python refilter_antifilter.py
 
+      - name: Run gfwlist.py
+        run: |
+          python gfwlist.py
+
+      - name: Run gfwlist_cod.py
+        run: |
+          python gfwlist_cod.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Update Switchy Omega lists: $(date)" || echo "No changes to commit"
-          git push
+          git diff --cached --quiet && echo "No changes to commit" || (git commit -m "Update Re-filter lists: $(date +'%Y-%m-%d %H:%M:%S')" && git pull --rebase && git push)
