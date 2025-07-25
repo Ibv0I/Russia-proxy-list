@@ -1,6 +1,5 @@
 import requests
 import base64
-from datetime import datetime
 
 # URLs для скачивания списков
 url_1 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"
@@ -46,20 +45,16 @@ def process_and_refilter(output_file_b64):
 
     print(f"Объединено {len(all_domains)} уникальных доменов.")
 
-    # Форматируем для GFWList
+    # Формируем список только доменов, с префиксом ||
     formatted_domains = [f"||{domain}" for domain in sorted(all_domains) if not domain.startswith("||")]
 
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
-    # Формируем полный текст
-    header = f"! GFWList merged\n! Generated on: {current_time}\n\n"
+    # Собираем текст из только доменов (без заголовков и пустых строк)
     body = "\n".join(formatted_domains) + "\n"
-    full_text = header + body
 
     # Кодируем весь текст в base64
-    encoded = base64.b64encode(full_text.encode("utf-8")).decode("utf-8")
+    encoded = base64.b64encode(body.encode("utf-8")).decode("utf-8")
 
-    # Разбиваем на строки по 76 символов (по желанию)
+    # Для удобства разбиваем на строки по 76 символов
     chunk_size = 76
     encoded_chunks = [encoded[i:i+chunk_size] for i in range(0, len(encoded), chunk_size)]
     encoded_text = "\n".join(encoded_chunks)
