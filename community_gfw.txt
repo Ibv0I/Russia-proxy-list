@@ -1,5 +1,5 @@
-! GFWList: community
-! Generated on 2025-07-25 13:47:15
+[AutoProxy 0.2.9]
+! Generated on 2025-07-25 13:50:18
 
 ||4pda.ru
 ||4pda.to
