@@ -3,13 +3,13 @@ import base64
 from datetime import datetime
 
 # URLs для скачивания списков
-url_1 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"  # Refilter ooni
-url_2 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"  # Refilter communty
-url_3 = "https://community.antifilter.download/list/domains.lst"  # antifilter
-url_4 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst"  # itdog russsia inside
+url_1 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"
+url_2 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"
+url_3 = "https://community.antifilter.download/list/domains.lst"
+url_4 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst"
 
-# Имя итогового файла
-output_file = "gfwlist.txt"
+# Имя итогового base64-файла
+output_file_b64 = "gfwlist.txt"
 
 def download_list(url):
     try:
@@ -31,18 +31,12 @@ def extract_domains(lines):
         and not line.startswith("!")
     }
 
-def b64_encode_line(line: str) -> str:
-    encoded_bytes = base64.b64encode(line.encode("utf-8"))
-    return encoded_bytes.decode("utf-8")
-
 def save_to_file(filename, data):
     with open(filename, "w", encoding="utf-8") as file:
-        for line in data:
-            file.write(line + "\n")
+        file.write(data)
     print(f"Итоговый список сохранён в {filename}")
 
-def process_and_refilter(output_file):
-    # Скачиваем и объединяем списки
+def process_and_refilter(output_file_b64):
     urls = [url_1, url_2, url_3, url_4]
     all_domains = set()
     
@@ -52,24 +46,26 @@ def process_and_refilter(output_file):
 
     print(f"Объединено {len(all_domains)} уникальных доменов.")
 
-    # Форматируем для GFWList: "||домен"
+    # Форматируем для GFWList
     formatted_domains = [f"||{domain}" for domain in sorted(all_domains) if not domain.startswith("||")]
 
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    # Добавляем заголовки в открытом виде
-    final_output = [
-        f"! GFWList merged",
-        f"! Generated on: {current_time}",
-        "",
-    ]
+    # Формируем полный текст
+    header = f"! GFWList merged\n! Generated on: {current_time}\n\n"
+    body = "\n".join(formatted_domains) + "\n"
+    full_text = header + body
 
-    # Каждую доменную строку кодируем в base64
-    encoded_domains = [b64_encode_line(line) for line in formatted_domains]
+    # Кодируем весь текст в base64
+    encoded = base64.b64encode(full_text.encode("utf-8")).decode("utf-8")
 
-    final_output.extend(encoded_domains)
+    # Разбиваем на строки по 76 символов (по желанию)
+    chunk_size = 76
+    encoded_chunks = [encoded[i:i+chunk_size] for i in range(0, len(encoded), chunk_size)]
+    encoded_text = "\n".join(encoded_chunks)
 
-    save_to_file(output_file, final_output)
+    # Сохраняем только base64-файл
+    save_to_file(output_file_b64, encoded_text)
 
 if __name__ == "__main__":
-    process_and_refilter(output_file)
+    process_and_refilter(output_file_b64)
