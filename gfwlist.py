@@ -52,9 +52,9 @@ def process_and_refilter(output_file):
     # Текущая дата и время создания
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    # Формируем итоговый вывод: заголовок, дата, пустая строка и домены
+    # Первая строка — нужный заголовок, далее дата, пустая строка, домены
     final_output = [
-        "[GFWList]",
+        "[AutoProxy 0.2.9]",
         f"! Generated on: {current_time}",
         ""
     ] + formatted_domains
