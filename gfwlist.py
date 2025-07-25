@@ -1,4 +1,5 @@
 import requests
+import base64
 from datetime import datetime
 
 # URLs для скачивания списков
@@ -30,6 +31,10 @@ def extract_domains(lines):
         and not line.startswith("!")
     }
 
+def b64_encode_line(line: str) -> str:
+    encoded_bytes = base64.b64encode(line.encode("utf-8"))
+    return encoded_bytes.decode("utf-8")
+
 def save_to_file(filename, data):
     with open(filename, "w", encoding="utf-8") as file:
         for line in data:
@@ -52,11 +57,17 @@ def process_and_refilter(output_file):
 
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
+    # Добавляем заголовки в открытом виде
     final_output = [
         f"! GFWList merged",
         f"! Generated on: {current_time}",
         "",
-    ] + formatted_domains
+    ]
+
+    # Каждую доменную строку кодируем в base64
+    encoded_domains = [b64_encode_line(line) for line in formatted_domains]
+
+    final_output.extend(encoded_domains)
 
     save_to_file(output_file, final_output)
 
