@@ -482,6 +482,7 @@
 *://*.edge.microsoft.com/*
 *://*.edgeservices.bing.com/*
 *://*.editorials.voa.gov/*
+*://*.editorx.com/*
 *://*.edu-cisco.org/*
 *://*.ef.com/*
 *://*.ef.edu/*
@@ -521,6 +522,7 @@
 *://*.eventbrite.com/*
 *://*.everand.com/*
 *://*.exler.ru/*
+*://*.expandrive.com/*
 *://*.explorer.ooni.org/*
 *://*.expres.online/*
 *://*.expresso.pt/*
@@ -697,6 +699,8 @@
 *://*.hath.network/*
 *://*.haydaygame.com/*
 *://*.hbomax.com/*
+*://*.hc-ping.com/*
+*://*.hchk.io/*
 *://*.hd-rezka.tv/*
 *://*.hd.zetfix.online/*
 *://*.hdkinoteatr.com/*
@@ -754,6 +758,7 @@
 *://*.id.cisco.com/*
 *://*.idelreal.org/*
 *://*.iditelesom.org/*
+*://*.iditelesombase.org/*
 *://*.iedb.org/*
 *://*.ig.me/*
 *://*.ign.com/*
@@ -822,6 +827,7 @@
 *://*.jw.org/*
 *://*.kafanews.com/*
 *://*.kaktus.media/*
+*://*.kaleido.ai/*
 *://*.kamatera.com/*
 *://*.kara.su/*
 *://*.kasparov.ru/*
@@ -935,6 +941,7 @@
 *://*.lrt.lt/*
 *://*.lrytas.lt/*
 *://*.lsm.lv/*
+*://*.lu4.org/*
 *://*.lucid.app/*
 *://*.luckynugget.com/*
 *://*.lurkmore.to/*
@@ -945,6 +952,7 @@
 *://*.mail-api.proton.me/*
 *://*.mail.proton.me/*
 *://*.mail.protonmail.com/*
+*://*.mailerlite.com/*
 *://*.mailfence.com/*
 *://*.mailinator.com/*
 *://*.mailo.com/*
@@ -1033,11 +1041,13 @@
 *://*.musical.ly/*
 *://*.musixmatch.com/*
 *://*.mv.ecuo.org/*
+*://*.mw2.wiki/*
 *://*.my.atlassian.com/*
 *://*.myc.news/*
 *://*.mydoramy.club/*
 *://*.myheritage.com/*
 *://*.myjetbrains.com/*
+*://*.myqrcode.com/*
 *://*.myworld-portal.leica-geosystems.com/*
 *://*.nashaniva.com/*
 *://*.nasvsehtoshnit.ru/*
@@ -1353,6 +1363,7 @@
 *://*.rfi.fr/*
 *://*.riafan.ru/*
 *://*.ridl.io/*
+*://*.rima.media/*
 *://*.riperam.org/*
 *://*.riseup.net/*
 *://*.risk-inform.ru/*
@@ -1504,6 +1515,7 @@
 *://*.sovetromantica.com/*
 *://*.spacelift.io/*
 *://*.speeddater.co.uk/*
+*://*.speedtest.net/*
 *://*.spektr.press/*
 *://*.spiceworks.com/*
 *://*.spiegel.de/*
@@ -1911,4 +1923,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-07-30 02:11:00
+# Generated on: 2025-07-31 02:10:26
