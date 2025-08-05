@@ -1127,6 +1127,7 @@
 *://*.novayapolsha.pl/*
 *://*.nr2.com.ua/*
 *://*.nrc.nl/*
+*://*.nsf.gov/*
 *://*.ntc.party/*
 *://*.ntp.msn.com/*
 *://*.nv.ua/*
@@ -1787,6 +1788,7 @@
 *://*.vpnredcat.com/*
 *://*.vrv.co/*
 *://*.vyos.io/*
+*://*.vyos.net/*
 *://*.w.atwiki.jp/*
 *://*.walmart.com/*
 *://*.war.hvylya.net/*
@@ -1923,4 +1925,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-08-04 02:25:33
+# Generated on: 2025-08-05 02:19:40
