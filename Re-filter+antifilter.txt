@@ -333,6 +333,7 @@
 *://*.cnd2exp.online/*
 *://*.cnews.fr/*
 *://*.cock.li/*
+*://*.code.gist.build/*
 *://*.codeium.com/*
 *://*.coingate.com/*
 *://*.coinpayments.net/*
@@ -384,6 +385,7 @@
 *://*.delfi.ee/*
 *://*.delfi.lt/*
 *://*.delfi.lv/*
+*://*.delivery.2d.net.co/*
 *://*.dell.com/*
 *://*.dellcdn.com/*
 *://*.delo.ua/*
@@ -509,6 +511,7 @@
 *://*.ert.gr/*
 *://*.ertnews.gr/*
 *://*.espreso.tv/*
+*://*.etahub.com/*
 *://*.etsy.com/*
 *://*.eu-iot-prod.aws.tcljd.com/*
 *://*.eu-objective.online/*
@@ -1047,6 +1050,7 @@
 *://*.mydoramy.club/*
 *://*.myheritage.com/*
 *://*.myjetbrains.com/*
+*://*.myparallels.com/*
 *://*.myqrcode.com/*
 *://*.myworld-portal.leica-geosystems.com/*
 *://*.nashaniva.com/*
@@ -1109,6 +1113,7 @@
 *://*.nos.nl/*
 *://*.notebooklm.google/*
 *://*.notepad-plus-plus.org/*
+*://*.notion-emojis.s3-us-west-2.amazonaws.com/*
 *://*.notion-static.com/*
 *://*.notion.com/*
 *://*.notion.new/*
@@ -1170,7 +1175,9 @@
 *://*.openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net/*
 *://*.openaicom.imgix.net/*
 *://*.openaicomproductionae4b.blob.core.windows.net/*
+*://*.openh264.org/*
 *://*.openmedia.io/*
+*://*.openrouter.ai/*
 *://*.openrussia.org/*
 *://*.opensanctions.org/*
 *://*.opensea.io/*
@@ -1196,6 +1203,10 @@
 *://*.paperpaper.io/*
 *://*.paperpaper.ru/*
 *://*.papervpn.io/*
+*://*.parallels.cn/*
+*://*.parallels.com/*
+*://*.parallels.net/*
+*://*.parallelsaccess.com/*
 *://*.parniplus.com/*
 *://*.partypoker.com/*
 *://*.partypoker.net/*
@@ -1331,6 +1342,7 @@
 *://*.redgifs.com/*
 *://*.redis.com/*
 *://*.redis.io/*
+*://*.redislabs.com/*
 *://*.redkollegia.org/*
 *://*.redshieldvpn.com/*
 *://*.redtube.com/*
@@ -1448,6 +1460,7 @@
 *://*.selezen.org/*
 *://*.semnasem.org/*
 *://*.semrush.com/*
+*://*.sentry.dev/*
 *://*.sentry.io/*
 *://*.sephora.com/*
 *://*.serpstat.com/*
@@ -1644,6 +1657,7 @@
 *://*.timberland.com/*
 *://*.timberland.de/*
 *://*.timesofmalta.com/*
+*://*.tiptop-vpn.com/*
 *://*.tjournal.ru/*
 *://*.tmdb-image-prod.b-cdn.net/*
 *://*.tmdb.com/*
@@ -1794,6 +1808,7 @@
 *://*.war.hvylya.net/*
 *://*.watchguard.com/*
 *://*.watermarkremover.io/*
+*://*.wbgames.com/*
 *://*.we.riseup.net/*
 *://*.weareukraine.info/*
 *://*.weather.com/*
@@ -1883,6 +1898,7 @@
 *://*.xvideos-cdn.com/*
 *://*.xvideos.com/*
 *://*.y2mate.com/*
+*://*.yande.re/*
 *://*.yeggi.com/*
 *://*.yle.fi/*
 *://*.youporn.com/*
@@ -1925,4 +1941,4 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Generated on: 2025-08-15 02:02:51
+# Generated on: 2025-08-16 01:56:45
