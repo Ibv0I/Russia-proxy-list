@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Generated on: 2025-08-21 01:52:49
+! Generated on: 2025-08-22 01:53:43
 
 ||.ua
 ||10minutemail.com
@@ -24,6 +24,7 @@
 ||7dniv.rv.ua
 ||7tv.app
 ||7tv.io
+||85.215.221.210
 ||888casino.com
 ||9tv.co.il
 ||ab.chatgpt.com
@@ -63,7 +64,7 @@
 ||adobelogin.com
 ||ads-twitter.com
 ||adultmult.tv
-||af.mil
+||advox.globalvoices.org
 ||afcs.dellcdn.com
 ||afp.com
 ||afpforum.com
@@ -84,6 +85,7 @@
 ||allrus.news
 ||allthefallen.moe
 ||alphacoders.com
+||alqassam.ps
 ||alza.hu
 ||amazfitwatchfaces.com
 ||amdm.ru
@@ -113,6 +115,7 @@
 ||animelib.me
 ||animespirit.ru
 ||animestars.org
+||animevost.tv
 ||anistar.org
 ||anistars.ru
 ||annas-archive.org
@@ -130,8 +133,10 @@
 ||api.home-connect.com
 ||api.instagram.com
 ||api.jetbrains.ai
+||api.ooni.org
 ||api.openai.com
 ||api.protonmail.ch
+||api.protonvpn.ch
 ||api.radarr.video
 ||api.service-kp.com
 ||api.theins.info
@@ -156,12 +161,12 @@
 ||archive.ph
 ||archiveofourown.org
 ||arm.com
-||army.mil
 ||arte.tv
 ||article19.org
 ||artifacts.elastic.co
 ||artsy.net
 ||as6723.net
+||ashingtonpost.com
 ||aspektymedia.ru
 ||assets.heroku.com
 ||atlassian.com
@@ -171,6 +176,7 @@
 ||att.com
 ||attachments.f95zone.to
 ||audiobookbay.lu
+||aur.archlinux.org
 ||auth.grazie.ai
 ||auth.openai.com
 ||auth0.openai.com
@@ -221,6 +227,7 @@
 ||bitmask.net
 ||bitnami.com
 ||bitru.org
+||bitstamp.net
 ||bittornado.com
 ||black.instagram.com
 ||blackberry.com
@@ -232,6 +239,7 @@
 ||blog.business.instagram.com
 ||blog.instagram.com
 ||blogs.voanews.com
+||blogsome.com
 ||bluehost.com
 ||bogus.d2a8n1.rootcanary.net
 ||boingboing.net
@@ -255,7 +263,6 @@
 ||broadcom.com
 ||broncosportforum.com
 ||browsec.com
-||bs2best.at
 ||bt.t-ru.org
 ||bt2.t-ru.org
 ||bt3.t-ru.org
@@ -277,6 +284,7 @@
 ||canva.dev
 ||capacitorjs.com
 ||capcut.com
+||carnegie.ru
 ||carnegieendowment.org
 ||carrefouruae.com
 ||casino.com
@@ -340,6 +348,7 @@
 ||coinsbee.com
 ||coldfilm.xyz
 ||colta.ru
+||com.cy
 ||community.cisco.com
 ||community.instagram.com
 ||community.sophos.com
@@ -371,6 +380,7 @@
 ||daemon-tools.cc
 ||dailymotion.com
 ||danbooru.donmai.us
+||dartcenter.org
 ||data-cdn.mbamupdates.com
 ||database.clamav.net
 ||day.kyiv.ua
@@ -403,6 +413,7 @@
 ||deviantart.com
 ||devops.com
 ||dialog.ua
+||diary.ru
 ||diena.lv
 ||digash.live
 ||digi24.ro
@@ -448,8 +459,8 @@
 ||documentation.meraki.com
 ||doh-fi.blahdns.com
 ||doh.centraleu.pi-dns.com
-||donbass.ua
 ||donpress.com
+||doovi.com
 ||dorama.live
 ||doramalive.ru
 ||doramy.club
@@ -476,6 +487,7 @@
 ||e1v-h.phncdn.com
 ||e621.net
 ||earerepost.com
+||easyflow1er.com
 ||echo.msk.ru
 ||echofm.online
 ||eclipso.de
@@ -496,6 +508,7 @@
 ||element14.com
 ||elements.envato.com
 ||elevenlabs.io
+||elhosting.ru
 ||elmundo.es
 ||elpais.com
 ||envato.com
@@ -553,10 +566,12 @@
 ||fbk.info
 ||fbsbx.com
 ||feed.rutracker.cc
+||feedtheminds.org
 ||fergana.agency
 ||fergana.news
 ||fex.net
 ||ficbook.net
+||fidh.org
 ||filebin.net
 ||files.oaiusercontent.com
 ||filmitorrent.net
@@ -568,7 +583,6 @@
 ||fingerium.stream.voidboost.cc
 ||firefly-ps.adobe.io
 ||flashscore.com
-||fleegle.mixmin.net
 ||flibusta.is
 ||flibusta.net
 ||flipboard.com
@@ -638,6 +652,7 @@
 ||githubcopilot.com
 ||gitlab.io
 ||glaad.org
+||glad.org
 ||glasnaya.media
 ||glavcom.ua
 ||glavnoe.in.ua
@@ -648,6 +663,7 @@
 ||global.fncstatic.com
 ||global.platform.seconddinnertech.com
 ||globalgiving.org
+||globalvoices.org
 ||glpals.com
 ||glsen.org
 ||gnome-look.org
@@ -702,6 +718,7 @@
 ||hath.network
 ||haydaygame.com
 ||hbomax.com
+||hbr.org
 ||hc-ping.com
 ||hchk.io
 ||hd-rezka.tv
@@ -720,6 +737,7 @@
 ||hetzner.com
 ||hide.me
 ||hidemyass.com
+||hiv.gov
 ||hizb-ut-tahrir.org
 ||hleb.asia
 ||hochuzhit.com
@@ -738,13 +756,13 @@
 ||hotgaylist.com
 ||hotspotshield.com
 ||howtogrowmarijuana.com
-||hoyolab.com
 ||hqporner.com
 ||hrc.org
 ||hromadske.ua
 ||hrw.org
 ||hs.fi
 ||htmhell.dev
+||humanityinaction.org
 ||hunafa.com
 ||hyperhost.ua
 ||hyperlapse.instagram.com
@@ -753,7 +771,7 @@
 ||i.instagram.com
 ||i.sakh.com
 ||i.ytimg.com
-||i2pforum.net
+||i2p2.de
 ||ibm.com
 ||ibytedtos.com
 ||ichef.bbci.co.uk
@@ -766,6 +784,7 @@
 ||ig.me
 ||ign.com
 ||iherb.com
+||ihrc.org.uk
 ||iichan.hk
 ||ikea.com
 ||ikhwanonline.com
@@ -775,13 +794,14 @@
 ||image.tmdb.org
 ||images.discordapp.net
 ||images.instagram.com
+||imf.org
 ||important-stories.com
 ||imrussia.org
 ||independent.com.mt
 ||independent.ie
 ||indiehackers.com
+||inetprivacy.com
 ||infineon.com
-||inforeactor.ru
 ||information.dk
 ||informator.ua
 ||insearch.site
@@ -828,12 +848,14 @@
 ||jut-su.net
 ||jut.su
 ||jw.org
+||k-d.center
 ||kafanews.com
 ||kaktus.media
 ||kaleido.ai
 ||kamatera.com
 ||kara.su
 ||kasparov.ru
+||kasyanov.ru
 ||kat.am
 ||katcr.to
 ||kavkaz-uzel.eu
@@ -901,17 +923,21 @@
 ||lexpress.fr
 ||lgbt.org.ua
 ||lgbtnet.org
+||lgbtnewsnow.org
 ||lgbtqia.space
 ||lgbtru.com
 ||lgbtvacationplanners.com
 ||lib.rus.ec
 ||liberation.fr
+||libgen.fun
+||libgen.gs
 ||libgen.is
 ||libgen.lc
 ||libgen.li
 ||libgen.life
 ||libgen.me
 ||libgen.rs
+||libgen.space
 ||libgen.st
 ||licdn.com
 ||lidarr.audio
@@ -986,10 +1012,8 @@
 ||mdif.org
 ||mdz-rus.github.io
 ||mdza.io
-||med2000.ru
 ||meddaily.ru
 ||media.discordapp.net
-||medianet.kz
 ||mediapatriot.ru
 ||mediapool.bg
 ||mediazona.ca
@@ -1016,13 +1040,14 @@
 ||metopera.org
 ||meydan.fm
 ||mhg.ru
-||microsofttranslator.com
 ||middlewareinventory.com
 ||mignews.com
 ||mignews.ua
+||migrant.ru
 ||minds.com
 ||minval.az
 ||miro.medium.com
+||mirror.cyberbits.eu
 ||mixcloud.com
 ||mnr.gov.cn
 ||mobile.events.data.microsoft.com
@@ -1053,6 +1078,7 @@
 ||myparallels.com
 ||myqrcode.com
 ||myworld-portal.leica-geosystems.com
+||nash-sever.info
 ||nashaniva.com
 ||nasvsehtoshnit.ru
 ||nation-news.ru
@@ -1136,7 +1162,6 @@
 ||ntc.party
 ||ntp.msn.com
 ||nv.ua
-||nvdaily.ru
 ||nxp.com
 ||nyaa.si
 ||nyaa.tracker.wf
@@ -1153,8 +1178,12 @@
 ||oe24.at
 ||ohmyswift.ru
 ||oi.legal
+||oic-oci.org
+||oikoumene.org
 ||okx.com
 ||olx.ua
+||omen.ru
+||omenforwomen.org
 ||omnissa.com
 ||omsk.com
 ||omv-extras.org
@@ -1186,9 +1215,11 @@
 ||openwrt.wk.cz
 ||opioids.com
 ||opposition-news.com
+||or.team
 ||oracle.com
 ||orbit-games.com
 ||orf.at
+||originalelf.com
 ||orldwildlife.org
 ||os.mbed.com
 ||ovd.info
@@ -1238,6 +1269,7 @@
 ||pimpletv.ru
 ||pingdom.com
 ||pinknews.co.uk
+||pinme.ru
 ||piratbit.top
 ||pixabay.com
 ||pixiv.net
@@ -1261,7 +1293,6 @@
 ||polit.info
 ||polit.ru
 ||politexpert.net
-||polithexogen.ru
 ||politico.com
 ||politico.eu
 ||politiken.dk
@@ -1277,7 +1308,6 @@
 ||postimees.ee
 ||pravda.com
 ||pravda.com.ua
-||pravdastudia.ru
 ||premierleague.com
 ||pressorg24.com
 ||primevideo.com
@@ -1308,6 +1338,7 @@
 ||proxy.individual.githubcopilot.com
 ||proxy.org
 ||proxyscrape.com
+||prq.se
 ||pscp.tv
 ||psiphon.ca
 ||psyplants.info
@@ -1318,6 +1349,7 @@
 ||putinbog.wordpress.com
 ||qha.com.ua
 ||qt.io
+||queerfest.ru
 ||quora.com
 ||quora.com.cdn.cloudflare.net
 ||r4.err.ee
@@ -1456,10 +1488,12 @@
 ||sebeanus.online
 ||secure-web.cisco.com
 ||secure.avaaz.org
+||securenym.net
 ||seedoff.zannn.top
 ||selezen.org
 ||semnasem.org
 ||semrush.com
+||sendspace.com
 ||sentry.dev
 ||sentry.io
 ||sephora.com
@@ -1538,7 +1572,7 @@
 ||sportingbet.com
 ||sportsinteraction.com
 ||spotify.com
-||sprashivai.ru
+||spr.ru
 ||spreadthesign.com
 ||spring96.org
 ||sprotyv.info
@@ -1628,6 +1662,7 @@
 ||theaudiodb.com
 ||thebarentsobserver.com
 ||thebell.io
+||thegeekdiary.com
 ||thegooddrugsguide.com
 ||theins.press
 ||theins.ru
@@ -1666,7 +1701,6 @@
 ||tokenized.play.google.com
 ||toolbox.app
 ||tools.cisco.com
-||top.jdu.ru
 ||tor.eff.org
 ||torontovka.com
 ||torproject.org
@@ -1681,9 +1715,9 @@
 ||transparency.org
 ||transparency.org.ru
 ||transwhiz.com
-||travorium.com
 ||trellix.com
 ||trendsmap.com
+||triller.co
 ||trueblackmetalradio.com
 ||trust.zone
 ||truthsocial.com
@@ -1760,7 +1794,6 @@
 ||usher.ttvnw.net
 ||usrf.us
 ||ust-kut24.com
-||utro.ru
 ||utro02.tv
 ||vagrantcloud.com
 ||vector.im
@@ -1768,6 +1801,7 @@
 ||veeam.com
 ||velocidrone.com
 ||veritas.com
+||versia.ru
 ||verstka.media
 ||vesma.one
 ||vesma.today
@@ -1783,7 +1817,6 @@
 ||vipergirls.to
 ||visaginas.lt
 ||visualcapitalist.com
-||vitaportal.ru
 ||vitk.com.ua
 ||vlasti.net
 ||vmware.com
@@ -1839,6 +1872,7 @@
 ||wonderzine.com
 ||world.comments.ua
 ||wpengine.com
+||write.as
 ||wsjournal.ru
 ||wunderground.com
 ||wwf.panda.org
@@ -1878,7 +1912,6 @@
 ||www.wunderground.com
 ||www.youtube.com
 ||www3.corsair.com
-||wwwoman.ru
 ||x.ai
 ||x.com
 ||xanga.com
@@ -1936,7 +1969,6 @@
 ||zetflix.online
 ||znak.com
 ||znanija.com
-||znopr.ru
 ||zohomail.com
 ||zolika1351.pages.dev
 ||zona.media
