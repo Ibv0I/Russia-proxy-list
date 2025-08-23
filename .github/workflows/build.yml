@@ -1,4 +1,4 @@
-name: Run Re-filter Scripts
+name: Run Russia-proxy-list Scripts
 
 on:
   schedule:
@@ -23,13 +23,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run refilter_to_switchy.py
+      - name: Run SwitchyOmega.py
         run: |
-          python refilter_to_switchy.py
+          python SwitchyOmega.py
 
-      - name: Run refilter_antifilter.py
+      - name: Run SwitchyOmega_cod.py
         run: |
-          python refilter_antifilter.py
+          python SwitchyOmega_cod.py
 
       - name: Run AutoProxy.py.py
         run: |
