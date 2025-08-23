@@ -50,6 +50,7 @@ def process_and_refilter(output_file):
         "#BEGIN",
         f"# Domain count: {len(formatted_domains)}",
         f"# Generated on: {current_time} (MSK)"
+        
         "",
         "[Wildcard]"
     ] + formatted_domains + [
