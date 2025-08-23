@@ -48,7 +48,6 @@ def process_and_refilter(output_file):
     
     final_output = [
         "#BEGIN",
-        "",
         "[Wildcard]"
     ] + formatted_domains + [
         "#END",
