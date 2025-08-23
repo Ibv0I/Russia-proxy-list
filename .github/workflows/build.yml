@@ -31,13 +31,13 @@ jobs:
         run: |
           python refilter_antifilter.py
 
-      - name: Run gfwlist.py
+      - name: Run AutoProxy.py.py
         run: |
-          python gfwlist.py
+          python AutoProxy.py
 
-      - name: Run gfwlist_cod.py
+      - name: Run AutoProxy_cod.py
         run: |
-          python gfwlist_cod.py
+          python AutoProxy_cod.py
 
       - name: Commit and push changes
         run: |
