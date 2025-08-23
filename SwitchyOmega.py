@@ -1,14 +1,19 @@
+import os
 import requests
 from datetime import datetime
+from zoneinfo import ZoneInfo  # Для Python 3.9+
 
 # URLs для скачивания списков
-url_1 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"  # Refilter ooni
-url_2 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"  # Refilter communty
-url_3 = "https://community.antifilter.download/list/domains.lst"  # antifilter
-url_4 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst"  # itdog russsia inside
+url_1 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"
+url_2 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"
+url_3 = "https://community.antifilter.download/list/domains.lst"
+url_4 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst"
 
-# Имя итогового файла
-output_file = "Re-filter+antifilter.txt"
+# Папка для итогового файла
+output_dir = "SwitchyOmega"
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+output_file = os.path.join(output_dir, "switchyomega.txt")
 
 def download_list(url):
     try:
@@ -31,30 +36,26 @@ def save_to_file(filename, data):
     print(f"Итоговый список сохранён в {filename}")
 
 def process_and_refilter(output_file):
-    # Скачиваем и объединяем списки
-    urls = [url_1, url_2, url_3, url_4,]
+    urls = [url_1, url_2, url_3, url_4]
     all_domains = set()
-    
     for url in urls:
         lines = download_list(url)
         all_domains.update(extract_domains(lines))
-
     print(f"Объединено {len(all_domains)} уникальных доменов.")
-
-    # Форматируем данные для SwitchyOmega
+    
     formatted_domains = [f"*://*.{domain}/*" for domain in sorted(all_domains)]
-
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
+    current_time = datetime.now(ZoneInfo("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S")
+    
     final_output = [
         "#BEGIN",
+        f"# Domain count: {len(formatted_domains)}",
         "",
         "[Wildcard]"
     ] + formatted_domains + [
         "#END",
-        f"# Generated on: {current_time}"
+        f"# Generated on: {current_time} (MSK)"
     ]
-
+    
     save_to_file(output_file, final_output)
 
 if __name__ == "__main__":
