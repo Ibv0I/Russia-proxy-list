@@ -1,5 +1,4 @@
 #BEGIN
-
 [Wildcard]
 *://*..ua/*
 *://*.10minutemail.com/*
@@ -1974,4 +1973,4 @@
 *://*.zona.media/*
 #END
 # Domain count: 1971
-# Generated on: 2025-08-23 07:57:04 (MSK)
+# Generated on: 2025-08-23 07:59:57 (MSK)
