@@ -47,10 +47,10 @@ def main():
         print(f"Сохраняем список {name} в файл {filename}...")
         with open(filename, "w", encoding="utf-8") as outfile:
             outfile.write("#BEGIN\n")
-            outfile.write(f"# Domain count: {domain_count}\n\n")
             outfile.write("[Wildcard]\n")
             outfile.write("\n".join(switchy_lines))
             outfile.write("\n#END\n")
+            outfile.write(f"# Domain count: {domain_count}\n\n")
             current_time = datetime.now(ZoneInfo("Europe/Moscow")).strftime('%Y-%m-%d %H:%M:%S')
             outfile.write(f"# Generated on {current_time} (MSK)\n")
         print(f"Список {name} успешно сохранён в {filename}\n")
