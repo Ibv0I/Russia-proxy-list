@@ -48,13 +48,12 @@ def process_and_refilter(output_file):
     
     final_output = [
         "#BEGIN",
-        f"# Domain count: {len(formatted_domains)}",
-        f"# Generated on: {current_time} (MSK)"
-        
         "",
         "[Wildcard]"
     ] + formatted_domains + [
         "#END",
+        f"# Domain count: {len(formatted_domains)}",
+        f"# Generated on: {current_time} (MSK)"
     ]
     
     save_to_file(output_file, final_output)
