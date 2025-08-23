@@ -1,6 +1,4 @@
 #BEGIN
-# Domain count: 821
-
 [Wildcard]
 *://*.1337x.st/*
 *://*.1337x.to/*
@@ -824,4 +822,6 @@
 *://*.znak.com/*
 *://*.zona.media/*
 #END
-# Generated on 2025-08-23 07:54:02 (MSK)
+# Domain count: 821
+
+# Generated on 2025-08-23 07:57:05 (MSK)

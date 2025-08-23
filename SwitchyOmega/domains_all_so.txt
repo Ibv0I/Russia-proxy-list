@@ -1,6 +1,4 @@
 #BEGIN
-# Domain count: 42828
-
 [Wildcard]
 *://*.0035.pirat.one/*
 *://*.0087.pirat.one/*
@@ -42831,4 +42829,6 @@
 *://*.zzztube.com/*
 *://*.zzztube.tv/*
 #END
-# Generated on 2025-08-23 07:54:02 (MSK)
+# Domain count: 42828
+
+# Generated on 2025-08-23 07:57:05 (MSK)

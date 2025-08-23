@@ -1,6 +1,4 @@
 #BEGIN
-# Domain count: 441
-
 [Wildcard]
 *://*.4pda.ru/*
 *://*.4pda.to/*
@@ -444,4 +442,6 @@
 *://*.t3.chat/*
 *://*.x.ai/*
 #END
-# Generated on 2025-08-23 07:54:02 (MSK)
+# Domain count: 441
+
+# Generated on 2025-08-23 07:57:05 (MSK)
