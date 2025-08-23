@@ -1,6 +1,6 @@
 #BEGIN
 # Domain count: 1971
-# Generated on: 2025-08-23 07:47:09 (MSK)
+# Generated on: 2025-08-23 07:48:48 (MSK)
 [Wildcard]
 *://*..ua/*
 *://*.10minutemail.com/*
