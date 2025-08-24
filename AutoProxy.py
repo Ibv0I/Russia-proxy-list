@@ -57,7 +57,7 @@ def process_and_refilter(output_file):
 
     final_output = [
         "[AutoProxy 0.2.9]",
-        f"! Generated on (Moscow): {current_time}",
+        f"! Generated on : {current_time} (MSK)",
         f"! Domain count: {domain_count}",
         ""
     ] + formatted_domains
