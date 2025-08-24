@@ -1,6 +1,7 @@
 import os
 import requests
 from datetime import datetime
+from zoneinfo import ZoneInfo   # для Python 3.9+
 
 # URLs
 url_1 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"
@@ -8,7 +9,7 @@ url_2 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/commu
 url_3 = "https://community.antifilter.download/list/domains.lst"
 url_4 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst"
 
-# Folder for output
+# Папка для вывода
 output_folder = "AutoProxy"
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
@@ -47,15 +48,20 @@ def process_and_refilter(output_file):
         lines = download_list(url)
         all_domains.update(extract_domains(lines))
     print(f"Объединено {len(all_domains)} уникальных доменов.")
+
     formatted_domains = [f"||{domain}" for domain in sorted(all_domains) if not domain.startswith("||")]
     domain_count = len(formatted_domains)
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    # Точное время по Москве
+    current_time = datetime.now(ZoneInfo("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S")
+
     final_output = [
         "[AutoProxy 0.2.9]",
-        f"! Generated on: {current_time}",
+        f"! Generated on (Moscow): {current_time}",
         f"! Domain count: {domain_count}",
         ""
     ] + formatted_domains
+
     save_to_file(output_file, final_output)
 
 if __name__ == "__main__":
