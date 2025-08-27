@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2025-08-26 04:54:32 (MSK)
-! Domain count: 1971
+! Generated on : 2025-08-27 04:51:01 (MSK)
+! Domain count: 1977
 
 ||.ua
 ||10minutemail.com
@@ -796,6 +796,7 @@
 ||images.discordapp.net
 ||images.instagram.com
 ||imf.org
+||imgur.com
 ||important-stories.com
 ||imrussia.org
 ||independent.com.mt
@@ -848,6 +849,7 @@
 ||jskor.ill.in.ua
 ||jut-su.net
 ||jut.su
+||jw-russia.org
 ||jw.org
 ||k-d.center
 ||kafanews.com
@@ -1047,6 +1049,7 @@
 ||migrant.ru
 ||minds.com
 ||minval.az
+||miracleptr.wordpress.com
 ||miro.medium.com
 ||mirror.cyberbits.eu
 ||mixcloud.com
@@ -1544,6 +1547,8 @@
 ||smartbear.com
 ||smartdeploy.com
 ||sme.sk
+||sms-activate.io
+||snapgene.com
 ||snapmagic.com
 ||sndcdn.com
 ||snort.org
@@ -1767,6 +1772,7 @@
 ||ufile.io
 ||ui.com
 ||ui.ill.in.ua
+||uizard.io
 ||ukr.net
 ||ukr.radio
 ||ukrinform.ru
