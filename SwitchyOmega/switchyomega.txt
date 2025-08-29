@@ -87,6 +87,7 @@
 *://*.alqassam.ps/*
 *://*.alza.hu/*
 *://*.amazfitwatchfaces.com/*
+*://*.amazon.com/*
 *://*.amdm.ru/*
 *://*.amedia.site/*
 *://*.americannaziparty.com/*
@@ -159,10 +160,12 @@
 *://*.archive.is/*
 *://*.archive.ph/*
 *://*.archiveofourown.org/*
+*://*.archlinux.org/*
 *://*.arm.com/*
 *://*.arte.tv/*
 *://*.article19.org/*
 *://*.artifacts.elastic.co/*
+*://*.artstation.com/*
 *://*.artsy.net/*
 *://*.as6723.net/*
 *://*.ashingtonpost.com/*
@@ -205,6 +208,7 @@
 *://*.bbcrussian.com/*
 *://*.bbm.com/*
 *://*.bcbits.com/*
+*://*.beamng.com/*
 *://*.beeg.com/*
 *://*.bell-sw.com/*
 *://*.bellingcat.com/*
@@ -316,6 +320,7 @@
 *://*.chatgpt.com/*
 *://*.chatgpt.livekit.cloud/*
 *://*.chaturbate.com/*
+*://*.check-host.net/*
 *://*.checkout.buckaroo.nl/*
 *://*.cherta.media/*
 *://*.chess.com/*
@@ -329,12 +334,16 @@
 *://*.clamav.net/*
 *://*.clashofclans.com/*
 *://*.clashroyaleapp.com/*
+*://*.clashverge.dev/*
 *://*.claude.ai/*
+*://*.clerk.com/*
+*://*.clerk.dev/*
 *://*.clickup.com/*
 *://*.clip.opus.pro/*
 *://*.cloud.mongodb.com/*
 *://*.cloudflare-dns.com/*
 *://*.cloudflare-ech.com/*
+*://*.cloudflare.com/*
 *://*.cloudtorrents.com/*
 *://*.cms-twdigitalassets.com/*
 *://*.cnd2exp.online/*
@@ -403,6 +412,7 @@
 *://*.dennikn.sk/*
 *://*.depo.ua/*
 *://*.depositphotos.com/*
+*://*.desec.io/*
 *://*.designer.microsoft.com/*
 *://*.designify.com/*
 *://*.deti-404.com/*
@@ -420,6 +430,7 @@
 *://*.digitalcontent.sky/*
 *://*.digitalocean.com/*
 *://*.dis.gd/*
+*://*.discogs.com/*
 *://*.discord-activities.com/*
 *://*.discord-attachments-uploads-prd.storage.googleapis.com/*
 *://*.discord.co/*
@@ -497,6 +508,7 @@
 *://*.editorials.voa.gov/*
 *://*.editorx.com/*
 *://*.edu-cisco.org/*
+*://*.edx.org/*
 *://*.ef.com/*
 *://*.ef.edu/*
 *://*.efe.com/*
@@ -544,6 +556,7 @@
 *://*.expressvpn.com/*
 *://*.external.xx.fbcdn.net/*
 *://*.extremetech.com/*
+*://*.ezgif.com/*
 *://*.eztv.ag/*
 *://*.eztv.re/*
 *://*.f1.com/*
@@ -582,6 +595,7 @@
 *://*.fingerium.stream.voidboost.cc/*
 *://*.firefly-ps.adobe.io/*
 *://*.flashscore.com/*
+*://*.flclash.cc/*
 *://*.flibusta.is/*
 *://*.flibusta.net/*
 *://*.flipboard.com/*
@@ -605,9 +619,12 @@
 *://*.forum.mhut.org/*
 *://*.forum.netgate.com/*
 *://*.forum.ru-board.com/*
+*://*.forum.syncthing.net/*
 *://*.forum.torproject.net/*
 *://*.forum.torproject.org/*
 *://*.forum.voynaplemyon.com/*
+*://*.fosshub.com/*
+*://*.fossorial.io/*
 *://*.foxnews.com/*
 *://*.framer.com/*
 *://*.frant.me/*
@@ -728,11 +745,13 @@
 *://*.hdrezka.fm/*
 *://*.hdrezka.me/*
 *://*.healthline.com/*
+*://*.heavyfetish.com/*
 *://*.helm.releases.hashicorp.com/*
 *://*.help.instagram.com/*
 *://*.helpdesk.media/*
 *://*.hentai-foundry.com/*
 *://*.herokucdn.com/*
+*://*.hetzner.cloud/*
 *://*.hetzner.com/*
 *://*.hide.me/*
 *://*.hidemyass.com/*
@@ -804,6 +823,7 @@
 *://*.infineon.com/*
 *://*.information.dk/*
 *://*.informator.ua/*
+*://*.inoreader.com/*
 *://*.insearch.site/*
 *://*.instagram.com/*
 *://*.instagram.fhrk1-1.fna.fbcdn.net/*
@@ -825,7 +845,9 @@
 *://*.investigator.org.ua/*
 *://*.ionos.com/*
 *://*.ios.chat.openai.com/*
+*://*.iot334.com/*
 *://*.ipburger.com/*
+*://*.ipinfo.app/*
 *://*.iptv.online/*
 *://*.ipvnews.org/*
 *://*.irishtimes.com/*
@@ -836,11 +858,14 @@
 *://*.itgetsbetter.org/*
 *://*.itninja.com/*
 *://*.itsmycity.ru/*
+*://*.ixxx.com/*
+*://*.izzysoft.de/*
 *://*.jackpotcitycasino1.com/*
 *://*.jahforum.org/*
 *://*.jamf.com/*
 *://*.jetbrains.com/*
 *://*.jetbrains.space/*
+*://*.jinxxy.com/*
 *://*.jnn-pa.googleapis.com/*
 *://*.jpgazeta.ru/*
 *://*.jsf.mil/*
@@ -855,6 +880,7 @@
 *://*.kaleido.ai/*
 *://*.kamatera.com/*
 *://*.kara.su/*
+*://*.karing.app/*
 *://*.kasparov.ru/*
 *://*.kasyanov.ru/*
 *://*.kat.am/*
@@ -978,6 +1004,7 @@
 *://*.m.strava.com/*
 *://*.macpaw.com/*
 *://*.macvendors.com/*
+*://*.magicalchemy.org/*
 *://*.maidan.org.ua/*
 *://*.mail-api.proton.me/*
 *://*.mail.proton.me/*
@@ -993,6 +1020,7 @@
 *://*.mangadex.org/*
 *://*.mangahub.ru/*
 *://*.mangapark.net/*
+*://*.manjaro.org/*
 *://*.manus.im/*
 *://*.maps.instagram.com/*
 *://*.marketplace.atlassian.com/*
@@ -1049,6 +1077,7 @@
 *://*.minval.az/*
 *://*.miracleptr.wordpress.com/*
 *://*.miro.medium.com/*
+*://*.mirror.chaotic.cx/*
 *://*.mirror.cyberbits.eu/*
 *://*.mixcloud.com/*
 *://*.mnr.gov.cn/*
@@ -1094,6 +1123,7 @@
 *://*.neo4j.com/*
 *://*.netaddress.com/*
 *://*.netapp.com/*
+*://*.netbird.io/*
 *://*.netflix.ca/*
 *://*.netflix.com/*
 *://*.netflix.net/*
@@ -1114,7 +1144,9 @@
 *://*.newtime.ua/*
 *://*.newtimes.ru/*
 *://*.newvz.ru/*
+*://*.nextcloud.com/*
 *://*.nextmail.ru/*
+*://*.nexusmods.com/*
 *://*.nfl.com/*
 *://*.nflxext.com/*
 *://*.nflximg.com/*
@@ -1173,6 +1205,7 @@
 *://*.oasis.app/*
 *://*.obozrevatel.com/*
 *://*.observador.pt/*
+*://*.ocbase.com/*
 *://*.occrp.org/*
 *://*.ochevidcy.com/*
 *://*.ocstore.com/*
@@ -1214,6 +1247,7 @@
 *://*.opensea.io/*
 *://*.opensocietyfoundations.org/*
 *://*.openuni.io/*
+*://*.openwrt.org/*
 *://*.openwrt.wk.cz/*
 *://*.opioids.com/*
 *://*.opposition-news.com/*
@@ -1243,6 +1277,7 @@
 *://*.parniplus.com/*
 *://*.partypoker.com/*
 *://*.partypoker.net/*
+*://*.pastebin.com/*
 *://*.path3.xtracloud.net/*
 *://*.patreon.com/*
 *://*.patriot.dp.ua/*
@@ -1287,6 +1322,7 @@
 *://*.plugins.jetbrains.com/*
 *://*.plugshare.com/*
 *://*.pn14.info/*
+*://*.podkop.net/*
 *://*.podrobnosti.ua/*
 *://*.pof.com/*
 *://*.pokerstars.com/*
@@ -1327,6 +1363,7 @@
 *://*.prostovpn.org/*
 *://*.protokol.band/*
 *://*.proton.me/*
+*://*.protondb.com/*
 *://*.protonmail.ch/*
 *://*.protonmail.com/*
 *://*.protonvpn.com/*
@@ -1437,6 +1474,7 @@
 *://*.rueconomics.ru/*
 *://*.rule34.art/*
 *://*.rule34.xxx/*
+*://*.rulet.tv/*
 *://*.rumble.com/*
 *://*.rureporter.com/*
 *://*.rus-media.org/*
@@ -1523,6 +1561,7 @@
 *://*.simplex.chat/*
 *://*.simplex.im/*
 *://*.simplix.info/*
+*://*.sing-box.sagernet.org/*
 *://*.singlekey-id.com/*
 *://*.site.com/*
 *://*.skai.gr/*
@@ -1566,6 +1605,7 @@
 *://*.sovanews.tv/*
 *://*.sovetromantica.com/*
 *://*.spacelift.io/*
+*://*.spankbang.com/*
 *://*.speeddater.co.uk/*
 *://*.speedtest.net/*
 *://*.spektr.press/*
@@ -1634,6 +1674,8 @@
 *://*.swagger.io/*
 *://*.swisscows.email/*
 *://*.swissinfo.ch/*
+*://*.sxyprn.com/*
+*://*.sxyprn.net/*
 *://*.sydney.bing.com/*
 *://*.synoforum.com/*
 *://*.sysdig.com/*
@@ -1722,6 +1764,7 @@
 *://*.trellix.com/*
 *://*.trendsmap.com/*
 *://*.triller.co/*
+*://*.trueachievements.com/*
 *://*.trueblackmetalradio.com/*
 *://*.trust.zone/*
 *://*.truthsocial.com/*
@@ -1737,6 +1780,13 @@
 *://*.tuta.com/*
 *://*.tuta.io/*
 *://*.tutanota.com/*
+*://*.tuya-inc.cn/*
+*://*.tuya.com/*
+*://*.tuyaaf.com/*
+*://*.tuyacn.com/*
+*://*.tuyaeu.com/*
+*://*.tuyain.com/*
+*://*.tuyaus.com/*
 *://*.tvfreedom.io/*
 *://*.tvmnews.mt/*
 *://*.tvnet.lv/*
@@ -1827,6 +1877,7 @@
 *://*.vmware.com/*
 *://*.vndb.org/*
 *://*.voanews.com/*
+*://*.vod.streamgum.com/*
 *://*.voidboost.cc/*
 *://*.volkswagen-classic-parts.com/*
 *://*.vot-tak.tv/*
@@ -1838,6 +1889,8 @@
 *://*.vpnpay.io/*
 *://*.vpnproxymaster.com/*
 *://*.vpnredcat.com/*
+*://*.vrchat.cloud/*
+*://*.vrchat.com/*
 *://*.vrv.co/*
 *://*.vyos.io/*
 *://*.vyos.net/*
@@ -1871,6 +1924,7 @@
 *://*.wilsoncenter.org/*
 *://*.windguru.cz/*
 *://*.windows10spotlight.com/*
+*://*.windowsupdate.com/*
 *://*.windsurf.com/*
 *://*.wise.com/*
 *://*.wixmp.com/*
@@ -1937,6 +1991,7 @@
 *://*.xvideos.com/*
 *://*.y2mate.com/*
 *://*.yande.re/*
+*://*.yarnpkg.com/*
 *://*.yeggi.com/*
 *://*.yle.fi/*
 *://*.youporn.com/*
@@ -1971,6 +2026,7 @@
 *://*.zeit.de/*
 *://*.zendesk.com/*
 *://*.zerkalo.io/*
+*://*.zerotier.com/*
 *://*.zetflix.online/*
 *://*.znak.com/*
 *://*.znanija.com/*
@@ -1978,5 +2034,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 1977
-# Generated on: 2025-08-28 04:50:04 (MSK)
+# Domain count: 2033
+# Generated on: 2025-08-29 04:49:48 (MSK)
