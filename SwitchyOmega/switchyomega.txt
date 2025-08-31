@@ -26,6 +26,7 @@
 *://*.85.215.221.210/*
 *://*.888casino.com/*
 *://*.9tv.co.il/*
+*://*.a360.co/*
 *://*.ab.chatgpt.com/*
 *://*.abercrombie.com/*
 *://*.abook-club.ru/*
@@ -179,7 +180,11 @@
 *://*.auth.grazie.ai/*
 *://*.auth.openai.com/*
 *://*.auth0.openai.com/*
+*://*.autocad.com/*
 *://*.autodesk.com/*
+*://*.autodesk.io/*
+*://*.autodesk.net/*
+*://*.autodesk360.com/*
 *://*.autodiscover.instagram.com/*
 *://*.avira.com/*
 *://*.avtonom.org/*
@@ -1191,6 +1196,7 @@
 *://*.omenforwomen.org/*
 *://*.omnissa.com/*
 *://*.omsk.com/*
+*://*.omtrdc.net/*
 *://*.omv-extras.org/*
 *://*.omvesti.ru/*
 *://*.onderzine.com/*
@@ -1515,6 +1521,7 @@
 *://*.selezen.org/*
 *://*.semnasem.org/*
 *://*.semrush.com/*
+*://*.sendgrid.net/*
 *://*.sendspace.com/*
 *://*.sentry.dev/*
 *://*.sentry.io/*
@@ -1710,12 +1717,17 @@
 *://*.tiktokcdn.com/*
 *://*.tiktokd.net/*
 *://*.tiktokd.org/*
+*://*.tiktokeu-cdn.com/*
+*://*.tiktokrow-cdn.com/*
 *://*.tiktokv.com/*
+*://*.tiktokv.eu/*
 *://*.tiktokv.us/*
+*://*.tiktokw.eu/*
 *://*.tiktokw.us/*
 *://*.timberland.com/*
 *://*.timberland.de/*
 *://*.timesofmalta.com/*
+*://*.tinkercad.com/*
 *://*.tiptop-vpn.com/*
 *://*.tjournal.ru/*
 *://*.tmdb-image-prod.b-cdn.net/*
@@ -1748,6 +1760,8 @@
 *://*.trv-science.org/*
 *://*.tsmc.com/*
 *://*.tsn.ua/*
+*://*.ttlivecdn.com/*
+*://*.ttoverseaus.net/*
 *://*.ttwstatic.com/*
 *://*.tunnelbear.com/*
 *://*.turbobit.net/*
@@ -1998,5 +2012,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 1997
-# Generated on: 2025-08-30 04:44:35 (MSK)
+# Domain count: 2011
+# Generated on: 2025-08-31 04:55:24 (MSK)

@@ -4,6 +4,12 @@
 *://*.4pda.to/*
 *://*.abook-club.ru/*
 *://*.adguard.com/*
+*://*.autodesk.com/*
+*://*.autodesk360.com/*
+*://*.autocad.com/*
+*://*.autodesk.io/*
+*://*.a360.co/*
+*://*.autodesk.net/*
 *://*.adobe.activate.com/*
 *://*.adobe.com/*
 *://*.adobe.de/*
@@ -53,6 +59,7 @@
 *://*.bitbucket.org/*
 *://*.bitcoin.org/*
 *://*.bitru.org/*
+*://*.byteoversea.com/*
 *://*.booktracker.org/*
 *://*.boosteroid.com/*
 *://*.bosch-home.com/*
@@ -110,6 +117,7 @@
 *://*.d.docs.live.net/*
 *://*.database.clamav.net/*
 *://*.deezer.com/*
+*://*.deepl.com/*
 *://*.tailscale.com/*
 *://*.pkgs.tailscale.com/*
 *://*.dl.tailscale.com/*
@@ -266,6 +274,8 @@
 *://*.mobile.events.data.microsoft.com/*
 *://*.monster.ie/*
 *://*.mouser.com/*
+*://*.muscdn.com/*
+*://*.musical.ly/*
 *://*.mrakopedia.net/*
 *://*.myworld-portal.leica-geosystems.com/*
 *://*.www.mongodb.com/*
@@ -275,6 +285,7 @@
 *://*.nordaccount.com/*
 *://*.nordcdn.com/*
 *://*.notion.com/*
+*://*.notion.so/*
 *://*.notepad-plus-plus.org/*
 *://*.notebooklm.google/*
 *://*.ntc.party/*
@@ -283,6 +294,7 @@
 *://*.oaistatic.com/*
 *://*.oasis.app/*
 *://*.omv-extras.org/*
+*://*.omtrdc.net/*
 *://*.onlineradiobox.com/*
 *://*.onlinesim.ru/*
 *://*.openai.com/*
@@ -352,6 +364,7 @@
 *://*.software-static.download.prss.microsoft.com/*
 *://*.sovanews.tv/*
 *://*.sentry.io/*
+*://*.sendgrid.net/*
 *://*.stockx.com/*
 *://*.serpstat.com/*
 *://*.singlekey-id.com/*
@@ -382,7 +395,24 @@
 *://*.themoviedb.org/*
 *://*.tidal.com/*
 *://*.tiktok.com/*
+*://*.tik-tokapi.com/*
+*://*.tiktokcdn-eu.com/*
+*://*.tiktokcdn-us.com/*
+*://*.tiktokcdn.com/*
+*://*.tiktokd.net/*
+*://*.tiktokd.org/*
+*://*.tiktokeu-cdn.com/*
+*://*.tiktokrow-cdn.com/*
+*://*.tiktokv.com/*
+*://*.tiktokv.eu/*
+*://*.tiktokv.us/*
+*://*.tiktokw.eu/*
+*://*.tiktokw.us/*
+*://*.ttlivecdn.com/*
+*://*.ttoverseaus.net/*
+*://*.ttwstatic.com/*
 *://*.timberland.com/*
+*://*.tinkercad.com/*
 *://*.tmdb.org/*
 *://*.tokenized.play.google.com/*
 *://*.tools.cisco.com/*
@@ -442,6 +472,6 @@
 *://*.t3.chat/*
 *://*.x.ai/*
 #END
-# Domain count: 441
+# Domain count: 471
 
-# Generated on 2025-08-30 04:44:35 (MSK)
+# Generated on 2025-08-31 04:55:24 (MSK)

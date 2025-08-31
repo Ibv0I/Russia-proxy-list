@@ -1,9 +1,10 @@
 [AutoProxy 0.2.9]
-! Domain count: 421
-! Generated on 2025-08-30 04:44:37 (MSK)
+! Domain count: 451
+! Generated on 2025-08-31 04:55:25 (MSK)
 
 ||4pda.ru
 ||4pda.to
+||a360.co
 ||abook-club.ru
 ||abs-0.twimg.com
 ||adafruit.com
@@ -52,6 +53,11 @@
 ||auth.grazie.ai
 ||auth.openai.com
 ||auth0.openai.com
+||autocad.com
+||autodesk.com
+||autodesk.io
+||autodesk.net
+||autodesk360.com
 ||autodiscover.instagram.com
 ||bard.google.com
 ||bbci.co.uk
@@ -68,6 +74,7 @@
 ||builds.parsec.app
 ||bungiestore.com
 ||business.instagram.com
+||byteoversea.com
 ||canva.com
 ||cdn.betterttv.net
 ||cdn.id.supercell.com
@@ -97,6 +104,7 @@
 ||czx.to
 ||d.docs.live.net
 ||database.clamav.net
+||deepl.com
 ||deezer.com
 ||dell.com
 ||developers.instagram.com
@@ -227,7 +235,9 @@
 ||monster.ie
 ||mouser.com
 ||mrakopedia.net
+||muscdn.com
 ||music.youtube.com
+||musical.ly
 ||myworld-portal.leica-geosystems.com
 ||netflix.com
 ||nih.gov
@@ -237,12 +247,14 @@
 ||notebooklm.google
 ||notepad-plus-plus.org
 ||notion.com
+||notion.so
 ||ntc.party
 ||nyaa.si
 ||nyaa.tracker.wf
 ||oaistatic.com
 ||oaiusercontent.com
 ||oasis.app
+||omtrdc.net
 ||omv-extras.org
 ||onlineradiobox.com
 ||onlinesim.ru
@@ -309,6 +321,7 @@
 ||secure-web.cisco.com
 ||seedoff.zannn.top
 ||semnasem.org
+||sendgrid.net
 ||sentry.io
 ||serpstat.com
 ||signal.art
@@ -346,8 +359,22 @@
 ||terraform.io
 ||themoviedb.org
 ||tidal.com
+||tik-tokapi.com
 ||tiktok.com
+||tiktokcdn-eu.com
+||tiktokcdn-us.com
+||tiktokcdn.com
+||tiktokd.net
+||tiktokd.org
+||tiktokeu-cdn.com
+||tiktokrow-cdn.com
+||tiktokv.com
+||tiktokv.eu
+||tiktokv.us
+||tiktokw.eu
+||tiktokw.us
 ||timberland.com
+||tinkercad.com
 ||tmdb.org
 ||tokenized.play.google.com
 ||tools.cisco.com
@@ -355,6 +382,9 @@
 ||tr.anidub.com
 ||tracker.opentrackr.org
 ||trae.ai
+||ttlivecdn.com
+||ttoverseaus.net
+||ttwstatic.com
 ||turn.livekit.cloud
 ||tutanota.com
 ||twimg.com
