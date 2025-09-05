@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2025-09-04 04:44:50 (MSK)
-! Domain count: 2011
+! Generated on : 2025-09-05 04:47:17 (MSK)
+! Domain count: 2015
 
 ||.ua
 ||10minutemail.com
@@ -388,6 +388,7 @@
 ||danbooru.donmai.us
 ||dartcenter.org
 ||data-cdn.mbamupdates.com
+||data.cline.bot
 ||database.clamav.net
 ||day.kyiv.ua
 ||daymohk.org
@@ -543,6 +544,7 @@
 ||event.on24.com
 ||eventbrite.com
 ||everand.com
+||exchanger.bits.media
 ||exler.ru
 ||expandrive.com
 ||explorer.ooni.org
@@ -560,6 +562,7 @@
 ||facebook.net
 ||factograph.info
 ||fakty.ua
+||fansly.com
 ||fast-die.github.io
 ||fast-die.kiev.ua
 ||fast-torrent.club
@@ -1004,6 +1007,7 @@
 ||mangahub.ru
 ||mangapark.net
 ||manus.im
+||manyvids.com
 ||maps.instagram.com
 ||marketplace.atlassian.com
 ||marvelsnap.com
