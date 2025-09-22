@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2025-09-21 04:55:40 (MSK)
-! Domain count: 2015
+! Generated on : 2025-09-22 04:55:46 (MSK)
+! Domain count: 2016
 
 ||.ua
 ||10minutemail.com
@@ -1882,6 +1882,7 @@
 ||vyos.io
 ||vyos.net
 ||w.atwiki.jp
+||wall.alphacoders.com
 ||walmart.com
 ||war.hvylya.net
 ||watchguard.com
