@@ -1881,6 +1881,7 @@
 *://*.vyos.net/*
 *://*.w.atwiki.jp/*
 *://*.wall.alphacoders.com/*
+*://*.wallpapercave.com/*
 *://*.walmart.com/*
 *://*.war.hvylya.net/*
 *://*.watchguard.com/*
@@ -2017,5 +2018,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 2016
-# Generated on: 2025-09-25 04:48:07 (MSK)
+# Domain count: 2017
+# Generated on: 2025-09-26 04:47:19 (MSK)
