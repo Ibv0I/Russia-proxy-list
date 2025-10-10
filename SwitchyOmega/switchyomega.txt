@@ -2019,4 +2019,4 @@
 *://*.zona.media/*
 #END
 # Domain count: 2017
-# Generated on: 2025-10-09 04:47:25 (MSK)
+# Generated on: 2025-10-10 04:47:48 (MSK)
