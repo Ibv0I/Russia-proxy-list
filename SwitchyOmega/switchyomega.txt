@@ -23,7 +23,6 @@
 *://*.7dniv.rv.ua/*
 *://*.7tv.app/*
 *://*.7tv.io/*
-*://*.85.215.221.210/*
 *://*.888casino.com/*
 *://*.9tv.co.il/*
 *://*.a360.co/*
@@ -64,6 +63,7 @@
 *://*.adobelogin.com/*
 *://*.ads-twitter.com/*
 *://*.adultmult.tv/*
+*://*.advocate.com/*
 *://*.advox.globalvoices.org/*
 *://*.afcs.dellcdn.com/*
 *://*.afp.com/*
@@ -85,7 +85,6 @@
 *://*.allrus.news/*
 *://*.allthefallen.moe/*
 *://*.alphacoders.com/*
-*://*.alqassam.ps/*
 *://*.alza.hu/*
 *://*.amazfitwatchfaces.com/*
 *://*.amdm.ru/*
@@ -133,7 +132,7 @@
 *://*.api.home-connect.com/*
 *://*.api.instagram.com/*
 *://*.api.jetbrains.ai/*
-*://*.api.ooni.org/*
+*://*.api.ooni.io/*
 *://*.api.openai.com/*
 *://*.api.protonmail.ch/*
 *://*.api.protonvpn.ch/*
@@ -166,7 +165,6 @@
 *://*.artifacts.elastic.co/*
 *://*.artsy.net/*
 *://*.as6723.net/*
-*://*.ashingtonpost.com/*
 *://*.aspektymedia.ru/*
 *://*.assets.heroku.com/*
 *://*.atlassian.com/*
@@ -176,7 +174,6 @@
 *://*.att.com/*
 *://*.attachments.f95zone.to/*
 *://*.audiobookbay.lu/*
-*://*.aur.archlinux.org/*
 *://*.auth.grazie.ai/*
 *://*.auth.openai.com/*
 *://*.auth0.openai.com/*
@@ -231,7 +228,6 @@
 *://*.bitmask.net/*
 *://*.bitnami.com/*
 *://*.bitru.org/*
-*://*.bitstamp.net/*
 *://*.bittornado.com/*
 *://*.black.instagram.com/*
 *://*.blackberry.com/*
@@ -240,10 +236,10 @@
 *://*.blackseatv.com/*
 *://*.blancvpn.com/*
 *://*.blinkshot.io/*
+*://*.blockdx.co/*
 *://*.blog.business.instagram.com/*
 *://*.blog.instagram.com/*
 *://*.blogs.voanews.com/*
-*://*.blogsome.com/*
 *://*.bluehost.com/*
 *://*.bogus.d2a8n1.rootcanary.net/*
 *://*.boingboing.net/*
@@ -331,6 +327,7 @@
 *://*.cisco.com/*
 *://*.cisecurity.org/*
 *://*.citrix.com/*
+*://*.civitas.ru/*
 *://*.clamav.net/*
 *://*.clashofclans.com/*
 *://*.clashroyaleapp.com/*
@@ -453,7 +450,6 @@
 *://*.disctech.com/*
 *://*.disneyplus.com/*
 *://*.dist.torproject.org/*
-*://*.dit-inc.us/*
 *://*.dl.discordapp.net/*
 *://*.dl.tailscale.com/*
 *://*.dns.adguard.com/*
@@ -465,10 +461,10 @@
 *://*.doh-fi.blahdns.com/*
 *://*.doh.centraleu.pi-dns.com/*
 *://*.donpress.com/*
-*://*.doovi.com/*
 *://*.dorama.live/*
 *://*.doramalive.ru/*
 *://*.doramy.club/*
+*://*.doski.ru/*
 *://*.dossier.center/*
 *://*.doubleclick.net/*
 *://*.dovod.online/*
@@ -492,10 +488,10 @@
 *://*.e1v-h.phncdn.com/*
 *://*.e621.net/*
 *://*.earerepost.com/*
-*://*.easyflow1er.com/*
 *://*.echo.msk.ru/*
 *://*.echofm.online/*
 *://*.eclipso.de/*
+*://*.ectaco.com/*
 *://*.edge-chat.instagram.com/*
 *://*.edge-mqtt.facebook.com/*
 *://*.edge.microsoft.com/*
@@ -513,7 +509,6 @@
 *://*.element14.com/*
 *://*.elements.envato.com/*
 *://*.elevenlabs.io/*
-*://*.elhosting.ru/*
 *://*.elmundo.es/*
 *://*.elpais.com/*
 *://*.envato.com/*
@@ -533,9 +528,11 @@
 *://*.etsy.com/*
 *://*.eu-iot-prod.aws.tcljd.com/*
 *://*.eu-objective.online/*
+*://*.eu.germanydns.org/*
 *://*.euobserver.com/*
 *://*.eurasia.amnesty.org/*
 *://*.euronews.com/*
+*://*.europedatingonline.com/*
 *://*.euroradio.fm/*
 *://*.euthanasia.cc/*
 *://*.eutrp.eu/*
@@ -544,8 +541,8 @@
 *://*.everand.com/*
 *://*.exchanger.bits.media/*
 *://*.exler.ru/*
+*://*.exmormon.org/*
 *://*.expandrive.com/*
-*://*.explorer.ooni.org/*
 *://*.expres.online/*
 *://*.expresso.pt/*
 *://*.expressvpn.com/*
@@ -610,13 +607,13 @@
 *://*.forklog.com/*
 *://*.formula1.com/*
 *://*.fortanga.org/*
-*://*.forum.mhut.org/*
 *://*.forum.netgate.com/*
 *://*.forum.ru-board.com/*
 *://*.forum.torproject.net/*
 *://*.forum.torproject.org/*
 *://*.forum.voynaplemyon.com/*
 *://*.foxnews.com/*
+*://*.fr.de/*
 *://*.framer.com/*
 *://*.frant.me/*
 *://*.frc.org/*
@@ -627,6 +624,7 @@
 *://*.freemedia.io/*
 *://*.freevpnplanet.com/*
 *://*.fri-gate.org/*
+*://*.friendfinder.com/*
 *://*.fw-download.ubnt.com/*
 *://*.fw-update.ubnt.com/*
 *://*.fxnetworks.com/*
@@ -659,7 +657,6 @@
 *://*.githubcopilot.com/*
 *://*.gitlab.io/*
 *://*.glaad.org/*
-*://*.glad.org/*
 *://*.glasnaya.media/*
 *://*.glavcom.ua/*
 *://*.glavnoe.in.ua/*
@@ -690,6 +687,7 @@
 *://*.goodreads.com/*
 *://*.googletagmanager.com/*
 *://*.googlevideo.com/*
+*://*.googlezip.net/*
 *://*.gordonua.com/*
 *://*.gotgayporn.com/*
 *://*.gpsonextra.net/*
@@ -713,7 +711,6 @@
 *://*.groupon.com/*
 *://*.gsc-game.com/*
 *://*.gtagarage.com/*
-*://*.guardster.com/*
 *://*.gubernia.media/*
 *://*.guilded.gg/*
 *://*.gulagu.net/*
@@ -726,7 +723,6 @@
 *://*.hath.network/*
 *://*.haydaygame.com/*
 *://*.hbomax.com/*
-*://*.hbr.org/*
 *://*.hc-ping.com/*
 *://*.hchk.io/*
 *://*.hd-rezka.tv/*
@@ -737,6 +733,7 @@
 *://*.hdrezka.fm/*
 *://*.hdrezka.me/*
 *://*.healthline.com/*
+*://*.hejtstop.pl/*
 *://*.helm.releases.hashicorp.com/*
 *://*.help.instagram.com/*
 *://*.helpdesk.media/*
@@ -745,7 +742,7 @@
 *://*.hetzner.com/*
 *://*.hide.me/*
 *://*.hidemyass.com/*
-*://*.hiv.gov/*
+*://*.hightimes.com/*
 *://*.hizb-ut-tahrir.org/*
 *://*.hleb.asia/*
 *://*.hochuzhit.com/*
@@ -760,6 +757,7 @@
 *://*.host.livekit.cloud/*
 *://*.hostgator.com/*
 *://*.hostinger.com/*
+*://*.hostings.info/*
 *://*.hotels.com/*
 *://*.hotgaylist.com/*
 *://*.hotspotshield.com/*
@@ -770,7 +768,6 @@
 *://*.hrw.org/*
 *://*.hs.fi/*
 *://*.htmhell.dev/*
-*://*.humanityinaction.org/*
 *://*.hunafa.com/*
 *://*.hyperhost.ua/*
 *://*.hyperlapse.instagram.com/*
@@ -785,6 +782,7 @@
 *://*.ichef.bbci.co.uk/*
 *://*.ichkeria.info/*
 *://*.id.cisco.com/*
+*://*.id.vk.ru/*
 *://*.idelreal.org/*
 *://*.iditelesom.org/*
 *://*.iditelesombase.org/*
@@ -792,7 +790,6 @@
 *://*.ig.me/*
 *://*.ign.com/*
 *://*.iherb.com/*
-*://*.ihrc.org.uk/*
 *://*.iichan.hk/*
 *://*.ikea.com/*
 *://*.ikhwanonline.com/*
@@ -802,7 +799,6 @@
 *://*.image.tmdb.org/*
 *://*.images.discordapp.net/*
 *://*.images.instagram.com/*
-*://*.imf.org/*
 *://*.imgur.com/*
 *://*.important-stories.com/*
 *://*.imrussia.org/*
@@ -851,6 +847,7 @@
 *://*.jetbrains.com/*
 *://*.jetbrains.space/*
 *://*.jnn-pa.googleapis.com/*
+*://*.journlab.online/*
 *://*.jpgazeta.ru/*
 *://*.jsf.mil/*
 *://*.jskor.ill.in.ua/*
@@ -866,7 +863,6 @@
 *://*.kara.su/*
 *://*.kasparov.ru/*
 *://*.kasyanov.ru/*
-*://*.kat.am/*
 *://*.katcr.to/*
 *://*.kavkaz-uzel.eu/*
 *://*.kavkaz.tv/*
@@ -879,6 +875,7 @@
 *://*.khilafah.com/*
 *://*.khilafah.net/*
 *://*.khodorkovsky.ru/*
+*://*.kickassclassical.com/*
 *://*.kickasstorrents.to/*
 *://*.kidshealth.org/*
 *://*.kino.pub/*
@@ -912,6 +909,7 @@
 *://*.kupujemprodajem.com/*
 *://*.kuzpress.ru/*
 *://*.kym-cdn.com/*
+*://*.l.google.com/*
 *://*.l.instagram.com/*
 *://*.la-croix.com/*
 *://*.la7.it/*
@@ -927,14 +925,13 @@
 *://*.leafletjs.com/*
 *://*.lemonde.fr/*
 *://*.lenovo.com/*
-*://*.lentachel.ru/*
 *://*.leonidvolkov.ru/*
 *://*.levif.be/*
 *://*.lexpress.fr/*
 *://*.lgbt.org.ua/*
 *://*.lgbtnet.org/*
-*://*.lgbtnewsnow.org/*
 *://*.lgbtqia.space/*
+*://*.lgbtqnation.com/*
 *://*.lgbtru.com/*
 *://*.lgbtvacationplanners.com/*
 *://*.lgeapi.com/*
@@ -942,9 +939,7 @@
 *://*.lib.rus.ec/*
 *://*.liberation.fr/*
 *://*.libgen.fun/*
-*://*.libgen.gs/*
 *://*.libgen.is/*
-*://*.libgen.lc/*
 *://*.libgen.li/*
 *://*.libgen.life/*
 *://*.libgen.me/*
@@ -960,6 +955,7 @@
 *://*.limetorrents.pro/*
 *://*.line.me/*
 *://*.linear.app/*
+*://*.lingo.com/*
 *://*.linkedin.com/*
 *://*.linktr.ee/*
 *://*.linuxiac.com/*
@@ -979,6 +975,7 @@
 *://*.lostfilm.tv/*
 *://*.lostfilm.win/*
 *://*.lostfilmtv2.site/*
+*://*.lotoru.com/*
 *://*.lrt.lt/*
 *://*.lrytas.lt/*
 *://*.lsm.lv/*
@@ -986,7 +983,9 @@
 *://*.lucid.app/*
 *://*.luckynugget.com/*
 *://*.lurkmore.to/*
+*://*.m.soundcloud.com/*
 *://*.m.strava.com/*
+*://*.m.youtube.com/*
 *://*.macpaw.com/*
 *://*.macvendors.com/*
 *://*.maidan.org.ua/*
@@ -1000,7 +999,6 @@
 *://*.make.com/*
 *://*.maltatoday.com.mt/*
 *://*.malwarebytes.com/*
-*://*.manas.news/*
 *://*.mangadex.org/*
 *://*.mangahub.ru/*
 *://*.mangapark.net/*
@@ -1014,7 +1012,6 @@
 *://*.mask-h2.icloud.com/*
 *://*.mask.icloud.com/*
 *://*.master.qt.io/*
-*://*.match.com/*
 *://*.matrix-client.matrix.org/*
 *://*.matrix.to/*
 *://*.mattermost.com/*
@@ -1027,6 +1024,7 @@
 *://*.mdza.io/*
 *://*.meddaily.ru/*
 *://*.media.discordapp.net/*
+*://*.medianet.kz/*
 *://*.mediapatriot.ru/*
 *://*.mediapool.bg/*
 *://*.mediazona.ca/*
@@ -1044,6 +1042,7 @@
 *://*.melord.net/*
 *://*.memohrc.org/*
 *://*.merezha.co/*
+*://*.messagevortex.net/*
 *://*.messenger.com/*
 *://*.meta.com/*
 *://*.metacritic.com/*
@@ -1056,7 +1055,6 @@
 *://*.middlewareinventory.com/*
 *://*.mignews.com/*
 *://*.mignews.ua/*
-*://*.migrant.ru/*
 *://*.minds.com/*
 *://*.minval.az/*
 *://*.miracleptr.wordpress.com/*
@@ -1075,7 +1073,9 @@
 *://*.moz.gov.ua/*
 *://*.mp3.com/*
 *://*.mrakopedia.net/*
+*://*.msn.com/*
 *://*.mssg.me/*
+*://*.mstdn.jp/*
 *://*.mullvad.net/*
 *://*.multporn.net/*
 *://*.muscdn.com/*
@@ -1091,6 +1091,7 @@
 *://*.myjetbrains.com/*
 *://*.myparallels.com/*
 *://*.myqrcode.com/*
+*://*.myspace.com/*
 *://*.myworld-portal.leica-geosystems.com/*
 *://*.nash-sever.info/*
 *://*.nashaniva.com/*
@@ -1104,7 +1105,6 @@
 *://*.ned.org/*
 *://*.neformat.com.ua/*
 *://*.neo4j.com/*
-*://*.netaddress.com/*
 *://*.netapp.com/*
 *://*.netflix.ca/*
 *://*.netflix.com/*
@@ -1113,6 +1113,7 @@
 *://*.netflixtechblog.com/*
 *://*.netlify.com/*
 *://*.networksolutions.com/*
+*://*.nevnov.ru/*
 *://*.nevzorov.tv/*
 *://*.newark.com/*
 *://*.newinform.com/*
@@ -1172,6 +1173,7 @@
 *://*.novayapolsha.pl/*
 *://*.nr2.com.ua/*
 *://*.nrc.nl/*
+*://*.nsdapao.info/*
 *://*.nsf.gov/*
 *://*.ntc.party/*
 *://*.ntp.msn.com/*
@@ -1189,11 +1191,10 @@
 *://*.ochevidcy.com/*
 *://*.ocstore.com/*
 *://*.oculus.com/*
+*://*.odysee.com/*
 *://*.oe24.at/*
 *://*.ohmyswift.ru/*
 *://*.oi.legal/*
-*://*.oic-oci.org/*
-*://*.oikoumene.org/*
 *://*.okx.com/*
 *://*.olx.ua/*
 *://*.omen.ru/*
@@ -1205,7 +1206,6 @@
 *://*.omvesti.ru/*
 *://*.onderzine.com/*
 *://*.onfastspring.com/*
-*://*.online-dating.org/*
 *://*.onlinegambling.com/*
 *://*.onlineradiobox.com/*
 *://*.onlinesim.io/*
@@ -1228,15 +1228,14 @@
 *://*.opensocietyfoundations.org/*
 *://*.openuni.io/*
 *://*.openwrt.wk.cz/*
-*://*.opioids.com/*
 *://*.opposition-news.com/*
 *://*.or.team/*
 *://*.oracle.com/*
 *://*.orbit-games.com/*
 *://*.orf.at/*
-*://*.originalelf.com/*
 *://*.orldwildlife.org/*
 *://*.os.mbed.com/*
+*://*.out.com/*
 *://*.ovd.info/*
 *://*.ovd.legal/*
 *://*.ovd.news/*
@@ -1249,6 +1248,7 @@
 *://*.paperpaper.io/*
 *://*.paperpaper.ru/*
 *://*.papervpn.io/*
+*://*.paralleleconomy.com/*
 *://*.parallels.cn/*
 *://*.parallels.com/*
 *://*.parallels.net/*
@@ -1284,7 +1284,6 @@
 *://*.pimpletv.ru/*
 *://*.pingdom.com/*
 *://*.pinknews.co.uk/*
-*://*.pinme.ru/*
 *://*.piratbit.top/*
 *://*.pixabay.com/*
 *://*.pixiv.net/*
@@ -1320,9 +1319,11 @@
 *://*.portal.bgpmon.net/*
 *://*.portal.lviv.ua/*
 *://*.posle.media/*
+*://*.posteo.de/*
 *://*.postimees.ee/*
 *://*.pravda.com/*
 *://*.pravda.com.ua/*
+*://*.premaritalsex.info/*
 *://*.premierleague.com/*
 *://*.pressorg24.com/*
 *://*.primevideo.com/*
@@ -1353,18 +1354,17 @@
 *://*.proxy.individual.githubcopilot.com/*
 *://*.proxy.org/*
 *://*.proxyscrape.com/*
-*://*.prq.se/*
 *://*.pscp.tv/*
 *://*.psiphon.ca/*
 *://*.psyplants.info/*
 *://*.public.parsec.app/*
 *://*.publico.pt/*
 *://*.purevpn.com/*
+*://*.pushkindol.ru/*
 *://*.putin-itogi.ru/*
 *://*.putinbog.wordpress.com/*
 *://*.qha.com.ua/*
 *://*.qt.io/*
-*://*.queerfest.ru/*
 *://*.quora.com/*
 *://*.quora.com.cdn.cloudflare.net/*
 *://*.r4.err.ee/*
@@ -1410,6 +1410,7 @@
 *://*.republic.ru/*
 *://*.rescue.org/*
 *://*.research.net/*
+*://*.resonance.press/*
 *://*.resp.app/*
 *://*.returnyoutubedislikeapi.com/*
 *://*.reve.art/*
@@ -1437,6 +1438,7 @@
 *://*.rpm.grafana.com/*
 *://*.rsf.org/*
 *://*.rte.ie/*
+*://*.rtmps.youtube.com/*
 *://*.rtp.pt/*
 *://*.rtve.es/*
 *://*.ru-news.us/*
@@ -1518,9 +1520,9 @@
 *://*.searchfloor.org/*
 *://*.seasonvar.ru/*
 *://*.sebeanus.online/*
+*://*.secfirst.org/*
 *://*.secure-web.cisco.com/*
 *://*.secure.avaaz.org/*
-*://*.securenym.net/*
 *://*.seedoff.zannn.top/*
 *://*.selezen.org/*
 *://*.semnasem.org/*
@@ -1576,7 +1578,9 @@
 *://*.smartbear.com/*
 *://*.smartdeploy.com/*
 *://*.sme.sk/*
+*://*.smp18.simplex.im/*
 *://*.sms-activate.io/*
+*://*.snanews.de/*
 *://*.snapgene.com/*
 *://*.snapmagic.com/*
 *://*.sndcdn.com/*
@@ -1601,13 +1605,13 @@
 *://*.speedtest.net/*
 *://*.spektr.press/*
 *://*.spiceworks.com/*
+*://*.spid.center/*
 *://*.spiegel.de/*
 *://*.spinpalace.com/*
 *://*.spitfireaudio.com/*
 *://*.sportingbet.com/*
 *://*.sportsinteraction.com/*
 *://*.spotify.com/*
-*://*.spr.ru/*
 *://*.spreadthesign.com/*
 *://*.spring96.org/*
 *://*.sprotyv.info/*
@@ -1644,6 +1648,7 @@
 *://*.strava.com/*
 *://*.stream.voidboost.cc/*
 *://*.streamable.com/*
+*://*.studio.youtube.com/*
 *://*.stulchik.net/*
 *://*.suggestqueries.google.com/*
 *://*.supercell.com/*
@@ -1697,7 +1702,6 @@
 *://*.theaudiodb.com/*
 *://*.thebarentsobserver.com/*
 *://*.thebell.io/*
-*://*.thegeekdiary.com/*
 *://*.thegooddrugsguide.com/*
 *://*.theins.press/*
 *://*.theins.ru/*
@@ -1741,6 +1745,7 @@
 *://*.tokenized.play.google.com/*
 *://*.toolbox.app/*
 *://*.tools.cisco.com/*
+*://*.topersoft.com/*
 *://*.tor.eff.org/*
 *://*.torontovka.com/*
 *://*.torproject.org/*
@@ -1839,12 +1844,12 @@
 *://*.ust-kut24.com/*
 *://*.utro02.tv/*
 *://*.vagrantcloud.com/*
+*://*.vanguardnewsnetwork.com/*
 *://*.vector.im/*
 *://*.vectorworks.net/*
 *://*.veeam.com/*
 *://*.velocidrone.com/*
 *://*.veritas.com/*
-*://*.versia.ru/*
 *://*.verstka.media/*
 *://*.vesma.one/*
 *://*.vesma.today/*
@@ -1957,6 +1962,7 @@
 *://*.www.wunderground.com/*
 *://*.www.youtube.com/*
 *://*.www3.corsair.com/*
+*://*.www3.nhk.or.jp/*
 *://*.x.ai/*
 *://*.x.com/*
 *://*.xanga.com/*
@@ -1975,6 +1981,7 @@
 *://*.xv-ru.com/*
 *://*.xvideos-cdn.com/*
 *://*.xvideos.com/*
+*://*.xxx.lanl.gov/*
 *://*.y2mate.com/*
 *://*.yande.re/*
 *://*.yeggi.com/*
@@ -2018,5 +2025,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 2017
-# Generated on: 2025-10-17 04:48:57 (MSK)
+# Domain count: 2024
+# Generated on: 2025-10-18 04:43:53 (MSK)
