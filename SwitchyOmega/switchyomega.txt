@@ -300,6 +300,7 @@
 *://*.cdn.id.supercell.com/*
 *://*.cdn.oaistatic.com/*
 *://*.cdn.web-platform.io/*
+*://*.cdn2site.com/*
 *://*.cdnbunny.org/*
 *://*.cdninstagram.com/*
 *://*.cdromance.org/*
@@ -2025,5 +2026,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 2024
-# Generated on: 2025-10-19 05:01:16 (MSK)
+# Domain count: 2025
+# Generated on: 2025-10-20 04:58:06 (MSK)
