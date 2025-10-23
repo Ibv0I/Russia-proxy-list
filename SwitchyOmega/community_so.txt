@@ -80,6 +80,7 @@
 *://*.chess.com/*
 *://*.cisco.com/*
 *://*.cdninstagram.com/*
+*://*.cdn-telegram.org/*
 *://*.pbs.twimg.com.cdn.cloudflare.net/*
 *://*.video.twimg.com.cdn.cloudflare.net/*
 *://*.admin.instagram.com/*
@@ -119,6 +120,18 @@
 *://*.deezer.com/*
 *://*.deepl.com/*
 *://*.tailscale.com/*
+*://*.t.me/*
+*://*.tdesktop.com/*
+*://*.telega.one/*
+*://*.telegra.ph/*
+*://*.telegram-cdn.org/*
+*://*.telegram.dog/*
+*://*.telegram.me/*
+*://*.telegram.org/*
+*://*.telegram.space/*
+*://*.telesco.pe/*
+*://*.tg.dev/*
+*://*.tx.me/*
 *://*.pkgs.tailscale.com/*
 *://*.dl.tailscale.com/*
 *://*.dell.com/*
@@ -130,7 +143,6 @@
 *://*.docker.elastic.co/*
 *://*.docs.redis.com/*
 *://*.documentation.meraki.com/*
-*://*.download.jetbrains.com/*
 *://*.download.lenovo.com/*
 *://*.download.screamingfrog.co.uk/*
 *://*.download.wetransfer.com/*
@@ -209,6 +221,7 @@
 *://*.gllto.glpals.com/*
 *://*.grok.com/*
 *://*.githubcopilot.com/*
+*://*.gql.twitch.tv/*
 *://*.copilot.microsoft.com/*
 *://*.disneyplus.com/*
 *://*.max.com/*
@@ -249,6 +262,8 @@
 *://*.intel.com/*
 *://*.ipburger.com/*
 *://*.island-of-pleasure.site/*
+*://*.jetbrains.com/*
+*://*.jetbrains.ai/*
 *://*.kemono.party/*
 *://*.kino.pub/*
 *://*.kpapp.link/*
@@ -325,13 +340,13 @@
 *://*.proxyscrape.com/*
 *://*.plab.site/*
 *://*.platform.twitter.com/*
-*://*.plugins.jetbrains.com/*
 *://*.polit.ru/*
 *://*.prnt.sc/*
 *://*.pornolab.net/*
 *://*.pornhub.com/*
 *://*.portal.bgpmon.net/*
 *://*.protonmail.com/*
+*://*.pump.fun/*
 *://*.quora.com/*
 *://*.radarr.servarr.com/*
 *://*.raw-data.gitlab.io/*
@@ -377,6 +392,7 @@
 *://*.signal.org/*
 *://*.signalusers.org/*
 *://*.soundcloud.com/*
+*://*.sndcdn.com/*
 *://*.spotify.com/*
 *://*.streamable.com/*
 *://*.st.kinovod.net/*
@@ -419,6 +435,7 @@
 *://*.torrent.by/*
 *://*.tr.anidub.com/*
 *://*.tracker.opentrackr.org/*
+*://*.usher.ttvnw.net/*
 *://*.tutanota.com/*
 *://*.twimg.com/*
 *://*.abs-0.twimg.com/*
@@ -462,6 +479,8 @@
 *://*.ui.com/*
 *://*.www.ti.com/*
 *://*.www.wikiart.org/*
+*://*.whatsapp.com/*
+*://*.whatsapp.net/*
 *://*.xhamster.com/*
 *://*.xhamsterlive.com/*
 *://*.znanija.com/*
@@ -472,6 +491,6 @@
 *://*.t3.chat/*
 *://*.x.ai/*
 #END
-# Domain count: 471
+# Domain count: 490
 
-# Generated on 2025-10-22 04:55:30 (MSK)
+# Generated on 2025-10-23 04:50:33 (MSK)

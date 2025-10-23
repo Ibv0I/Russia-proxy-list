@@ -3871,6 +3871,7 @@
 *://*.asgard.estate/*
 *://*.ash.freestreams-live1.com/*
 *://*.asha-gp.ru/*
+*://*.ashingtonpost.com/*
 *://*.ashoo.ac/*
 *://*.ashoo.bid/*
 *://*.ashoo.biz/*
@@ -6724,6 +6725,7 @@
 *://*.cdghyre.info/*
 *://*.cdigimedia.com/*
 *://*.cdn-client.medium.com/*
+*://*.cdn-telegram.org/*
 *://*.cdn.betterttv.net/*
 *://*.cdn.fbsbx.com/*
 *://*.cdn.id.supercell.com/*
@@ -7299,7 +7301,6 @@
 *://*.civiccouncil.info/*
 *://*.civilmplus.org/*
 *://*.civilplatform.ru/*
-*://*.civitas.ru/*
 *://*.civo34.ru/*
 *://*.civsoc.net/*
 *://*.cj8.pirat.one/*
@@ -8622,6 +8623,7 @@
 *://*.dhs-pioneria.ru/*
 *://*.di-teslaxw-ru.firebaseapp.com/*
 *://*.di-teslaxw-ru.web.app/*
+*://*.dia.mil/*
 *://*.diabay.ru/*
 *://*.diadema-nn.ru/*
 *://*.diagoodru.netlify.app/*
@@ -9179,7 +9181,6 @@
 *://*.dovvezia.com/*
 *://*.dowcursor.ucoz.ru/*
 *://*.dowmarkets.com/*
-*://*.download.jetbrains.com/*
 *://*.download.lafa-tor.ru/*
 *://*.download.lafa.ru.net/*
 *://*.download.lenovo.com/*
@@ -11192,6 +11193,7 @@
 *://*.finitestage.fun/*
 *://*.finlay.capital/*
 *://*.finluxhorus.com/*
+*://*.finmarket.ru/*
 *://*.finmarketpro.com/*
 *://*.finntap.com/*
 *://*.finoboz.net/*
@@ -13454,7 +13456,6 @@
 *://*.goof.lintant.top/*
 *://*.googletagmanager.com/*
 *://*.googlevideo.com/*
-*://*.googlezip.net/*
 *://*.goolerris.shop/*
 *://*.goooo.kinogo.wtf/*
 *://*.gooool.info/*
@@ -13592,6 +13593,7 @@
 *://*.gpress.info/*
 *://*.gps-mag.ru/*
 *://*.gqes.pirat.one/*
+*://*.gql.twitch.tv/*
 *://*.gr.lordfilmik.fun/*
 *://*.gr0wthgenius.beauty/*
 *://*.gr0wthgenius.motorcycles/*
@@ -14935,7 +14937,6 @@
 *://*.hostfilm.org/*
 *://*.hostgator.com/*
 *://*.hostiko.com.ua/*
-*://*.hostings.info/*
 *://*.hostmovies.pw/*
 *://*.hosttogo.click/*
 *://*.hosttogo.one/*
@@ -15241,7 +15242,6 @@
 *://*.id.cisco.com/*
 *://*.id.gudanglagu321.mx/*
 *://*.id.mp3juices.vin/*
-*://*.id.vk.ru/*
 *://*.id.zklad.info/*
 *://*.id2024.lordfilm1.zone/*
 *://*.idaoffice.org/*
@@ -16266,6 +16266,8 @@
 *://*.jet-xgames.top/*
 *://*.jet67medias.com/*
 *://*.jet6media.com/*
+*://*.jetbrains.ai/*
+*://*.jetbrains.com/*
 *://*.jetfilm.club/*
 *://*.jetpetss.com/*
 *://*.jets31medias.com/*
@@ -16477,7 +16479,6 @@
 *://*.jz-brothers.ru/*
 *://*.jz.lordfilmik.space/*
 *://*.jztgndqe---ei3mgr4e-bsccljbcrq-ez.a.run.app/*
-*://*.k-d.center/*
 *://*.k-dmsh74.ru/*
 *://*.k-z.com.ua/*
 *://*.k.1intworld.fun/*
@@ -19981,7 +19982,6 @@
 *://*.m.shalena-maika.ua/*
 *://*.m.simom.ru/*
 *://*.m.skachat-kino.top/*
-*://*.m.soundcloud.com/*
 *://*.m.sportsbay.global/*
 *://*.m.strava.com/*
 *://*.m.superomatic.co/*
@@ -20853,6 +20853,7 @@
 *://*.mega.gdn/*
 *://*.mega.lc/*
 *://*.mega.mrmoriarti.com/*
+*://*.mega.nz/*
 *://*.mega.onionweb.site/*
 *://*.mega.sb.msk.ru/*
 *://*.mega.sc/*
@@ -21572,6 +21573,7 @@
 *://*.modernpornhd.com/*
 *://*.modmaz.homes/*
 *://*.modnye-vmeste.ru/*
+*://*.modrinth.com/*
 *://*.modulebiz.top/*
 *://*.modules-playground.ru/*
 *://*.moe.kredomoe.live/*
@@ -22007,7 +22009,6 @@
 *://*.mskobl.com/*
 *://*.msktab.org/*
 *://*.msktabakopt.ru/*
-*://*.msn.com/*
 *://*.mso-sro.ru/*
 *://*.msp44.ru/*
 *://*.msport.newsrbk.ru/*
@@ -23178,6 +23179,7 @@
 *://*.nina-tour.ru/*
 *://*.ninaserikova.ru/*
 *://*.nine.go2me.top/*
+*://*.nine.testrun.org/*
 *://*.ninja-strike.pro/*
 *://*.nippybox.com/*
 *://*.nippydrive.com/*
@@ -25478,7 +25480,6 @@
 *://*.pltfrm-for-eu.website/*
 *://*.plug-mirror.rcac.purdue.edu/*
 *://*.plug-platesh.shop/*
-*://*.plugins.jetbrains.com/*
 *://*.plumperthumbs.com/*
 *://*.plurays.cfd/*
 *://*.plus-cinema.ru/*
@@ -26592,6 +26593,7 @@
 *://*.pulsodes.od.ua/*
 *://*.pult.kinobog.pro/*
 *://*.pultikspb.ru/*
+*://*.pump.fun/*
 *://*.punishworld.com/*
 *://*.punkhazard-odtyb.pw/*
 *://*.punkhazard-uzmau.online/*
@@ -27506,7 +27508,6 @@
 *://*.reson.metexzzone.monster/*
 *://*.reson.metexzzone.quest/*
 *://*.reson.metexzzone.space/*
-*://*.resonance.press/*
 *://*.resp.app/*
 *://*.respectabletrust.top/*
 *://*.resplendentai.shop/*
@@ -30829,9 +30830,10 @@
 *://*.smutr.com/*
 *://*.smw.bigmny.top/*
 *://*.snabarmatura-spb.ru/*
-*://*.snanews.de/*
+*://*.snapchat.com/*
 *://*.snappygoat.com/*
 *://*.snaptube.su/*
+*://*.sndcdn.com/*
 *://*.sndm0vrt7.com/*
 *://*.sndmovrt6.com/*
 *://*.snds.org/*
@@ -31771,7 +31773,6 @@
 *://*.studio-munich.com/*
 *://*.studio-munich.de/*
 *://*.studio-rgb.ru/*
-*://*.studio.youtube.com/*
 *://*.studioacht.xyz/*
 *://*.studioband.online/*
 *://*.studiomasters.ru/*
@@ -32193,6 +32194,7 @@
 *://*.t.hilmapro.in/*
 *://*.t.homosteron.site/*
 *://*.t.lafa.fun/*
+*://*.t.me/*
 *://*.t.pharmacomlabs.xyz/*
 *://*.t.serialec.top/*
 *://*.t.tennisi.com/*
@@ -32403,6 +32405,7 @@
 *://*.tdarbat.online/*
 *://*.tdardo.ru/*
 *://*.tdeniga24.biz/*
+*://*.tdesktop.com/*
 *://*.tdic.pirat.one/*
 *://*.tdkport.ru/*
 *://*.tdmdm.ru/*
@@ -32584,18 +32587,26 @@
 *://*.telefonnii-spravochnik-krima.ru/*
 *://*.teleg.cc/*
 *://*.teleg.eu/*
+*://*.telega.one/*
 *://*.telegoo.top/*
+*://*.telegra.ph/*
 *://*.telegrachan.ru/*
 *://*.telegraf.com.ua/*
 *://*.telegraf.news/*
 *://*.telegram-1.ru/*
+*://*.telegram-cdn.org/*
 *://*.telegram.djeneriki.biz/*
+*://*.telegram.dog/*
+*://*.telegram.me/*
+*://*.telegram.org/*
+*://*.telegram.space/*
 *://*.telegramian.com/*
 *://*.telegraph.co.uk/*
 *://*.telekritika.ua/*
 *://*.telemag-td.ru/*
 *://*.teleport-tv.ru/*
 *://*.teleportal.ua/*
+*://*.telesco.pe/*
 *://*.teleskopov.net/*
 *://*.telkuputera.net/*
 *://*.tellpatron.click/*
@@ -32712,6 +32723,7 @@
 *://*.tfyuvva.info/*
 *://*.tg-bot.pro/*
 *://*.tg-wonderland.ru/*
+*://*.tg.dev/*
 *://*.tg02.kinosliv.org/*
 *://*.tg2.pirat.one/*
 *://*.tgcv.pirat.one/*
@@ -34898,6 +34910,7 @@
 *://*.twstalker.com/*
 *://*.tww18.biz/*
 *://*.tx-global.net/*
+*://*.tx.me/*
 *://*.txserial.online/*
 *://*.txt.newsru.com/*
 *://*.txtraffic.ru/*
@@ -35500,6 +35513,7 @@
 *://*.usersbox.ru/*
 *://*.userscontent2.emaze.com/*
 *://*.ushakovitalii.ru/*
+*://*.usher.ttvnw.net/*
 *://*.ushkvden.megapeer.ru/*
 *://*.ushkvdenis.megapeer.ru/*
 *://*.usi-news.info/*
@@ -35750,7 +35764,6 @@
 *://*.valyuta.casa/*
 *://*.vambonus.com/*
 *://*.vamtabak4.ru/*
-*://*.vanguardnewsnetwork.com/*
 *://*.vanilla-rock.com/*
 *://*.vanyavpn.app/*
 *://*.vanyavpn.org/*
@@ -37100,6 +37113,8 @@
 *://*.whataudio.ru/*
 *://*.whateiaceklad.biz/*
 *://*.whatsapp-skachat.com/*
+*://*.whatsapp.com/*
+*://*.whatsapp.net/*
 *://*.whatsappbotonline.ru/*
 *://*.whatsappstatus30.com/*
 *://*.whaysl.site/*
@@ -42868,6 +42883,6 @@
 *://*.zzztube.com/*
 *://*.zzztube.tv/*
 #END
-# Domain count: 42867
+# Domain count: 42882
 
-# Generated on 2025-10-22 04:55:31 (MSK)
+# Generated on 2025-10-23 04:50:34 (MSK)

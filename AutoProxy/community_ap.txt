@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Domain count: 451
-! Generated on 2025-10-22 04:55:32 (MSK)
+! Domain count: 470
+! Generated on 2025-10-23 04:50:36 (MSK)
 
 ||4pda.ru
 ||4pda.to
@@ -76,6 +76,7 @@
 ||business.instagram.com
 ||byteoversea.com
 ||canva.com
+||cdn-telegram.org
 ||cdn.betterttv.net
 ||cdn.id.supercell.com
 ||cdn.oaistatic.com
@@ -139,7 +140,6 @@
 ||docker.elastic.co
 ||docs.redis.com
 ||documentation.meraki.com
-||download.jetbrains.com
 ||download.lenovo.com
 ||download.screamingfrog.co.uk
 ||download.wetransfer.com
@@ -180,6 +180,7 @@
 ||googletagmanager.com
 ||googlevideo.com
 ||gordonua.com
+||gql.twitch.tv
 ||grammarly.com
 ||grazie.ai
 ||grok.com
@@ -204,6 +205,8 @@
 ||intel.com
 ||ipburger.com
 ||island-of-pleasure.site
+||jetbrains.ai
+||jetbrains.com
 ||kemono.party
 ||kino.pub
 ||kpapp.link
@@ -284,7 +287,6 @@
 ||pkgs.tailscale.com
 ||plab.site
 ||platform.twitter.com
-||plugins.jetbrains.com
 ||polit.ru
 ||pornhub.com
 ||pornolab.net
@@ -295,6 +297,7 @@
 ||protonmail.ch
 ||protonmail.com
 ||proxyscrape.com
+||pump.fun
 ||quora.com
 ||radarr.servarr.com
 ||ranger.stream.voidboost.cc
@@ -331,6 +334,7 @@
 ||skladchik.com
 ||skyscanner.com
 ||slideshare.net
+||sndcdn.com
 ||soapui.org
 ||software-static.download.prss.microsoft.com
 ||software.cisco.com
@@ -354,9 +358,20 @@
 ||support.ruckuswireless.com
 ||swagger.io
 ||sysdig.com
+||t.me
 ||t3.chat
 ||tailscale.com
+||tdesktop.com
+||telega.one
+||telegra.ph
+||telegram-cdn.org
+||telegram.dog
+||telegram.me
+||telegram.org
+||telegram.space
+||telesco.pe
 ||terraform.io
+||tg.dev
 ||themoviedb.org
 ||tidal.com
 ||tik-tokapi.com
@@ -388,6 +403,7 @@
 ||turn.livekit.cloud
 ||tutanota.com
 ||twimg.com
+||tx.me
 ||ubnt.com
 ||ufile.io
 ||ui.com
@@ -397,6 +413,7 @@
 ||uniongang.tv
 ||ununbium.stream.voidboost.cc
 ||upload.instagram.com
+||usher.ttvnw.net
 ||vectorworks.net
 ||velocidrone.com
 ||veritas.com
@@ -410,6 +427,8 @@
 ||weblance.com.ua
 ||welt.de
 ||wetransfer.com
+||whatsapp.com
+||whatsapp.net
 ||wheather.com
 ||whispersystems.org
 ||white.instagram.com
