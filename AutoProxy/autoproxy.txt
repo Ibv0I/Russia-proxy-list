@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2025-10-25 04:48:22 (MSK)
-! Domain count: 2038
+! Generated on : 2025-10-26 04:57:11 (MSK)
+! Domain count: 2090
 
 ||.ua
 ||10minutemail.com
@@ -158,6 +158,7 @@
 ||aqicn.org
 ||arbat.media
 ||arc.intel.com
+||arc.net
 ||archive.is
 ||archive.ph
 ||archiveofourown.org
@@ -327,6 +328,7 @@
 ||chess.com
 ||christianitytoday.com
 ||chronicles.media
+||chub.ai
 ||church.ua
 ||cia.gov
 ||cisco.com
@@ -336,6 +338,7 @@
 ||clashofclans.com
 ||clashroyaleapp.com
 ||claude.ai
+||clevelandclinic.org
 ||clickup.com
 ||clip.opus.pro
 ||cloud.mongodb.com
@@ -351,6 +354,8 @@
 ||coingate.com
 ||coinpayments.net
 ||coinsbee.com
+||coldfilm.city
+||coldfilm.ink
 ||coldfilm.xyz
 ||colta.ru
 ||com.cy
@@ -367,6 +372,7 @@
 ||cpu-monkey.com
 ||credly.com
 ||crimea-news.info
+||croxyproxy.com
 ||crunchyroll.com
 ||cryptpad.fr
 ||csskor.ill.in.ua
@@ -383,6 +389,7 @@
 ||d.docs.live.net
 ||d2dj0qptshsals.cloudfront.net
 ||daemon-tools.cc
+||dailylviv.com
 ||dailymotion.com
 ||danbooru.donmai.us
 ||dartcenter.org
@@ -416,6 +423,7 @@
 ||dev.ua
 ||developer.nvidia.com
 ||developers.instagram.com
+||devexpress.com
 ||deviantart.com
 ||devops.com
 ||dia.mil
@@ -488,11 +496,15 @@
 ||dsau.dp.ua
 ||dual-a-0001.a-msedge.net
 ||ducati.com
+||dumka.media
 ||dw.com
 ||dwelle.eu
+||dyson.com
+||e-hentai.org
 ||e1v-h.phncdn.com
 ||e621.net
 ||earerepost.com
+||easydmarc.com
 ||echo.msk.ru
 ||echofm.online
 ||eclipso.de
@@ -516,6 +528,7 @@
 ||elevenlabs.io
 ||elmundo.es
 ||elpais.com
+||eneba.com
 ||envato.com
 ||epg.one
 ||epidemz.net.co
@@ -598,6 +611,7 @@
 ||flipboard.com
 ||flir.com
 ||flir.eu
+||flisland.net
 ||flourish.studio
 ||fls.guru
 ||fluke.com
@@ -628,6 +642,7 @@
 ||freedomletters.org
 ||freeimages.com
 ||freemedia.io
+||freeones.com
 ||freevpnplanet.com
 ||fri-gate.org
 ||friendfinder.com
@@ -641,6 +656,7 @@
 ||game.brawlstarsgame.com
 ||gamedistribution.com
 ||gamesrepack.com
+||gamestop.com
 ||gaming.amazon.com
 ||gateway.discord.gg
 ||gaycity.love
@@ -651,6 +667,7 @@
 ||gemini.google.com
 ||geni.us
 ||genius.com
+||genspark.ai
 ||geolocation.onetrust.com
 ||germania.one
 ||getlantern.org
@@ -659,6 +676,7 @@
 ||gfn.am
 ||ggpht.com
 ||ghostrc.game.idtech.services
+||gifyu.com
 ||gijn.org
 ||githubcopilot.com
 ||gitlab.io
@@ -669,6 +687,7 @@
 ||glavnoe.ua
 ||glavpost.com
 ||glavred.info
+||glavred.net
 ||gllto.glpals.com
 ||global.fncstatic.com
 ||global.platform.seconddinnertech.com
@@ -735,8 +754,13 @@
 ||hdkinoteatr.com
 ||hdrezka.ac
 ||hdrezka.ag
+||hdrezka.app
 ||hdrezka.fm
 ||hdrezka.me
+||hdrezka.tech
+||hdrezka.tv
+||hdrzk.org
+||hdstudio.org
 ||healthline.com
 ||hejtstop.pl
 ||helm.releases.hashicorp.com
@@ -748,6 +772,7 @@
 ||hide.me
 ||hidemyass.com
 ||hightimes.com
+||hitomi.la
 ||hizb-ut-tahrir.org
 ||hleb.asia
 ||hochuzhit.com
@@ -765,6 +790,7 @@
 ||hotels.com
 ||hotgaylist.com
 ||hotspotshield.com
+||housebrand.com
 ||howtogrowmarijuana.com
 ||hqporner.com
 ||hrc.org
@@ -772,7 +798,9 @@
 ||hrw.org
 ||hs.fi
 ||htmhell.dev
+||hume.ai
 ||hunafa.com
+||hybrid-analysis.com
 ||hyperhost.ua
 ||hyperlapse.instagram.com
 ||i.4pda.ws
@@ -841,6 +869,8 @@
 ||island-of-pleasure.site
 ||istories.media
 ||itarmy.com.ua
+||itch.io
+||itdog.info
 ||itgetsbetter.org
 ||itninja.com
 ||itsmycity.ru
@@ -889,6 +919,7 @@
 ||kinogoo.cc
 ||kinokopilka.pro
 ||kinokrad.co
+||kinopub.me
 ||kinovod.net
 ||kinozal.guru
 ||kinozal.me
@@ -976,6 +1007,8 @@
 ||lostfilm.run
 ||lostfilm.today
 ||lostfilm.tv
+||lostfilm.tw
+||lostfilm.uno
 ||lostfilm.win
 ||lostfilmtv2.site
 ||lotoru.com
@@ -1005,6 +1038,7 @@
 ||mangahub.ru
 ||mangapark.net
 ||manus.im
+||manybooks.net
 ||manyvids.com
 ||maps.instagram.com
 ||marketplace.atlassian.com
@@ -1088,6 +1122,7 @@
 ||mv.ecuo.org
 ||mw2.wiki
 ||my.atlassian.com
+||myanimelist.net
 ||myc.news
 ||mydoramy.club
 ||myheritage.com
@@ -1175,12 +1210,14 @@
 ||novayapolsha.com
 ||novayapolsha.eu
 ||novayapolsha.pl
+||novyny.live
 ||nr2.com.ua
 ||nrc.nl
 ||nsdapao.info
 ||nsf.gov
 ||ntc.party
 ||ntp.msn.com
+||nude-moon.org
 ||nv.ua
 ||nxp.com
 ||nyaa.si
@@ -1324,6 +1361,7 @@
 ||portal.lviv.ua
 ||posle.media
 ||posteo.de
+||posthog.com
 ||postimees.ee
 ||pravda.com
 ||pravda.com.ua
@@ -1370,8 +1408,10 @@
 ||putinbog.wordpress.com
 ||qha.com.ua
 ||qt.io
+||quicknode.com
 ||quora.com
 ||quora.com.cdn.cloudflare.net
+||qwant.com
 ||r4.err.ee
 ||radarr.servarr.com
 ||radiofrance.fr
@@ -1388,6 +1428,7 @@
 ||rdo.rs
 ||re-russia.net
 ||reactflow.dev
+||realbooru.com
 ||realist.online
 ||recraft.ai
 ||reddxxx.com
@@ -1416,11 +1457,16 @@
 ||rescue.org
 ||research.net
 ||resp.app
+||restream.io
 ||returnyoutubedislikeapi.com
 ||reve.art
 ||rezka-ua.in
 ||rezka.ag
+||rezka.cc
+||rezka.fi
+||rezka.land
 ||rezka.my
+||rezka.tv
 ||rezkify.com
 ||rezonans.media
 ||rf.dobrochan.net
@@ -1455,6 +1501,7 @@
 ||rublacklist.net
 ||rueconomics.ru
 ||rule34.art
+||rule34.us
 ||rule34.xxx
 ||rumble.com
 ||rureporter.com
@@ -1725,6 +1772,7 @@
 ||thenewtab.io
 ||thepiratebay.org
 ||thepolitics.ru
+||theporndude.com
 ||thetrevorproject.org
 ||thetruestory.news
 ||threads.net
@@ -1776,6 +1824,7 @@
 ||transwhiz.com
 ||trellix.com
 ||trendsmap.com
+||tria.ge
 ||triller.co
 ||trueblackmetalradio.com
 ||trust.zone
@@ -1829,6 +1878,7 @@
 ||ui.com
 ||ui.ill.in.ua
 ||uizard.io
+||ukdevilz.com
 ||ukr.net
 ||ukr.radio
 ||ukrinform.ru
@@ -1846,6 +1896,7 @@
 ||unn.com.ua
 ||unrussia.ru
 ||unscreen.com
+||unsplash.com
 ||ununbium.stream.voidboost.cc
 ||upload.instagram.com
 ||upload.twitter.com
@@ -1911,6 +1962,7 @@
 ||weather.com
 ||web.facebook.com
 ||weblance.com.ua
+||webmd.com
 ||webnames.ca
 ||webtoons.com
 ||weebly.com
