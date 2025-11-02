@@ -2085,11 +2085,12 @@
 *://*.zendesk.com/*
 *://*.zerkalo.io/*
 *://*.zetflix.online/*
+*://*.zimbra.org/*
 *://*.znak.com/*
 *://*.znanija.com/*
 *://*.zohomail.com/*
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 2090
-# Generated on: 2025-11-01 04:57:27 (MSK)
+# Domain count: 2091
+# Generated on: 2025-11-02 05:00:09 (MSK)
