@@ -77,7 +77,9 @@
 *://*.ahrefs.com/*
 *://*.ai-chat.bsg.brave.com/*
 *://*.ai.com/*
+*://*.aircanada.com/*
 *://*.aistudio.google.com/*
+*://*.akc.org/*
 *://*.alberta.ca/*
 *://*.alhurra.com/*
 *://*.alice-vpn.com/*
@@ -324,6 +326,7 @@
 *://*.checkout.buckaroo.nl/*
 *://*.cherta.media/*
 *://*.chess.com/*
+*://*.chesscomfiles.com/*
 *://*.christianitytoday.com/*
 *://*.chronicles.media/*
 *://*.chub.ai/*
@@ -361,6 +364,7 @@
 *://*.community.instagram.com/*
 *://*.community.sophos.com/*
 *://*.compromat.ru/*
+*://*.connect.ngrok-agent.com/*
 *://*.contabo.com/*
 *://*.coomer.su/*
 *://*.copilot-proxy.githubusercontent.com/*
@@ -425,6 +429,7 @@
 *://*.deviantart.com/*
 *://*.devops.com/*
 *://*.dia.mil/*
+*://*.diabrowser.com/*
 *://*.dialog.ua/*
 *://*.diary.ru/*
 *://*.diena.lv/*
@@ -831,6 +836,7 @@
 *://*.imgur.com/*
 *://*.important-stories.com/*
 *://*.imrussia.org/*
+*://*.indeed.com/*
 *://*.independent.com.mt/*
 *://*.independent.ie/*
 *://*.indiehackers.com/*
@@ -868,7 +874,6 @@
 *://*.istories.media/*
 *://*.itarmy.com.ua/*
 *://*.itch.io/*
-*://*.itdog.info/*
 *://*.itgetsbetter.org/*
 *://*.itninja.com/*
 *://*.itsmycity.ru/*
@@ -1141,6 +1146,7 @@
 *://*.ned.org/*
 *://*.neformat.com.ua/*
 *://*.neo4j.com/*
+*://*.netacad.com/*
 *://*.netapp.com/*
 *://*.netflix.ca/*
 *://*.netflix.com/*
@@ -1265,6 +1271,7 @@
 *://*.opensanctions.org/*
 *://*.opensea.io/*
 *://*.opensocietyfoundations.org/*
+*://*.opentrackr.org/*
 *://*.openuni.io/*
 *://*.openwrt.wk.cz/*
 *://*.opposition-news.com/*
@@ -1607,6 +1614,7 @@
 *://*.simplix.info/*
 *://*.singlekey-id.com/*
 *://*.site.com/*
+*://*.siteground.com/*
 *://*.skai.gr/*
 *://*.skat.media/*
 *://*.sketchup.com/*
@@ -1642,6 +1650,7 @@
 *://*.software-static.download.prss.microsoft.com/*
 *://*.software.cisco.com/*
 *://*.solarwinds.com/*
+*://*.sonara.ai/*
 *://*.sora.com/*
 *://*.sotaproject.com/*
 *://*.sotnik-tv.com/*
@@ -1817,6 +1826,7 @@
 *://*.trae.ai/*
 *://*.trailblazer.me/*
 *://*.trailhead.com/*
+*://*.transferwise.com/*
 *://*.transparency.org/*
 *://*.transparency.org.ru/*
 *://*.transwhiz.com/*
@@ -1848,6 +1858,9 @@
 *://*.tvrain.tv/*
 *://*.tweetdeck.com/*
 *://*.twimg.com/*
+*://*.twin.me/*
+*://*.twinlife-systems.com/*
+*://*.twinme.com/*
 *://*.twirpx.com/*
 *://*.twitpic.com/*
 *://*.twitter.biz/*
@@ -2092,5 +2105,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 2091
-# Generated on: 2025-11-03 04:59:21 (MSK)
+# Domain count: 2104
+# Generated on: 2025-11-04 04:54:27 (MSK)
