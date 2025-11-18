@@ -746,6 +746,7 @@
 *://*.hackernoon.com/*
 *://*.hackmd.io/*
 *://*.halooglasi.com/*
+*://*.happycolorapp.com/*
 *://*.hashicorp.com/*
 *://*.hath.network/*
 *://*.haydaygame.com/*
@@ -2106,5 +2107,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 2105
-# Generated on: 2025-11-17 04:57:45 (MSK)
+# Domain count: 2106
+# Generated on: 2025-11-18 04:55:58 (MSK)

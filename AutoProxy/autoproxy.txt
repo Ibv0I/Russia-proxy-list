@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2025-11-17 04:57:46 (MSK)
-! Domain count: 2105
+! Generated on : 2025-11-18 04:55:59 (MSK)
+! Domain count: 2106
 
 ||.ua
 ||10minutemail.com
@@ -748,6 +748,7 @@
 ||hackernoon.com
 ||hackmd.io
 ||halooglasi.com
+||happycolorapp.com
 ||hashicorp.com
 ||hath.network
 ||haydaygame.com
