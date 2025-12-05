@@ -357,6 +357,8 @@
 *://*.registry.terraform.io/*
 *://*.releases.hashicorp.com/*
 *://*.repo.mongodb.org/*
+*://*.roblox.com/*
+*://*.roblox-api.arkoselabs.com/*
 *://*.republic.ru/*
 *://*.rutor.info/*
 *://*.rutor.is/*
@@ -491,6 +493,6 @@
 *://*.t3.chat/*
 *://*.x.ai/*
 #END
-# Domain count: 490
+# Domain count: 492
 
-# Generated on 2025-12-04 04:59:42 (MSK)
+# Generated on 2025-12-05 05:00:04 (MSK)
