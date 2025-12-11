@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Domain count: 472
-! Generated on 2025-12-10 05:01:57 (MSK)
+! Domain count: 479
+! Generated on 2025-12-11 05:03:43 (MSK)
 
 ||4pda.ru
 ||4pda.to
@@ -148,6 +148,7 @@
 ||edge.microsoft.com
 ||edgeservices.bing.com
 ||ej.ru
+||elgato.com
 ||etsy.com
 ||event.on24.com
 ||exler.ru
@@ -230,6 +231,7 @@
 ||mchost.guru
 ||media.discordapp.net
 ||medium.com
+||mega.co.nz
 ||megapeer.ru
 ||memohrc.org
 ||metacritic.com
@@ -285,7 +287,6 @@
 ||piccy.info
 ||pixiv.net
 ||pkgs.tailscale.com
-||plab.site
 ||platform.twitter.com
 ||polit.ru
 ||pornhub.com
@@ -321,6 +322,8 @@
 ||rutor.info
 ||rutor.is
 ||saverudata.info
+||sc-jpl.com
+||sc-static.net
 ||searchfloor.org
 ||sebeanus.online
 ||secure-web.cisco.com
@@ -336,6 +339,10 @@
 ||skladchik.com
 ||skyscanner.com
 ||slideshare.net
+||snap-storage-cdn.l.google.com
+||snap.com
+||snapchat.com
+||snapkit.com
 ||sndcdn.com
 ||soapui.org
 ||software-static.download.prss.microsoft.com

@@ -79,6 +79,7 @@
 *://*.checkout.buckaroo.nl/*
 *://*.chess.com/*
 *://*.cisco.com/*
+*://*.elgato.com/*
 *://*.cdninstagram.com/*
 *://*.cdn-telegram.org/*
 *://*.pbs.twimg.com.cdn.cloudflare.net/*
@@ -282,6 +283,7 @@
 *://*.master.qt.io/*
 *://*.mattermost.com/*
 *://*.medium.com/*
+*://*.mega.co.nz/*
 *://*.megapeer.ru/*
 *://*.memohrc.org/*
 *://*.metacritic.com/*
@@ -338,7 +340,6 @@
 *://*.pixiv.net/*
 *://*.production-openaicom-storage.azureedge.net/*
 *://*.proxyscrape.com/*
-*://*.plab.site/*
 *://*.platform.twitter.com/*
 *://*.polit.ru/*
 *://*.prnt.sc/*
@@ -387,6 +388,12 @@
 *://*.singlekey-id.com/*
 *://*.skladchik.com/*
 *://*.skyscanner.com/*
+*://*.snapchat.com/*
+*://*.sc-static.net/*
+*://*.snapkit.com/*
+*://*.sc-jpl.com/*
+*://*.snap.com/*
+*://*.snap-storage-cdn.l.google.com/*
 *://*.slideshare.net/*
 *://*.soapui.org/*
 *://*.software.cisco.com/*
@@ -493,6 +500,6 @@
 *://*.t3.chat/*
 *://*.x.ai/*
 #END
-# Domain count: 492
+# Domain count: 499
 
-# Generated on 2025-12-10 05:01:55 (MSK)
+# Generated on 2025-12-11 05:03:41 (MSK)
