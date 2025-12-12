@@ -921,6 +921,7 @@
 *://*.kavkaz.tv/*
 *://*.kavkazcenter.com/*
 *://*.kavkazr.com/*
+*://*.kemono.cr/*
 *://*.kemono.party/*
 *://*.kemono.su/*
 *://*.keysight.com/*
@@ -2146,5 +2147,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 2145
-# Generated on: 2025-12-11 05:03:40 (MSK)
+# Domain count: 2146
+# Generated on: 2025-12-12 05:02:49 (MSK)

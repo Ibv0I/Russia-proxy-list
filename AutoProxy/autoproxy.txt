@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2025-12-11 05:03:42 (MSK)
-! Domain count: 2145
+! Generated on : 2025-12-12 05:02:54 (MSK)
+! Domain count: 2146
 
 ||.ua
 ||103.97.88.117
@@ -923,6 +923,7 @@
 ||kavkaz.tv
 ||kavkazcenter.com
 ||kavkazr.com
+||kemono.cr
 ||kemono.party
 ||kemono.su
 ||keysight.com
