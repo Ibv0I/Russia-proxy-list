@@ -2419,6 +2419,7 @@
 *://*.a.xxxlibz.com/*
 *://*.a.zfilm-hd-3053.online/*
 *://*.a360.co/*
+*://*.aadg.msidentity.com/*
 *://*.aak.tiviha-tv.ru/*
 *://*.ab.lordfilmik.fun/*
 *://*.ab.lordseriy.fun/*
@@ -4011,6 +4012,7 @@
 *://*.at.tutsport.com/*
 *://*.atalysreitlimited.com/*
 *://*.atarasii.com/*
+*://*.atcoder.jp/*
 *://*.atcorp.org/*
 *://*.atempl.com/*
 *://*.atesh.org/*
@@ -7501,7 +7503,6 @@
 *://*.colta.ru/*
 *://*.columbian-boys.com/*
 *://*.colvilleproperties-limited.com/*
-*://*.com/*
 *://*.com-business.ru/*
 *://*.com.amarkets.site/*
 *://*.com.cy/*
@@ -11356,6 +11357,7 @@
 *://*.flaawlessbaarriier.shop/*
 *://*.flaawlessbaarriier.space/*
 *://*.flaawlessbaarriier.website/*
+*://*.flac24.ru/*
 *://*.flag.ua/*
 *://*.flagma-fi.com/*
 *://*.flagma-ge.com/*
@@ -12853,6 +12855,7 @@
 *://*.getmorebonuses.net/*
 *://*.getonv-go.net/*
 *://*.getoutline.org/*
+*://*.getpocket.com/*
 *://*.getserials.online/*
 *://*.getsevich.ru/*
 *://*.getsuyu.bond/*
@@ -16719,7 +16722,7 @@
 *://*.kemerovo-maz.ru/*
 *://*.kemerovorea.ru/*
 *://*.kemlya.schoolsovetskoe.ru/*
-*://*.kemono.party/*
+*://*.kemono.cr/*
 *://*.kemono.su/*
 *://*.kempravab.site/*
 *://*.ken.pirat.one/*
@@ -18593,7 +18596,6 @@
 *://*.lesbiansex.best/*
 *://*.lesbiansexhub.com/*
 *://*.lesbianstate.com/*
-*://*.lesbiansubmission.com/*
 *://*.lesbiantribe.com/*
 *://*.lesbiantube.club/*
 *://*.lesbiantube.tv/*
@@ -18690,6 +18692,7 @@
 *://*.lgbtkvartal.com/*
 *://*.lgbtnet.org/*
 *://*.lgbtqia.space/*
+*://*.lgbtqiabcdef.smena-pola--i-gay--sex-eto--kruto.duckdns.org/*
 *://*.lgbtqnation.com/*
 *://*.lgbtru.com/*
 *://*.lgbtx.ru/*
@@ -20705,6 +20708,7 @@
 *://*.medialoft.eu/*
 *://*.mediamaniya.ru/*
 *://*.mediamimic.com/*
+*://*.medianet.kz/*
 *://*.medianova.com.ua/*
 *://*.mediapatriot.ru/*
 *://*.mediapool.bg/*
@@ -22022,6 +22026,7 @@
 *://*.mskobl.com/*
 *://*.msktab.org/*
 *://*.msktabakopt.ru/*
+*://*.msn.com/*
 *://*.mso-sro.ru/*
 *://*.msp44.ru/*
 *://*.msport.newsrbk.ru/*
@@ -25215,6 +25220,7 @@
 *://*.pin.innovation45.ru/*
 *://*.pinduck.com/*
 *://*.pineappleink.co/*
+*://*.ping-admin.com/*
 *://*.pingmyusers.net/*
 *://*.pinguinklad.cc/*
 *://*.pingway.ru/*
@@ -29506,7 +29512,6 @@
 *://*.sc1.pirat.one/*
 *://*.scale2.ru/*
 *://*.scallyguy.com/*
-*://*.scalpboard.io/*
 *://*.scan-met.ru/*
 *://*.scandicon.ru/*
 *://*.scaniaclub.ru/*
@@ -29632,6 +29637,7 @@
 *://*.sebastiansmolyn.com/*
 *://*.sebeanus.online/*
 *://*.secfirst.org/*
+*://*.seclists.org/*
 *://*.secmail.pro/*
 *://*.second.go2me.top/*
 *://*.secorgroup.ru/*
@@ -30853,7 +30859,6 @@
 *://*.smutr.com/*
 *://*.smw.bigmny.top/*
 *://*.snabarmatura-spb.ru/*
-*://*.snanews.de/*
 *://*.snap-storage-cdn.l.google.com/*
 *://*.snap.com/*
 *://*.snapchat.com/*
@@ -42917,6 +42922,6 @@
 *://*.zzztube.com/*
 *://*.zzztube.tv/*
 #END
-# Domain count: 42916
+# Domain count: 42921
 
-# Generated on 2025-12-12 05:02:50 (MSK)
+# Generated on 2025-12-13 04:56:31 (MSK)

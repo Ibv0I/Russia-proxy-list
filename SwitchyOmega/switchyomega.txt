@@ -27,6 +27,7 @@
 *://*.888casino.com/*
 *://*.9tv.co.il/*
 *://*.a360.co/*
+*://*.aadg.msidentity.com/*
 *://*.ab.chatgpt.com/*
 *://*.abercrombie.com/*
 *://*.abook-club.ru/*
@@ -177,6 +178,7 @@
 *://*.ashingtonpost.com/*
 *://*.aspektymedia.ru/*
 *://*.assets.heroku.com/*
+*://*.atcoder.jp/*
 *://*.atlassian.com/*
 *://*.atn.ua/*
 *://*.atomic.stream.voidboost.cc/*
@@ -367,7 +369,6 @@
 *://*.coldfilm.ink/*
 *://*.coldfilm.xyz/*
 *://*.colta.ru/*
-*://*.com/*
 *://*.com.cy/*
 *://*.community.cisco.com/*
 *://*.community.instagram.com/*
@@ -618,6 +619,7 @@
 *://*.finevpn.org/*
 *://*.fingerium.stream.voidboost.cc/*
 *://*.firefly-ps.adobe.io/*
+*://*.flac24.ru/*
 *://*.flashprog.org/*
 *://*.flashscore.com/*
 *://*.flibusta.is/*
@@ -688,6 +690,7 @@
 *://*.getlantern.org/*
 *://*.getoutline.com/*
 *://*.getoutline.org/*
+*://*.getpocket.com/*
 *://*.gfn.am/*
 *://*.ggpht.com/*
 *://*.ghostrc.game.idtech.services/*
@@ -980,12 +983,12 @@
 *://*.lemonde.fr/*
 *://*.lenovo.com/*
 *://*.leonidvolkov.ru/*
-*://*.lesbiansubmission.com/*
 *://*.levif.be/*
 *://*.lexpress.fr/*
 *://*.lgbt.org.ua/*
 *://*.lgbtnet.org/*
 *://*.lgbtqia.space/*
+*://*.lgbtqiabcdef.smena-pola--i-gay--sex-eto--kruto.duckdns.org/*
 *://*.lgbtqnation.com/*
 *://*.lgbtru.com/*
 *://*.lgeapi.com/*
@@ -1083,6 +1086,7 @@
 *://*.mdza.io/*
 *://*.meddaily.ru/*
 *://*.media.discordapp.net/*
+*://*.medianet.kz/*
 *://*.mediapatriot.ru/*
 *://*.mediapool.bg/*
 *://*.mediazona.ca/*
@@ -1134,6 +1138,7 @@
 *://*.moz.gov.ua/*
 *://*.mp3.com/*
 *://*.mrakopedia.net/*
+*://*.msn.com/*
 *://*.mssg.me/*
 *://*.mstdn.jp/*
 *://*.mullvad.net/*
@@ -1351,6 +1356,7 @@
 *://*.phpmyadmin.net/*
 *://*.piccy.info/*
 *://*.pimpletv.ru/*
+*://*.ping-admin.com/*
 *://*.pingdom.com/*
 *://*.pinknews.co.uk/*
 *://*.pinme.ru/*
@@ -1576,7 +1582,6 @@
 *://*.saverudata.online/*
 *://*.sc-jpl.com/*
 *://*.sc-static.net/*
-*://*.scalpboard.io/*
 *://*.schwingen.net/*
 *://*.sci-hub.se/*
 *://*.sci-hub.st/*
@@ -1606,6 +1611,7 @@
 *://*.seasonvar.ru/*
 *://*.sebeanus.online/*
 *://*.secfirst.org/*
+*://*.seclists.org/*
 *://*.secure-web.cisco.com/*
 *://*.secure.avaaz.org/*
 *://*.seed4.me/*
@@ -1668,7 +1674,6 @@
 *://*.smartdeploy.com/*
 *://*.sme.sk/*
 *://*.sms-activate.io/*
-*://*.snanews.de/*
 *://*.snap-storage-cdn.l.google.com/*
 *://*.snap.com/*
 *://*.snapchat.com/*
@@ -1746,6 +1751,7 @@
 *://*.stun-001.deepernetworks.org/*
 *://*.stun-002.deepernetworks.org/*
 *://*.suggestqueries.google.com/*
+*://*.sukebei.nyaa.si/*
 *://*.supercell.com/*
 *://*.supersliv.biz/*
 *://*.support.cambiumnetworks.com/*
@@ -2147,5 +2153,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 2146
-# Generated on: 2025-12-12 05:02:49 (MSK)
+# Domain count: 2152
+# Generated on: 2025-12-13 04:56:30 (MSK)

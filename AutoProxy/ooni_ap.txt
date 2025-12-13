@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Domain count: 854
-! Generated on 2025-12-12 05:02:55 (MSK)
+! Domain count: 862
+! Generated on 2025-12-13 04:56:33 (MSK)
 
 ||103.97.88.117
 ||1337x.st
@@ -16,6 +16,7 @@
 ||5.ua
 ||888casino.com
 ||9tv.co.il
+||aadg.msidentity.com
 ||abpr2.railfan.net
 ||abs.twimg.com
 ||access-unlocked.org
@@ -67,6 +68,7 @@
 ||artsy.net
 ||ashingtonpost.com
 ||aspektymedia.ru
+||atcoder.jp
 ||atr.ua
 ||avtonom.org
 ||avtozak.info
@@ -141,7 +143,6 @@
 ||cia.gov
 ||cnews.fr
 ||colta.ru
-||com
 ||com.cy
 ||compromat.ru
 ||crimea-news.info
@@ -243,6 +244,7 @@
 ||ficbook.net
 ||fidh.org
 ||finevpn.org
+||flac24.ru
 ||flashprog.org
 ||flibusta.is
 ||focus.ua
@@ -265,6 +267,7 @@
 ||gazeta.ua
 ||getlantern.org
 ||getoutline.org
+||getpocket.com
 ||gijn.org
 ||glaad.org
 ||glasnaya.media
@@ -390,12 +393,12 @@
 ||lb.ua
 ||lemonde.fr
 ||leonidvolkov.ru
-||lesbiansubmission.com
 ||levif.be
 ||lexpress.fr
 ||lgbt.org.ua
 ||lgbtnet.org
 ||lgbtqia.space
+||lgbtqiabcdef.smena-pola--i-gay--sex-eto--kruto.duckdns.org
 ||lgbtqnation.com
 ||lgbtru.com
 ||lib.rus.ec
@@ -431,6 +434,7 @@
 ||m.youtube.com
 ||maidan.org.ua
 ||mail.proton.me
+||mailo.com
 ||maltatoday.com.mt
 ||manas.news
 ||marxist.news
@@ -443,6 +447,7 @@
 ||mdif.org
 ||mdz-rus.github.io
 ||meddaily.ru
+||medianet.kz
 ||mediapatriot.ru
 ||mediapool.bg
 ||mediazona.ca
@@ -467,6 +472,7 @@
 ||moscowtimes.ru
 ||moz.gov.ua
 ||mp3.com
+||msn.com
 ||mstdn.jp
 ||mullvad.net
 ||musixmatch.com
@@ -554,6 +560,7 @@
 ||peaceplea.org
 ||pflag.org
 ||phpmyadmin.net
+||ping-admin.com
 ||pinknews.co.uk
 ||pinme.ru
 ||pixabay.com
@@ -655,7 +662,6 @@
 ||sakharov.world
 ||samizdatonline.org
 ||saverudata.online
-||scalpboard.io
 ||schwingen.net
 ||sci-hub.se
 ||scontent-ams4-1.cdninstagram.com
@@ -664,6 +670,7 @@
 ||scontent.xx.fbcdn.net
 ||search.aol.com
 ||secfirst.org
+||seclists.org
 ||secure.avaaz.org
 ||seed4.me
 ||seedoff.zannn.top
@@ -688,7 +695,6 @@
 ||slotland.com
 ||slovodel.com
 ||sme.sk
-||snanews.de
 ||snapchat.com
 ||sobesednik.ru
 ||socom.mil
@@ -720,6 +726,7 @@
 ||stratcom.mil
 ||stun-001.deepernetworks.org
 ||stun-002.deepernetworks.org
+||sukebei.nyaa.si
 ||surfshark.com
 ||sverigesradio.se
 ||svoboda.org
@@ -841,6 +848,7 @@
 ||xvideos.com
 ||xxx.lanl.gov
 ||y2mate.com
+||yande.re
 ||yle.fi
 ||youporn.com
 ||youtu.be
