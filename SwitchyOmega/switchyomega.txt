@@ -619,6 +619,7 @@
 *://*.finevpn.org/*
 *://*.fingerium.stream.voidboost.cc/*
 *://*.firefly-ps.adobe.io/*
+*://*.fitgirl-repacks.site/*
 *://*.flac24.ru/*
 *://*.flashprog.org/*
 *://*.flashscore.com/*
@@ -2153,5 +2154,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 2152
-# Generated on: 2025-12-14 05:09:34 (MSK)
+# Domain count: 2153
+# Generated on: 2025-12-15 05:07:05 (MSK)
