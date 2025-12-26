@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2025-12-25 05:04:13 (MSK)
-! Domain count: 2189
+! Generated on : 2025-12-26 05:03:27 (MSK)
+! Domain count: 2202
 
 ||.ua
 ||103.97.88.117
@@ -192,6 +192,7 @@
 ||attachments.f95zone.to
 ||atv4.dnskp.cc
 ||audiobookbay.lu
+||augmentcode.com
 ||auth.grazie.ai
 ||auth.openai.com
 ||auth0.openai.com
@@ -289,6 +290,7 @@
 ||btod.com
 ||buanzo.org
 ||buf.build
+||bufferbloat.net
 ||builds.parsec.app
 ||bungiestore.com
 ||business-gazeta.ru
@@ -348,6 +350,7 @@
 ||chub.ai
 ||church.ua
 ||cia.gov
+||circlecrewpinkcrowd.com
 ||cisco.com
 ||cisecurity.org
 ||citrix.com
@@ -516,6 +519,7 @@
 ||doxajournal.ru
 ||dpidetector.org
 ||dreamhost.com
+||dreamina.capcut.com
 ||dron.media
 ||drugs-forum.com
 ||dsau.dp.ua
@@ -625,6 +629,7 @@
 ||filmix.ac
 ||filmix.biz
 ||filmix.day
+||filmix.fan
 ||filmix.fm
 ||filmix.la
 ||finevpn.org
@@ -965,6 +970,7 @@
 ||kinozal.tv
 ||kinozaltv.life
 ||kiwifarms.net
+||klarna.com
 ||kmail-lists.com
 ||kmoun.info
 ||knack.be
@@ -1138,6 +1144,7 @@
 ||mignews.com
 ||mignews.ua
 ||minds.com
+||mintmobile.com
 ||minval.az
 ||miracleptr.wordpress.com
 ||miro.medium.com
@@ -1180,6 +1187,7 @@
 ||myspace.com
 ||myworld-portal.leica-geosystems.com
 ||namba.kz
+||naps2.com
 ||nashaniva.com
 ||nasvsehtoshnit.ru
 ||nation-news.ru
@@ -1355,6 +1363,7 @@
 ||partypoker.net
 ||path3.xtracloud.net
 ||patreon.com
+||patreonusercontent.com
 ||patriot.dp.ua
 ||pay.buckaroo.nl
 ||paypal.com
@@ -1466,6 +1475,7 @@
 ||pushkindol.ru
 ||putin-itogi.ru
 ||putinbog.wordpress.com
+||pvpessence.com
 ||qha.com.ua
 ||qt.io
 ||qualcomm.com
@@ -1721,6 +1731,7 @@
 ||software.cisco.com
 ||solarwinds.com
 ||sonara.ai
+||sophos.com
 ||sora.com
 ||sotaproject.com
 ||sotnik-tv.com
@@ -2045,6 +2056,7 @@
 ||vyos.io
 ||vyos.net
 ||w.atwiki.jp
+||wa.me
 ||wall.alphacoders.com
 ||wallpapercave.com
 ||walmart.com
@@ -2064,6 +2076,7 @@
 ||weedmaps.com
 ||welt.de
 ||wetransfer.com
+||whatsapp.biz
 ||whatsapp.com
 ||whatsapp.net
 ||wheather.com
