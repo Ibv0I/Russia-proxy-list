@@ -1,9 +1,8 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-01-09 05:07:48 (MSK)
-! Domain count: 2202
+! Generated on : 2026-01-10 05:03:40 (MSK)
+! Domain count: 2210
 
 ||.ua
-||103.97.88.117
 ||10minutemail.com
 ||1337x.st
 ||1337x.to
@@ -15,7 +14,9 @@
 ||24.kg
 ||24chasa.bg
 ||24tv.ua
+||2books.su
 ||444.hu
+||46.246.98.184
 ||4freerussia.org
 ||4pda.ru
 ||4pda.to
@@ -30,8 +31,8 @@
 ||9tv.co.il
 ||a-vrv.akamaized.net
 ||a360.co
-||aadg.msidentity.com
 ||ab.chatgpt.com
+||abc.net.au
 ||abercrombie.com
 ||abook-club.ru
 ||abpr2.railfan.net
@@ -90,11 +91,11 @@
 ||alberta.ca
 ||alhurra.com
 ||alice-vpn.com
+||aliexpress.com
 ||allegro.pl
 ||allrus.news
 ||allthefallen.moe
 ||alphacoders.com
-||alqassam.ps
 ||alza.hu
 ||amazfitwatchfaces.com
 ||amdm.ru
@@ -110,6 +111,7 @@
 ||anidub.com
 ||anilib.me
 ||anilibria.org
+||anilibria.top
 ||anilibria.tv
 ||anilibria.uno
 ||anilibria.wtf
@@ -180,10 +182,7 @@
 ||artifacts.elastic.co
 ||artsy.net
 ||as6723.net
-||ashingtonpost.com
-||aspektymedia.ru
 ||assets.heroku.com
-||atcoder.jp
 ||atlassian.com
 ||atn.ua
 ||atomic.stream.voidboost.cc
@@ -252,10 +251,8 @@
 ||blackberry.com
 ||blackseanews.net
 ||blackseango.org
-||blackseatv.com
 ||blancvpn.com
 ||blinkshot.io
-||blockdx.co
 ||blog.business.instagram.com
 ||blog.instagram.com
 ||blogs.voanews.com
@@ -309,7 +306,6 @@
 ||carrefouruae.com
 ||casino.com
 ||casinotropez.com
-||catalyst.org
 ||cats.com
 ||caucasustimes.com
 ||cbilling.eu
@@ -365,6 +361,7 @@
 ||cloudflare-dns.com
 ||cloudflare-ech.com
 ||cloudtorrents.com
+||clubhouse.pubnub.com
 ||cms-twdigitalassets.com
 ||cnd2exp.online
 ||cnews.fr
@@ -385,6 +382,7 @@
 ||community.sophos.com
 ||compromat.ru
 ||connect.ngrok-agent.com
+||connect.rom.miui.com
 ||contabo.com
 ||coomer.su
 ||copilot-proxy.githubusercontent.com
@@ -488,6 +486,7 @@
 ||disctech.com
 ||disneyplus.com
 ||dist.torproject.org
+||dit.whatsapp.net
 ||dl.discordapp.net
 ||dl.tailscale.com
 ||dns.adguard.com
@@ -522,6 +521,7 @@
 ||dreamina.capcut.com
 ||dron.media
 ||drugs-forum.com
+||drugsense.org
 ||dsau.dp.ua
 ||dual-a-0001.a-msedge.net
 ||dub.sh
@@ -535,7 +535,6 @@
 ||e621.net
 ||earerepost.com
 ||easydmarc.com
-||ebalay.ru
 ||echo.msk.ru
 ||echofm.online
 ||eclipso.de
@@ -559,6 +558,7 @@
 ||elgato.com
 ||elmundo.es
 ||elpais.com
+||en.miui.com
 ||eneba.com
 ||envato.com
 ||epg.one
@@ -581,7 +581,6 @@
 ||eurasia.amnesty.org
 ||euronews.com
 ||euroradio.fm
-||euthanasia.cc
 ||eutrp.eu
 ||event.on24.com
 ||eventbrite.com
@@ -620,7 +619,9 @@
 ||feedtheminds.org
 ||fergana.agency
 ||fergana.news
+||fergananews.com
 ||fex.net
+||ficbook.com
 ||ficbook.net
 ||fidh.org
 ||filebin.net
@@ -632,12 +633,9 @@
 ||filmix.fan
 ||filmix.fm
 ||filmix.la
-||finevpn.org
 ||fingerium.stream.voidboost.cc
 ||firefly-ps.adobe.io
 ||fitgirl-repacks.site
-||flac24.ru
-||flashprog.org
 ||flashscore.com
 ||flibusta.is
 ||flibusta.net
@@ -656,10 +654,12 @@
 ||footballapi.pulselive.com
 ||force-user-content.com
 ||force.com
+||fordfoundation.org
 ||fork.pet
 ||forklog.com
 ||formula1.com
 ||fortanga.org
+||forum.mhut.org
 ||forum.netgate.com
 ||forum.ru-board.com
 ||forum.torproject.net
@@ -678,7 +678,6 @@
 ||freevpnplanet.com
 ||fri-gate.org
 ||frontlinedefenders.org
-||fsf.org
 ||fuckingfreemovies.com
 ||fw-download.ubnt.com
 ||fw-update.ubnt.com
@@ -707,7 +706,6 @@
 ||getlantern.org
 ||getoutline.com
 ||getoutline.org
-||getpocket.com
 ||gfn.am
 ||ggpht.com
 ||ghostrc.game.idtech.services
@@ -739,7 +737,6 @@
 ||goldenrivieracasino.com
 ||goldfishka.ru
 ||golos-ameriki.ru
-||golos-kubani.ru
 ||golosamer.gitlab.io
 ||golosameriki.com
 ||golosinfo.org
@@ -771,6 +768,7 @@
 ||groupon.com
 ||gsc-game.com
 ||gtagarage.com
+||guardster.com
 ||gubernia.media
 ||guilded.gg
 ||gulagu.net
@@ -782,6 +780,7 @@
 ||happycolorapp.com
 ||hashicorp.com
 ||hath.network
+||hatsapp.com
 ||haydaygame.com
 ||hbomax.com
 ||hc-ping.com
@@ -806,7 +805,6 @@
 ||herokucdn.com
 ||hetzner.com
 ||hide.me
-||hidemy.name
 ||hidemyass.com
 ||hightimes.com
 ||hitomi.la
@@ -840,17 +838,17 @@
 ||hybrid-analysis.com
 ||hyperhost.ua
 ||hyperlapse.instagram.com
-||hypnotube.com
 ||i.4pda.ws
 ||i.gr-assets.com
 ||i.instagram.com
 ||i.sakh.com
 ||i.ytimg.com
-||i2pforum.net
+||i2p2.de
 ||ibm.com
 ||ibytedtos.com
 ||ichef.bbci.co.uk
 ||ichkeria.info
+||ici.radio-canada.ca
 ||id.cisco.com
 ||idelreal.org
 ||iditelesom.org
@@ -861,7 +859,6 @@
 ||iherb.com
 ||iichan.hk
 ||ikea.com
-||ikeybase.com
 ||ikhwanonline.com
 ||ilga.org
 ||ilook.tv
@@ -869,6 +866,7 @@
 ||image.tmdb.org
 ||images.discordapp.net
 ||images.instagram.com
+||imf.org
 ||imgur.com
 ||important-stories.com
 ||imrussia.org
@@ -876,7 +874,10 @@
 ||independent.com.mt
 ||independent.ie
 ||indiehackers.com
+||indymedia.org
+||inetprivacy.com
 ||infineon.com
+||inforeactor.ru
 ||information.dk
 ||informator.ua
 ||insearch.site
@@ -913,10 +914,10 @@
 ||itgetsbetter.org
 ||itninja.com
 ||itsmycity.ru
+||iucn.ru
 ||jackpotcitycasino1.com
 ||jahforum.org
 ||jamf.com
-||jamonshop.es
 ||jesussaves.cc
 ||jetbrains.ai
 ||jetbrains.com
@@ -936,17 +937,18 @@
 ||kamatera.com
 ||kara.su
 ||kasparov.ru
+||kasparovru.com
 ||kasyanov.ru
 ||katcr.to
 ||kavkaz-uzel.eu
 ||kavkaz.tv
 ||kavkazcenter.com
 ||kavkazr.com
+||kavkazweb.net
 ||kemono.cr
 ||kemono.party
 ||kemono.su
 ||keysight.com
-||khakasia.info
 ||khilafah.com
 ||khilafah.net
 ||khodorkovsky.ru
@@ -976,7 +978,6 @@
 ||knack.be
 ||knews.kg
 ||knowyourmeme.com
-||kolezev.ru
 ||kolsar.org
 ||kor.ill.in.ua
 ||korrespondent.net
@@ -1004,6 +1005,7 @@
 ||legalshield.com
 ||lemonde.fr
 ||lenovo.com
+||lentachel.ru
 ||leonidvolkov.ru
 ||levif.be
 ||lexpress.fr
@@ -1013,6 +1015,7 @@
 ||lgbtqiabcdef.smena-pola--i-gay--sex-eto--kruto.duckdns.org
 ||lgbtqnation.com
 ||lgbtru.com
+||lgbtvacationplanners.com
 ||lgeapi.com
 ||lgthinq.com
 ||lib.rus.ec
@@ -1024,7 +1027,6 @@
 ||libgen.life
 ||libgen.me
 ||libgen.rs
-||libgen.space
 ||libgen.st
 ||licdn.com
 ||lidarr.audio
@@ -1032,7 +1034,6 @@
 ||liga.net
 ||lightning.ai
 ||limetorrents.lol
-||limetorrents.pro
 ||line.me
 ||linear.app
 ||lingo.com
@@ -1041,7 +1042,6 @@
 ||linktr.ee
 ||linuxiac.com
 ||listock.ru
-||liveleak.com
 ||livemy.info
 ||livetv.sx
 ||liveuamap.com
@@ -1109,12 +1109,16 @@
 ||mdz-rus.github.io
 ||mdza.io
 ||meddaily.ru
+||media-arn2-1.cdn.whatsapp.net
+||media-fra3-1.cdn.whatsapp.net
 ||media.discordapp.net
+||media.fevn1-1.fna.whatsapp.net
 ||medianet.kz
 ||mediapatriot.ru
 ||mediapool.bg
 ||mediazona.ca
 ||mediazona.online
+||mediazonaby.com
 ||medicalnewstoday.com
 ||medinkur.ru
 ||medium.com
@@ -1131,7 +1135,6 @@
 ||melord.net
 ||memohrc.org
 ||merezha.co
-||messagevortex.net
 ||messenger.com
 ||meta.com
 ||metacritic.com
@@ -1144,12 +1147,13 @@
 ||mignews.com
 ||mignews.ua
 ||minds.com
+||minjust.net
 ||mintmobile.com
 ||minval.az
 ||miracleptr.wordpress.com
 ||miro.medium.com
-||mirror.cyberbits.eu
 ||mixcloud.com
+||mmg.whatsapp.net
 ||mnr.gov.cn
 ||mobile.events.data.microsoft.com
 ||modrinth.com
@@ -1188,6 +1192,7 @@
 ||myworld-portal.leica-geosystems.com
 ||namba.kz
 ||naps2.com
+||nash-sever.info
 ||nashaniva.com
 ||nasvsehtoshnit.ru
 ||nation-news.ru
@@ -1296,6 +1301,7 @@
 ||oi.legal
 ||okx.com
 ||olx.ua
+||omen.ru
 ||omenforwomen.org
 ||omnissa.com
 ||omsk.com
@@ -1335,6 +1341,7 @@
 ||orf.at
 ||orldwildlife.org
 ||os.mbed.com
+||ourworldindata.org
 ||out.com
 ||ovd.info
 ||ovd.legal
@@ -1387,10 +1394,8 @@
 ||phoenixcontact.com
 ||photopea.com
 ||php.su
-||phpmyadmin.net
 ||piccy.info
 ||pimpletv.ru
-||ping-admin.com
 ||pingdom.com
 ||pinknews.co.uk
 ||pinme.ru
@@ -1414,6 +1419,7 @@
 ||pokerstars.com
 ||poligon.media
 ||poligonmedia.io
+||polit.info
 ||polit.ru
 ||politexpert.net
 ||politico.com
@@ -1429,6 +1435,7 @@
 ||posle.media
 ||posthog.com
 ||postimees.ee
+||pps.whatsapp.net
 ||pravda.com
 ||pravda.com.ua
 ||pravdamaterinstva.org
@@ -1444,9 +1451,9 @@
 ||proactivebackend-pa.googleapis.com
 ||production-openaicom-storage.azureedge.net
 ||proekt.media
-||professionali.ru
 ||profitwell.com
 ||propastop.org
+||propublica.org
 ||prosleduet.media
 ||prosleduetmedia.com
 ||prostovpn.org
@@ -1504,7 +1511,6 @@
 ||realbooru.com
 ||realist.online
 ||recraft.ai
-||redacted.sh
 ||reddxxx.com
 ||redgifs.com
 ||redis.com
@@ -1530,6 +1536,7 @@
 ||republic.ru
 ||rescue.org
 ||research.net
+||resonance.press
 ||resp.app
 ||restream.io
 ||returnyoutubedislikeapi.com
@@ -1551,7 +1558,7 @@
 ||rima.media
 ||riperam.org
 ||riseup.net
-||risk-inform.ru
+||risk-inform.com
 ||riverbelle.com
 ||roar-review.com
 ||roblox-api.arkoselabs.com
@@ -1566,11 +1573,11 @@
 ||rte.ie
 ||rtp.pt
 ||rtve.es
-||ru-news.us
 ||ru.baku.ws
 ||ru.bellingcat.com
 ||ru.depositphotos.com
 ||ru.euronews.com
+||ru.fbreader.org
 ||ru.iherb.com
 ||ru.krymr.com
 ||ru.rfi.fr
@@ -1651,7 +1658,6 @@
 ||seasonvar.ru
 ||sebeanus.online
 ||secfirst.org
-||seclists.org
 ||secure-web.cisco.com
 ||secure.avaaz.org
 ||seed4.me
@@ -1660,7 +1666,6 @@
 ||semnasem.org
 ||semrush.com
 ||sendgrid.net
-||sendspace.com
 ||sentry.dev
 ||sentry.io
 ||sephora.com
@@ -1672,11 +1677,11 @@
 ||sfdcopens.com
 ||sfsi.org
 ||shaman.aha.ru
-||shamash.org
 ||shia.org
 ||shikimori.me
 ||shinyhardware.co.uk
 ||shiza-project.com
+||shoe.org
 ||shop.gameloft.com
 ||showip.net
 ||shram.kiev.ua
@@ -1706,7 +1711,6 @@
 ||slavicsac.com
 ||slideshare.net
 ||slifki.biz
-||slon.ru
 ||slotland.com
 ||slovodel.com
 ||smartbear.co
@@ -1745,6 +1749,7 @@
 ||speedtest.net
 ||spektr.press
 ||spiceworks.com
+||spid.center
 ||spiegel.de
 ||spinpalace.com
 ||spitfireaudio.com
@@ -1755,6 +1760,7 @@
 ||spring96.org
 ||sprotyv.info
 ||sputnikipogrom.com
+||sputniknews.cn
 ||squadbustersgame.com
 ||squareup.com
 ||squietpc.com
@@ -1774,6 +1780,7 @@
 ||statology.org
 ||status.discord.com
 ||status.discordapp.com
+||steam.com
 ||steamstat.info
 ||stepanov2021.org
 ||stirileprotv.ro
@@ -1789,10 +1796,7 @@
 ||stream.voidboost.cc
 ||streamable.com
 ||stulchik.net
-||stun-001.deepernetworks.org
-||stun-002.deepernetworks.org
 ||suggestqueries.google.com
-||sukebei.nyaa.si
 ||supercell.com
 ||supersliv.biz
 ||support.anydesk.com
@@ -1903,6 +1907,7 @@
 ||tools.cisco.com
 ||topersoft.com
 ||tor.eff.org
+||toramp.com
 ||torontovka.com
 ||torproject.org
 ||torrent.by
@@ -1935,7 +1940,6 @@
 ||turbovpn.com
 ||turn.livekit.cloud
 ||tushkan.club
-||tushkan.net
 ||tuta.com
 ||tuta.io
 ||tutanota.com
@@ -1985,6 +1989,7 @@
 ||ukrinform.ua
 ||ukrtelcdn.net
 ||ultrasurf.us
+||un.int
 ||underver.se
 ||unfe.org
 ||unfiltered.adguard-dns.com
@@ -2036,6 +2041,7 @@
 ||visaginas.lt
 ||visualcapitalist.com
 ||vitk.com.ua
+||vkrugudruzei.ru
 ||vlasti.net
 ||vmware.com
 ||vndb.org
@@ -2046,6 +2052,7 @@
 ||vot-tak.tv
 ||votvot.tv
 ||vozrojdenie.crimea.ua
+||vpn.retroverze.my.id
 ||vpngate.net
 ||vpngen.org
 ||vpnlove.me
@@ -2061,6 +2068,7 @@
 ||wallpapercave.com
 ||walmart.com
 ||war.hvylya.net
+||wasabiwallet.io
 ||watchguard.com
 ||watermarkremover.io
 ||wbgames.com
@@ -2068,6 +2076,8 @@
 ||weareukraine.info
 ||weather.com
 ||web.facebook.com
+||web.telegram.org
+||web.whatsapp.com
 ||weblance.com.ua
 ||webmd.com
 ||webnames.ca
@@ -2100,7 +2110,6 @@
 ||world.comments.ua
 ||wpengine.com
 ||write.as
-||wsjournal.ru
 ||wunderground.com
 ||wwf.panda.org
 ||www.analog.com
@@ -2164,6 +2173,7 @@
 ||yande.re
 ||yeggi.com
 ||yle.fi
+||yocity12.com
 ||youporn.com
 ||youtrack.cloud
 ||youtu.be
@@ -2184,12 +2194,10 @@
 ||yting.com
 ||yummyani.me
 ||yummyanime.org
-||z-lib.org
 ||zagony.ru
 ||zahav.ru
 ||zapier.com
 ||zaprava.ru
-||zasekin.ru
 ||zaxid.net
 ||zbigz.com
 ||zedge.net
