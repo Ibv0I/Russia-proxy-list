@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-01-18 05:21:54 (MSK)
-! Domain count: 2210
+! Generated on : 2026-01-19 05:19:23 (MSK)
+! Domain count: 2211
 
 ||.ua
 ||10minutemail.com
@@ -670,6 +670,7 @@
 ||frant.me
 ||frc.org
 ||freecity.lv
+||freecodecamp.org
 ||freedomhouse.org
 ||freedomletters.org
 ||freeimages.com

@@ -668,6 +668,7 @@
 *://*.frant.me/*
 *://*.frc.org/*
 *://*.freecity.lv/*
+*://*.freecodecamp.org/*
 *://*.freedomhouse.org/*
 *://*.freedomletters.org/*
 *://*.freeimages.com/*
@@ -2211,5 +2212,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 2210
-# Generated on: 2026-01-18 05:21:53 (MSK)
+# Domain count: 2211
+# Generated on: 2026-01-19 05:19:22 (MSK)

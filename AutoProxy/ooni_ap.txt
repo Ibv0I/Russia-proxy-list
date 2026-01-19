@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
 ! Domain count: 867
-! Generated on 2026-01-18 05:21:55 (MSK)
+! Generated on 2026-01-19 05:19:24 (MSK)
 
 ||1337x.st
 ||1337x.to
