@@ -72,6 +72,7 @@
 *://*.advox.globalvoices.org/*
 *://*.af.mil/*
 *://*.afcs.dellcdn.com/*
+*://*.affinity.studio/*
 *://*.afp.com/*
 *://*.afpforum.com/*
 *://*.aftermarket.schaeffler.com/*
@@ -90,6 +91,7 @@
 *://*.alhurra.com/*
 *://*.alice-vpn.com/*
 *://*.aliexpress.com/*
+*://*.all3dp.com/*
 *://*.allegro.pl/*
 *://*.allrus.news/*
 *://*.allthefallen.moe/*
@@ -584,6 +586,7 @@
 *://*.eventbrite.com/*
 *://*.everand.com/*
 *://*.exchanger.bits.media/*
+*://*.exler.es/*
 *://*.exler.ru/*
 *://*.exmormon.org/*
 *://*.expandrive.com/*
@@ -723,7 +726,6 @@
 *://*.glavred.net/*
 *://*.gllto.glpals.com/*
 *://*.global.fncstatic.com/*
-*://*.global.platform.seconddinnertech.com/*
 *://*.globalgiving.org/*
 *://*.globalvoices.org/*
 *://*.glpals.com/*
@@ -1066,6 +1068,7 @@
 *://*.lucid.app/*
 *://*.luckynugget.com/*
 *://*.lurkmore.to/*
+*://*.lyst.com/*
 *://*.m.strava.com/*
 *://*.m.youtube.com/*
 *://*.macpaw.com/*
@@ -1141,6 +1144,7 @@
 *://*.meteo.paraplan.net/*
 *://*.metla.press/*
 *://*.metopera.org/*
+*://*.mezha.net/*
 *://*.mhg.ru/*
 *://*.middlewareinventory.com/*
 *://*.mignews.com/*
@@ -1293,6 +1297,7 @@
 *://*.occrp.org/*
 *://*.ochevidcy.com/*
 *://*.ocstore.com/*
+*://*.octopus.do/*
 *://*.oculus.com/*
 *://*.odysee.com/*
 *://*.oe24.at/*
@@ -1441,6 +1446,7 @@
 *://*.premaritalsex.info/*
 *://*.premierleague.com/*
 *://*.pressorg24.com/*
+*://*.primark.com/*
 *://*.primevideo.com/*
 *://*.primevue.org/*
 *://*.privateinternetaccess.com/*
@@ -1451,6 +1457,7 @@
 *://*.production-openaicom-storage.azureedge.net/*
 *://*.proekt.media/*
 *://*.profitwell.com/*
+*://*.pronouns.page/*
 *://*.propastop.org/*
 *://*.propublica.org/*
 *://*.prosleduet.media/*
@@ -1657,6 +1664,7 @@
 *://*.seasonvar.ru/*
 *://*.sebeanus.online/*
 *://*.secfirst.org/*
+*://*.seconddinnertech.com/*
 *://*.secure-web.cisco.com/*
 *://*.secure.avaaz.org/*
 *://*.seed4.me/*
@@ -1720,6 +1728,7 @@
 *://*.snap-storage-cdn.l.google.com/*
 *://*.snap.com/*
 *://*.snapchat.com/*
+*://*.snapgametech.com/*
 *://*.snapgene.com/*
 *://*.snapkit.com/*
 *://*.snapmagic.com/*
@@ -1985,6 +1994,8 @@
 *://*.ukdevilz.com/*
 *://*.ukr.net/*
 *://*.ukr.radio/*
+*://*.ukrainer.net/*
+*://*.ukrinform.net/*
 *://*.ukrinform.ua/*
 *://*.ukrtelcdn.net/*
 *://*.ultrasurf.us/*
@@ -2147,6 +2158,7 @@
 *://*.www.wunderground.com/*
 *://*.www.youtube.com/*
 *://*.www3.corsair.com/*
+*://*.x-minus.pro/*
 *://*.x.ai/*
 *://*.x.com/*
 *://*.xanga.com/*
@@ -2212,5 +2224,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 2211
-# Generated on: 2026-01-25 05:25:09 (MSK)
+# Domain count: 2223
+# Generated on: 2026-01-26 05:24:33 (MSK)
