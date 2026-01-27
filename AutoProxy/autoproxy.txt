@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-01-26 05:24:34 (MSK)
-! Domain count: 2223
+! Generated on : 2026-01-27 05:21:10 (MSK)
+! Domain count: 2224
 
 ||.ua
 ||10minutemail.com
@@ -50,6 +50,7 @@
 ||activatica.org
 ||ad.nl
 ||adafruit.com
+||adblockplus.org
 ||adguard-vpn.com
 ||adguard.com
 ||adidas.com
