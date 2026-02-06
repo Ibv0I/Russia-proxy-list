@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-02-05 05:35:40 (MSK)
-! Domain count: 2518
+! Generated on : 2026-02-06 05:36:15 (MSK)
+! Domain count: 2519
 
 ||.ua
 ||10minutemail.com
@@ -435,6 +435,7 @@
 ||contabo.com
 ||coomer.su
 ||copilot-proxy.githubusercontent.com
+||copilot-telemetry.githubusercontent.com
 ||copilot.microsoft.com
 ||copticchurch.net
 ||corsair.com

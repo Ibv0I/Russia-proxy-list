@@ -433,6 +433,7 @@
 *://*.contabo.com/*
 *://*.coomer.su/*
 *://*.copilot-proxy.githubusercontent.com/*
+*://*.copilot-telemetry.githubusercontent.com/*
 *://*.copilot.microsoft.com/*
 *://*.copticchurch.net/*
 *://*.corsair.com/*
@@ -2519,5 +2520,5 @@
 *://*.zona.media/*
 *://*.zoomshare.com/*
 #END
-# Domain count: 2518
-# Generated on: 2026-02-05 05:35:38 (MSK)
+# Domain count: 2519
+# Generated on: 2026-02-06 05:36:13 (MSK)
