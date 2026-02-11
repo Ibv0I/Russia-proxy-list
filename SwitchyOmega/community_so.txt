@@ -67,6 +67,11 @@
 *://*.bradyid.com/*
 *://*.builds.parsec.app/*
 *://*.bungiestore.com/*
+*://*.beamng.com/*
+*://*.beamng.tech/*
+*://*.bng.gg/*
+*://*.beamng.gmbh/*
+*://*.beammp.com/*
 *://*.feed.rutracker.cc/*
 *://*.canva.com/*
 *://*.cdn.id.supercell.com/*
@@ -201,6 +206,7 @@
 *://*.edge.microsoft.com/*
 *://*.edgeservices.bing.com/*
 *://*.ej.ru/*
+*://*.e4mc.link/*
 *://*.quora.com/*
 *://*.essential.gg/*
 *://*.etsy.com/*
@@ -223,6 +229,7 @@
 *://*.forum.voynaplemyon.com/*
 *://*.fw-download.ubnt.com/*
 *://*.fw-update.ubnt.com/*
+*://*.fsn1.your-objectstorage.com/*
 *://*.gallery.zetalliance.org/*
 *://*.gallerycdn.vsassets.io/*
 *://*.game.brawlstarsgame.com/*
@@ -457,6 +464,15 @@
 *://*.tiktokw.eu/*
 *://*.tiktokw.us/*
 *://*.ttlivecdn.com/*
+*://*.t.me/*
+*://*.telegra.ph/*
+*://*.telesco.pe/*
+*://*.telegram.me/*
+*://*.telegram.org/*
+*://*.telegram.dog/*
+*://*.telegram.com/*
+*://*.telegram.dev/*
+*://*.telegram.app/*
 *://*.ttoverseaus.net/*
 *://*.ttwstatic.com/*
 *://*.timberland.com/*
@@ -493,6 +509,9 @@
 *://*.windguru.cz/*
 *://*.wise.com/*
 *://*.wixmp.com/*
+*://*.wa.me/*
+*://*.graph.whatsapp.com/*
+*://*.graph.whatsapp.net/*
 *://*.youtube.com/*
 *://*.whispersystems.org/*
 *://*.wunderground.com/*
@@ -515,6 +534,14 @@
 *://*.whatsapp.com/*
 *://*.whatsapp.net/*
 *://*.xhamster.com/*
+*://*.whatsapp-plus.info/*
+*://*.whatsapp-plus.me/*
+*://*.whatsapp-plus.net/*
+*://*.whatsapp.cc/*
+*://*.whatsapp.info/*
+*://*.whatsapp.org/*
+*://*.whatsapp.tv/*
+*://*.whatsappbrand.com/*
 *://*.xhamsterlive.com/*
 *://*.xsts.auth.xboxlive.com/*
 *://*.znanija.com/*
@@ -525,6 +552,6 @@
 *://*.t3.chat/*
 *://*.x.ai/*
 #END
-# Domain count: 524
+# Domain count: 551
 
-# Generated on 2026-02-10 05:52:27 (MSK)
+# Generated on 2026-02-11 05:50:21 (MSK)

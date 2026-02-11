@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Domain count: 81192
-! Generated on 2026-02-10 05:52:28 (MSK)
+! Domain count: 81201
+! Generated on 2026-02-11 05:50:23 (MSK)
 
 ||0.nb-novorossiysk.net
 ||0.torlink.site
@@ -1770,7 +1770,6 @@
 ||4fappers99.com
 ||4freerussia.org
 ||4gay.cc
-||4genderjustice.org
 ||4glaza31.ru
 ||4h0y.gitlab.io
 ||4hairypussy.com
@@ -2733,6 +2732,7 @@
 ||abooks.zone
 ||abordazh.com
 ||abortion.eu
+||abortionpillsinprivate.com
 ||about.me
 ||aboutcar.ru
 ||aboutfoursquare.ru
@@ -2974,9 +2974,9 @@
 ||adguardvpn.pro
 ||adguardvpnru.biz
 ||adict.click
+||adidas.com
 ||adidas24-biz.esti.city
 ||adidas24-biz1.esti.city
-||adium.im
 ||adjuntar.com
 ||adk-sochi.ru
 ||admin.instagram.com
@@ -3132,7 +3132,6 @@
 ||af.stopfilms.info
 ||afanew.org
 ||afaq-tr.org
-||afcdn.net
 ||afcpresident.com
 ||afcs.dellcdn.com
 ||afexmarketsgroup.com
@@ -4339,7 +4338,6 @@
 ||amazing-ukraine.com
 ||amazingfilms.com
 ||amazon-forex.com
-||amazon.com
 ||amazonclimat.com
 ||amazoniafit.ru
 ||amazonnewstoday.com
@@ -5190,6 +5188,7 @@
 ||api.openai.com
 ||api.protonvpn.ch
 ||api.radarr.video
+||api.revenuecat.com
 ||api.service-kp.com
 ||api.themoviedb.org
 ||api.turbovpn.co
@@ -5714,6 +5713,7 @@
 ||artseverina.com
 ||artshapes.ru
 ||artslife.com
+||artstation.com
 ||artstroy123.ru
 ||artstudiyalectnic.ru
 ||artsy.net
@@ -6155,7 +6155,6 @@
 ||au.xn--80aaem0ae9bi.xn--p1ai
 ||aubook.org
 ||aucafedeslivres.com
-||aucdn.net
 ||auctioncaddy.com
 ||auctions.morphyauctions.com
 ||aucview.aucfan.com
@@ -6503,6 +6502,7 @@
 ||avinastyle.ru
 ||avinfo17.info
 ||avintegration.ru
+||avira.com
 ||avistarnews.ru
 ||avita54.ru
 ||avito-cdn.itsaol.com
@@ -6772,7 +6772,6 @@
 ||azatliq.org
 ||azatlyk-vatan.blogspot.com
 ||azattyk.org
-||azattyq.gitlab.io
 ||azattyq.org
 ||azbit29f.com
 ||azbuka-stroyki054.ru
@@ -7419,6 +7418,7 @@
 ||bataisk.alfa156.online
 ||baten-coincraft.com
 ||batencoincraft-software.com
+||batenka.ru
 ||bath-rmnt.com
 ||bathtubrepair.ru
 ||batikkrom.com
@@ -7677,6 +7677,10 @@
 ||beaconfyldra-engine.com
 ||beaconhillpropertygroup.com
 ||beambroker.net
+||beammp.com
+||beamng.com
+||beamng.gmbh
+||beamng.tech
 ||beargay.cc
 ||bearlylegalhemp.com
 ||bearporngay.com
@@ -8046,7 +8050,6 @@
 ||ben10.freehentaidb.com
 ||ben10.hentaidesires.com
 ||ben10.toon-sex-now.org
-||benarnews.org
 ||benbzzaz.com
 ||benchavto.ru
 ||benechat.com
@@ -9069,6 +9072,7 @@
 ||blackjackinfo.com
 ||blackseanews.net
 ||blackseango.org
+||blackseatv.com
 ||blacxprut.com
 ||bladerunner2049.crabdance.com
 ||bladewalker.com
@@ -9378,7 +9382,6 @@
 ||bmagaz.net
 ||bmarksets.com
 ||bmbagency.ru
-||bme.com
 ||bmgi.ws
 ||bmhouse.moscow
 ||bmihk.ru
@@ -9400,6 +9403,7 @@
 ||bnbasset.live
 ||bnbcopytrading.com
 ||bnd.nuzrzd.ru
+||bng.gg
 ||bnkzalog.ru
 ||bnlmusic.com
 ||bnn-news.ru
@@ -10116,7 +10120,6 @@
 ||broadcast-park.ru
 ||broadvape.ru
 ||broadviewstream.com
-||broadvoice.com
 ||brockerassets.org
 ||brockshomebrew.com
 ||broclub.vip
@@ -10146,7 +10149,6 @@
 ||bronya72.ru
 ||bronzevillescholastic.com
 ||broodkatanacoin.com
-||brookings.edu
 ||bropamefrit.ru
 ||bropk.ru
 ||brorsen.comet1go.com
@@ -11770,6 +11772,7 @@
 ||chaturbator.su
 ||chaturbators.ru
 ||chaturwebcamrecs.com
+||chatwithcharley.org
 ||chayka.lv
 ||chaykatur.ru
 ||chbot.ru
@@ -12160,7 +12163,6 @@
 ||christelpixi.com
 ||christian-arial.org
 ||christian-clive.ru
-||christianity.com
 ||christianitytoday.com
 ||christians4peace.com
 ||christiansofiraq.com
@@ -12819,6 +12821,7 @@
 ||colabwb.ru
 ||colary.ru
 ||colcafabrics.com
+||coldfilm.xyz
 ||coldseria.com
 ||colibri-dental.kz
 ||colibriloyalty.com
@@ -13007,7 +13010,6 @@
 ||consciousharvest.org
 ||consistencyfitness.fit
 ||consistentgrowths.com
-||consmed.ru
 ||constantiafood.club
 ||constituanta.blogspot.com
 ||constluck.co
@@ -14149,6 +14151,7 @@
 ||darimmir.ru
 ||darjakaisa.ru
 ||darknet.org.uk
+||darksidereviews.com
 ||darlihin.ru
 ||darmed-beauty.ru
 ||darmosreg.ru
@@ -14181,7 +14184,6 @@
 ||data-market.asia
 ||data-vyhoda.ru
 ||data.intelx.io
-||data.worldbank.org
 ||data.xn----7sbbas7adbh1ak4hek1gg.xn--p1ai
 ||database.clamav.net
 ||databreachcoverage.com
@@ -15955,6 +15957,7 @@
 ||doska.avitomoskva.ru
 ||doskaks.ru
 ||doskapozorakomi.ru
+||doski.ru
 ||doski54.ru
 ||dosknet.ru
 ||doslovno.info
@@ -16894,6 +16897,7 @@
 ||e4.hd.vg
 ||e4.rosstab.com
 ||e4.xatab-repack.org
+||e4mc.link
 ||e4me.ru
 ||e5.boominfo.org
 ||e5.hd.vg
@@ -16935,7 +16939,6 @@
 ||earlyretirementhealthinsurance.com
 ||earlyrider-russia.ru
 ||earthlen.icu
-||earthwatch.org
 ||eas.mailbox.org
 ||easy-drop.co
 ||easy-drop.me
@@ -17409,6 +17412,7 @@
 ||egc-forklift.ru
 ||egeflex.ru
 ||egegei.ru
+||eggertspiele.de
 ||eggporncomics.com
 ||eglaz.xyz
 ||egle-psk.ru
@@ -17607,7 +17611,6 @@
 ||electroshemi.me
 ||electroshemi.top
 ||electroshemu.online
-||electrum.org
 ||elegant-centr.ru
 ||elegant-lash.ru
 ||elegantmatures.net
@@ -18607,6 +18610,7 @@
 ||euroxxx.net
 ||euscience.info
 ||euthanasia-group.net
+||euthanasia.cc
 ||euthanasia.store
 ||eutrp.eu
 ||eutylonekucrystal.com
@@ -19461,6 +19465,7 @@
 ||fastlaneventures.ru
 ||fastlinegaiin.com
 ||fastly.syg.ma
+||fastmail.com
 ||fastmoreleadcrm.ru
 ||fastnesty.com
 ||faston.site
@@ -19587,6 +19592,7 @@
 ||fe111.1orbceria1.icu
 ||fe48.biz
 ||fea-solutiontech.com
+||fearnet.com
 ||featheraqua.ru
 ||feature-155--discours.netlify.app
 ||featuringfilm.com
@@ -21521,8 +21527,6 @@
 ||freesmoking.ru
 ||freesocks.org
 ||freesofts.ru
-||freespeech.org
-||freespeechcoalition.com
 ||freespeechdebate.com
 ||freespirit.webboard.org
 ||freestreams-live.my
@@ -21685,6 +21689,7 @@
 ||fsl-streams.click
 ||fslbrokers.com
 ||fsmrussia.ru
+||fsn1.your-objectstorage.com
 ||fsnp-gov-ru.ru
 ||fsnv.zp.ua
 ||fsonline.app
@@ -21900,6 +21905,7 @@
 ||fur.booru.org
 ||furaffinity.net
 ||furbylife.ru
+||furfur.me
 ||furkaloxarius.com
 ||furmanov.sex-fantasy.top
 ||furnikuhni.ru
@@ -22240,6 +22246,7 @@
 ||gameofthrones.site
 ||gameport.fun
 ||gameport.site
+||gamersyde.com
 ||gametiengviet.com
 ||gametoearn.fun
 ||gametoparmsnews.ru
@@ -22377,6 +22384,7 @@
 ||gay-sex-i-smena-pola--eto-kruto.krym-eto-ukraina.mywire.org
 ||gay-sex-videos.mobi
 ||gay-sexxxx.click
+||gay-sport.ru
 ||gay-streaming.com
 ||gay-test-ru.blogspot.com
 ||gay-tourist.info
@@ -23219,7 +23227,6 @@
 ||ghhffc7706s-8cheki.info
 ||ghjgg-14v-c.info
 ||ghmcbhopalayush.net
-||ghost.org
 ||ghostfather.top
 ||ghostvidstube.com
 ||ghoultoken.io
@@ -23733,7 +23740,6 @@
 ||gmc-hub.mn.co
 ||gmcup.ru
 ||gmfus.org
-||gmhc.org
 ||gmic.co.uk
 ||gminerlimited.com
 ||gmininghub.com
@@ -24493,6 +24499,7 @@
 ||granicy-sred.ru
 ||granimator-engine.com
 ||graniru.org
+||granitepillar.csproject.org
 ||granitepointivcc.com
 ||granniepornpics.com
 ||granny-porn.me
@@ -24519,6 +24526,8 @@
 ||grantstruetales.ru
 ||granulla.site
 ||granumm.com
+||graph.whatsapp.com
+||graph.whatsapp.net
 ||graphicstyles.org
 ||graskaufenhier.com
 ||grasshopper.com
@@ -24772,6 +24781,7 @@
 ||grsti.ru
 ||grufest.ru
 ||gruming-krasnogorsk.ru
+||grunge.com
 ||grunya-shop.ru
 ||grupokandidat.com
 ||grupolenex.com
@@ -25530,7 +25540,6 @@
 ||hdreska.cam
 ||hdrez.net
 ||hdrezka.ag
-||hdrezka.app
 ||hdrolik.net
 ||hdrusporno.com
 ||hdsaga.online
@@ -25580,7 +25589,6 @@
 ||healingfromwithinhouston.com
 ||healingpandemic.click
 ||health-lands.ru
-||health.com
 ||health2blog.com
 ||healthpolicyinitiative.com
 ||healthspirit.ru
@@ -25682,7 +25690,6 @@
 ||help.instagram.com
 ||help.osa-drone.com
 ||help.quantfury.com
-||help.unhcr.org
 ||help2stop.org
 ||help99.co
 ||helpbusinessman.ru
@@ -26046,7 +26053,6 @@
 ||highspirevaltor.net
 ||highstakers-finances.live
 ||highstakes.com
-||hightail.com
 ||hightechgear.com
 ||highticketblocks.com
 ||hightide-scat.com
@@ -26466,6 +26472,7 @@
 ||horoshij-kop-plohoj-kop-2025.swezhak.su
 ||horriblevideos.com
 ||horriyat.ru
+||horroronscreen.com
 ||horse-porn.com
 ||horse-sport.info
 ||horseplanet.ru
@@ -26686,6 +26693,7 @@
 ||howtocanada.ru
 ||howtochangetheworldmovie.com
 ||howtogame.ru
+||howtogeek.com
 ||howtogrowmarijuana.com
 ||howtohelpua.com
 ||howtomake.kz
@@ -27169,6 +27177,7 @@
 ||i24bot-software.com
 ||i256.photobucket.com
 ||i273.photobucket.com
+||i2pd.website
 ||i2pforum.net
 ||i3.aic.la
 ||i3.filmworld10.buzz
@@ -27193,7 +27202,6 @@
 ||iacore.ru
 ||iadvertising.ru
 ||iaeste.org
-||iaffe.org
 ||iakovkhalip.ru
 ||iamat.com
 ||iamboutique.ru
@@ -27311,7 +27319,6 @@
 ||icroatia.ru
 ||icsignalsmartrading.com
 ||icskorea.co.kr
-||ictj.org
 ||icts-sevsu.ru
 ||ictv.ua
 ||icvoenmeh.ru
@@ -27393,7 +27400,6 @@
 ||if-cis.ru
 ||if.downloadbro.fun
 ||if.downloadbro.xyz
-||ifacetimeapp.com
 ||ifbu.org.ua
 ||ifc.org
 ||ifi-heritagecenter.org
@@ -27452,7 +27458,6 @@
 ||ihelp-docs.ru
 ||ihentai.com
 ||ihousewife.ru
-||ihr.org
 ||ihsanpartners.com
 ||ihworld.com
 ||ii.yakuji.moe
@@ -27533,7 +27538,6 @@
 ||illuzion-cinema-film.site
 ||illyssia.ru
 ||ilm-forum.ru
-||ilo.org
 ||ilobbyist.ru
 ||ilonalunden.ru
 ||ilonastaller.net
@@ -28165,7 +28169,6 @@
 ||instawealthpro.com
 ||insteppodiatry.com.au
 ||inster39.ru
-||instinctmagazine.com
 ||institut-bux.ru
 ||instmsk.ru
 ||instroymatrem.ru
@@ -28693,7 +28696,6 @@
 ||itamggwo.info
 ||itanomed.ru
 ||itarmy.com.ua
-||itblogs.ru
 ||itc.ua
 ||itc73.ru
 ||itcenterykt.ru
@@ -30848,6 +30850,7 @@
 ||kn.ashoo.place
 ||kna28.cc
 ||knab1.cc
+||knaben.org
 ||knaben.ru
 ||knack.be
 ||knas32.ru
@@ -30901,6 +30904,7 @@
 ||knigoman.net
 ||knigoman.org
 ||knigomir.do.am
+||knigopoisk.org
 ||knigorai.com
 ||knigosklad.com.ua
 ||knigosluh.com
@@ -31703,7 +31707,6 @@
 ||kubnews.lamafilm.top
 ||kubshina.ru
 ||kubvkub.ru
-||kucoin.com
 ||kudesynov.ru
 ||kudo-dv.ru
 ||kudrovo.fba-tiger.ru
@@ -32545,7 +32548,6 @@
 ||lblv.com
 ||lbn.su
 ||lbooks.ru
-||lbry.com
 ||lbseedco.com
 ||lbsme.at
 ||lbushynska.com
@@ -32813,6 +32815,7 @@
 ||lenta.ua
 ||lenta.ukrhome.net
 ||lenta.vn.ua
+||lentachel.ru
 ||lenthor-bitmark.com
 ||lenziran.com
 ||leo.eog.bz
@@ -33145,7 +33148,6 @@
 ||lgbtics.com
 ||lgbtkvartal.com
 ||lgbtlibrary.blogspot.com
-||lgbtmap.org
 ||lgbtnet.org
 ||lgbtporn.net
 ||lgbtpropaganda.media
@@ -33187,6 +33189,7 @@
 ||libbox.club
 ||libcbor.org
 ||libcsys.com
+||liberal.ru
 ||liberation.fr
 ||liberoferotex.net
 ||libertatemlab.ru
@@ -33196,7 +33199,6 @@
 ||libertyclimate.ru
 ||libertyfree.ru
 ||libertyoptionmarket.live
-||libgen.fun
 ||libgen.is
 ||libgen.lc
 ||libgen.li
@@ -33204,7 +33206,6 @@
 ||libgen.me
 ||libgen.proxybit.casa
 ||libgen.rs
-||libgen.space
 ||libgen.st
 ||libgen.tw
 ||libgen.unbl4you.work
@@ -33668,6 +33669,7 @@
 ||livesports-tv.ru
 ||livesportstream.club
 ||livestockstudiescongress.org
+||livestream.com
 ||livestreaming24.eu
 ||livesx.online
 ||livetuberu.org
@@ -33782,7 +33784,6 @@
 ||localferma.ru
 ||localmart.kz
 ||localmirror.com
-||locals.com
 ||locals.md
 ||locam.vc
 ||locatefamily.com
@@ -33930,6 +33931,7 @@
 ||lookup-id.com
 ||lookw.ru
 ||looo.ch
+||looper.com
 ||loortcerial.icu
 ||looser.tennisi.com
 ||loosers.tennisi.com
@@ -34000,6 +34002,7 @@
 ||losinoostrovskypark.ru
 ||losinopetrovsk.ucoz.ru
 ||lossless71.ru
+||losslessclub.com
 ||lost-quests.ru
 ||lost-series.ru
 ||lostfilm.tv
@@ -35249,6 +35252,7 @@
 ||mail.aidol.asia
 ||mail.bookol.ru
 ||mail.cbdcru.com
+||mail.cld33.com
 ||mail.clubtv.pro
 ||mail.cock.li
 ||mail.game-thrones.com
@@ -35975,7 +35979,6 @@
 ||mashinor.online
 ||mashyna.com.ua
 ||masistriveinv.us
-||mask-h2.icloud.com
 ||mask.icloud.com
 ||maskarad.biz
 ||masked-love.ru
@@ -36087,7 +36090,6 @@
 ||matrix-client.matrix.org
 ||matrix-renata.ru
 ||matrix-world.info
-||matrix.org
 ||matrix.to
 ||matrix7km.com
 ||matrixyouth.com
@@ -36569,10 +36571,10 @@
 ||mediamoda.ru
 ||mediamonstrosity.com
 ||mediana-perm.ru
-||medianet.kz
 ||medianova.com.ua
 ||mediapartisans.info
 ||mediapartisans.org
+||mediapatriot.ru
 ||mediapool.bg
 ||mediaport.ua
 ||mediaru.net
@@ -38038,6 +38040,7 @@
 ||mmofans.club
 ||mmopc.ru
 ||mmotgr.com
+||mmozg.net
 ||mmpornohype.cc
 ||mmr.ua
 ||mmtechfair.com
@@ -38175,6 +38178,7 @@
 ||moderator.az
 ||modern-center.ru
 ||modern-vdk.ru
+||modernhorrors.com
 ||modernhuman.co
 ||modernizamos.com
 ||modernpornhd.com
@@ -38813,7 +38817,6 @@
 ||moz.mirfilm.net
 ||mozhga-rb.ru
 ||mozhzheri.ru
-||mozilla.org
 ||mp-01.directsmartroute.com
 ||mp-02.directsmartroute.com
 ||mp-03.directsmartroute.com
@@ -39108,7 +39111,6 @@
 ||msshkola.ru
 ||mst51.ru
 ||mstbe.com
-||mstdn.io
 ||mstdn.jp
 ||mstdn.social
 ||mstdown.com
@@ -40624,7 +40626,6 @@
 ||nb.sochinb.net
 ||nbahighlights.xyz
 ||nbanapa.com
-||nbc.com
 ||nbcnews.com
 ||nbcnewyork.com
 ||nbest.kyiv.ua
@@ -40786,7 +40787,6 @@
 ||neonatalspb.ru
 ||neonbar-nsk.ru
 ||neonclubaz.pro
-||neonjoint.com
 ||neonov.net
 ||neoplast-okna.ru
 ||neoplus.kz
@@ -41774,9 +41774,7 @@
 ||nostalgia3.gameassists.co.uk
 ||nostalgy-books.ru
 ||nostik.com
-||nostr.com
 ||nostradamus.biz
-||nostraightnews.com
 ||nostupid.club
 ||notagame-mag.com
 ||notalone.tv
@@ -41979,7 +41977,6 @@
 ||novyny.zt.ua
 ||novyy-papa-tv.top
 ||now-vpn.biz
-||now.org
 ||now1.thkmg.kz
 ||nowagazolina.pl
 ||nowagoal2.xyz
@@ -42092,7 +42089,6 @@
 ||ntclub.store
 ||ntcsis.ru
 ||ntdm.pro
-||nthlink.com
 ||nti2035.space
 ||ntidea.com.ua
 ||ntk-71.ru
@@ -42503,6 +42499,7 @@
 ||obuvlike.ru
 ||obyava.ua
 ||obyavlenie.ru
+||obyektiv.press
 ||obzor-sol.com
 ||obzor-sol.net
 ||obzoro.com
@@ -42680,7 +42677,6 @@
 ||ohymdgei.com
 ||oi.legal
 ||oi7pd.com
-||oicc.org
 ||oikos-atelier.ru
 ||oil-edex2-ai.com
 ||oil-trelytistech.com
@@ -42910,6 +42906,7 @@
 ||olymp3-kz.xyz
 ||olymp6-kz.xyz
 ||olympia59.ru
+||olympics.com
 ||olympicstreams.me
 ||olympo.online
 ||olymposrise.xyz
@@ -43490,6 +43487,7 @@
 ||openssource.org
 ||opentir.info
 ||opentmn.ru
+||opentrackers.org
 ||opentrackr.org
 ||opentv.media
 ||openukraine.org
@@ -43757,6 +43755,7 @@
 ||ormal-qwen.ru
 ||ormenskoe.ru
 ||orn55.ru
+||ornament.health
 ||ornamentgroup.ru
 ||ornatrix.net
 ||oroszvalosag.hu
@@ -44273,7 +44272,6 @@
 ||pantera.cc
 ||panther-link.at
 ||panther24.biz
-||panties.com
 ||pantiespics.net
 ||pantyhose1.net
 ||pantyhoseimages.com
@@ -44630,7 +44628,6 @@
 ||pcpro100.info
 ||pcrtestspb.ru
 ||pcspeedup.ru
-||pcusa.org
 ||pcvector.ru
 ||pd-life.ru
 ||pd24.vip
@@ -44729,7 +44726,6 @@
 ||pentavault.com
 ||penthousevallarta.com
 ||people-coffee.ru
-||people.com.cn
 ||people.eog.bz
 ||people1st.online
 ||peoplefornature.ru
@@ -45024,7 +45020,6 @@
 ||phpimprove.com
 ||phpinside.ru
 ||phpmyadmin.net
-||phrack.org
 ||phu9tami.cserver.tv
 ||physcareer.ru
 ||physichope.com
@@ -45469,7 +45464,6 @@
 ||planetvpnru.com
 ||planetvpnru.net
 ||plangc.ru
-||plannedparenthood.org
 ||planningatour.com
 ||planorya.com
 ||plansada.ru
@@ -45978,6 +45972,7 @@
 ||polishing.digital
 ||polishit.icu
 ||polishme.icu
+||polit.info
 ||polit.reactor.cc
 ||polit.ru
 ||politconsultant.org
@@ -46049,6 +46044,7 @@
 ||polycronos.com
 ||polyfinda.com
 ||polyglottic.biz
+||polygon.com
 ||polygraphdv.ru
 ||polymath-brokerpro.com
 ||polysad.ru
@@ -47580,17 +47576,17 @@
 ||prav-status.ru
 ||prav-ussr.su
 ||pravda-dolinsk.ru
-||pravda-tv.ru
 ||pravda-vesti.com
 ||pravda.com.ua
 ||pravda.eto-ya.com
 ||pravda.if.ua
 ||pravda.in.ua
-||pravda.info
 ||pravda.red
 ||pravda.volyn.ua
+||pravdabeslana.ru
 ||pravdamail.com
 ||pravdamaterinstva.org
+||pravdastudia.ru
 ||pravilotela.ru
 ||pravmissioner.ru
 ||pravnomer.ru
@@ -47732,7 +47728,6 @@
 ||prideina-course.ru
 ||prideislove.com
 ||prideoflondon.ru
-||pridesource.com
 ||pridevestinv.com
 ||priem-makulaturi.com
 ||priemnaya.org
@@ -47792,7 +47787,6 @@
 ||pristencrb.ru
 ||prius20.ru
 ||priut-zeya.ru
-||privacytools.io
 ||privado-vpn.uptodown.com
 ||privadovpn.com
 ||privat-foto.info
@@ -48516,6 +48510,7 @@
 ||pssh8.ru
 ||pstlvadcuqlwmzdu.bmeq4xku34je.live
 ||pstr-perm.ru
+||psu.com
 ||psv-fc.ru
 ||psvideo.ru
 ||psy-y.com
@@ -49023,7 +49018,6 @@
 ||qrvaccode.com
 ||qs.indatab.org
 ||qsbdsm.com
-||qsbr.fs.quoracdn.net
 ||qsystemiosru.apleapp.site
 ||qt.io
 ||qterium.com
@@ -50215,6 +50209,7 @@
 ||rem-96.ru
 ||rem-app-msk.ru
 ||rem-kvartir.ru
+||remailer.paranoici.org
 ||remap-ru.com
 ||remap-ru.onrender.com
 ||remastered.valka.click
@@ -50318,6 +50313,7 @@
 ||repicsx.com
 ||repinaavhim.ru
 ||replicheorologilusso.com
+||replug.io
 ||replyua.net
 ||repnikov-house.ru
 ||repo.mongodb.org
@@ -50380,12 +50376,12 @@
 ||resoluteoncology.com
 ||resolveukrainebeer.com
 ||resonaglobal.com
-||resonance.press
 ||resonancemarketings.com
 ||resonate.icu
 ||resour-cusnu.info
 ||resource-ehaat.life
 ||resource-pop-pravilam.info
+||resourcematters.org
 ||resp.app
 ||respeaker.io
 ||ressortfinvioraax.com
@@ -50533,7 +50529,6 @@
 ||rf.virtsexchat.com
 ||rf.wforex.org
 ||rf.xgroovy.com
-||rfa.org
 ||rfe.pangea-cms.com
 ||rferl.org
 ||rfh.ru
@@ -51274,6 +51269,7 @@
 ||rotarytramplin.ru
 ||rotonda-proekt.ru
 ||rotozeev.net
+||rottentomatoes.com
 ||rotter.net
 ||rousemilk.com
 ||router.lviv.ua
@@ -52407,6 +52403,7 @@
 ||run-info.xyz
 ||run-ud.ru
 ||run-x.run
+||run.ooni.org
 ||runaflowers.ru
 ||runanchor.com
 ||runetflix.com
@@ -54380,7 +54377,6 @@
 ||scl6-lipetsk.ru
 ||sclub.ru
 ||scmoscow.ru
-||scmp.com
 ||scodahelp.ru
 ||scommesse.io
 ||scontent-ams4-1.cdninstagram.com
@@ -54545,7 +54541,6 @@
 ||sectorpravdy.com
 ||secure-web.cisco.com
 ||secure.avaaz.org
-||securevpn.im
 ||securicritic.com
 ||security-dex.ru
 ||security-service.kz
@@ -55427,8 +55422,8 @@
 ||shadeit.icu
 ||shadowforum.cc
 ||shadowmarket.biz
-||shadowsocks.org
 ||shadowsummonerelementals.top
+||shadowz.fr
 ||shag-navstrechu.ru
 ||shah-lounge.ru
 ||shahdagmountainresort.com
@@ -55741,6 +55736,7 @@
 ||shockmodels.org
 ||shockmodels.ovh
 ||shockmodels.today
+||shoe.org
 ||shoegazing.se
 ||shoes-expo.ru
 ||shoes-italy.ru
@@ -56511,6 +56507,7 @@
 ||slantsy.kraevedlibstr.ru
 ||slantsy.uwolnenie.ru
 ||slasha.info
+||slashfilm.com
 ||slashlib.me
 ||slastenacoffee.ru
 ||slastivers.ru
@@ -57580,6 +57577,7 @@
 ||spicymature.com
 ||spicytranny.com
 ||spicytrannyhd.com
+||spid.center
 ||spideroak.com
 ||spiegel.de
 ||spike-imovaxneo.com
@@ -57810,7 +57808,6 @@
 ||sputnikcity.ru
 ||sputnikfokino.ru
 ||sputnikipogrom.com
-||sputniknews.cn
 ||sputnikv.online
 ||spv-kadastr.com
 ||spv.rosegrn.com
@@ -58441,7 +58438,6 @@
 ||stolica2024.ru
 ||stolinza.online
 ||stolinza.ru
-||stolitomsonvpn.com
 ||stolitomsonvpn.info
 ||stollo.ru
 ||stolyca.com.ua
@@ -58640,7 +58636,6 @@
 ||strongart.work
 ||strongfoam.com
 ||strongholdproducts.biz
-||strongvpn.com
 ||stropalshchik-obuchenie.ru
 ||strovemont-trustpro.com
 ||strovera.com
@@ -58913,7 +58908,6 @@
 ||support.ruckuswireless.com
 ||support.sellsbuy.com
 ||support.startmail.com
-||support.therapytribe.com
 ||support.xerox.com
 ||support1c.videocourses.xyz
 ||supportazov.com
@@ -59054,6 +59048,7 @@
 ||svetuben.online
 ||svetuben.ru
 ||svg-nn.com
+||svg.com
 ||svidanie.org.ua
 ||svidetelstva.top
 ||svidetelstva1.top
@@ -59983,6 +59978,9 @@
 ||telegraf.news
 ||telegrafua.com
 ||telegram-cdn.org
+||telegram.app
+||telegram.com
+||telegram.dev
 ||telegram.dog
 ||telegram.me
 ||telegram.org
@@ -60475,7 +60473,6 @@
 ||thegay18.com
 ||thegaze.media
 ||theglobalfund.org
-||theglobalobservatory.org
 ||thegooddrugsguide.com
 ||thegoodfight.ru
 ||thegoodland.vn
@@ -60530,6 +60527,7 @@
 ||thelavendereffect.org
 ||theleaksbay.com
 ||thelibertybookcompany.com
+||thelist.com
 ||thelistlove.com
 ||theliverpoolginfestival.com
 ||thelobbyx.com
@@ -60625,7 +60623,6 @@
 ||therealseedcompany.com
 ||therealworkout.com
 ||therealworldelites.com
-||theregister.co.uk
 ||thereplica.io
 ||thermopolsrl.com
 ||therollingshop.com
@@ -60820,7 +60817,6 @@
 ||timberland.com
 ||timbersi.online
 ||timbersi.ru
-||timcast.com
 ||time-forex.com
 ||time-nk.ru
 ||time-nord.ru
@@ -60858,7 +60854,6 @@
 ||timurich.ru
 ||timurtrading.com
 ||timviec24h.com.vn
-||tinder.com
 ||tingasof.com
 ||tingered.ru
 ||tinkantrust.com
@@ -62001,6 +61996,7 @@
 ||transushka5.top
 ||transvestite.ru
 ||transvestiter.com
+||transwhiz.com
 ||transxvideos.com
 ||transych.cc
 ||transych.org
@@ -62363,7 +62359,6 @@
 ||truebluetradingapp.com
 ||truebluetradingapp.net
 ||truebranchy.com
-||truecaller.com
 ||truefans.fm
 ||truefitfunds.com
 ||truehentai.com
@@ -63028,6 +63023,7 @@
 ||tvigo.net
 ||tvisa.ru
 ||tvispo58.ru
+||tvline.com
 ||tvm-mena.com
 ||tvmarkets.com
 ||tvmatchvar.com
@@ -63104,6 +63100,8 @@
 ||tweetdeck.com
 ||twicopy.com
 ||twimg.com
+||twin.me
+||twinlife-systems.com
 ||twirpx.club
 ||twirpx.co
 ||twirpx.com
@@ -63649,7 +63647,6 @@
 ||ulta.team
 ||ultiheights.com
 ||ultimaglobal.co
-||ultimate-anonymity.com
 ||ultimate-fund-1000.com
 ||ultimate-wed.com
 ||ultimateaccuratemarkets.click
@@ -63868,7 +63865,6 @@
 ||unreal-beauty.ru
 ||unrpp.school
 ||unrussia.ru
-||unseen.online
 ||unseparated.lol
 ||unso.org.ua
 ||unstudy.ru
@@ -67095,6 +67091,7 @@
 ||welcomeproject.net
 ||welcomernd.ru
 ||welcometorussia.info
+||welcometotwinpeaks.com
 ||welho.ru
 ||welicanclub.com
 ||welikeitintheass.com
@@ -67238,8 +67235,16 @@
 ||whatisryphorixapp.com
 ||whatisyournameinsider.com
 ||whatracker.net
+||whatsapp-plus.info
+||whatsapp-plus.me
+||whatsapp-plus.net
+||whatsapp.cc
 ||whatsapp.com
+||whatsapp.info
 ||whatsapp.net
+||whatsapp.org
+||whatsapp.tv
+||whatsappbrand.com
 ||whatsappearn.net
 ||whatsize.ru
 ||whayle.io
@@ -67691,6 +67696,7 @@
 ||wshop24.biz
 ||wshop24.org
 ||wshop24x7.com
+||wsjournal.ru
 ||wspolnotapolska.org.pl
 ||wsuspraxis.de
 ||wt.ashoo.rest
@@ -76514,6 +76520,7 @@
 ||wwwmerrell.ru
 ||wwwn.porno666.news
 ||wwwo.porno666.news
+||wwwoman.ru
 ||wwwp.porno666.news
 ||wwwq4.ru
 ||wwww.gaycity.love
@@ -76848,7 +76855,6 @@
 ||xenosource.net
 ||xenovacap.net
 ||xenovixpeak5ai-soft.com
-||xeovo.com
 ||xerophex-lunark-68.com
 ||xes.pl
 ||xesporn.com
@@ -80018,6 +80024,7 @@
 ||yeleonfund.com
 ||yelia.site
 ||yellowexchangecenter.org
+||yellowhammerfund.org
 ||yellowjackets.ru
 ||yellowplace.org
 ||yellowporn.net
@@ -80177,6 +80184,7 @@
 ||yourlesbians.com
 ||yourlibrary.at.ua
 ||yourloot.io
+||yourls.org
 ||yourlust.com
 ||yourmedship.com
 ||yourmix.online
@@ -80288,6 +80296,7 @@
 ||z--zasrancy.putina-na-kol.giize.com
 ||z--zasrantsy.putina-na-kol.giize.com
 ||z-4k.net
+||z-lib.id
 ||z-polus.info
 ||z-torrents.ru
 ||z-zasranci.z-zasrancy.giize.com

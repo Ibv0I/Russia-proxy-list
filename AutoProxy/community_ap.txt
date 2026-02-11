@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Domain count: 504
-! Generated on 2026-02-10 05:52:28 (MSK)
+! Domain count: 525
+! Generated on 2026-02-11 05:50:23 (MSK)
 
 ||4pda.ru
 ||4pda.to
@@ -62,12 +62,17 @@
 ||autodiscover.instagram.com
 ||bard.google.com
 ||bbci.co.uk
+||beammp.com
+||beamng.com
+||beamng.gmbh
+||beamng.tech
 ||bitbucket.org
 ||bitcoin.org
 ||bitru.org
 ||black.instagram.com
 ||blog.business.instagram.com
 ||blog.instagram.com
+||bng.gg
 ||booktracker.org
 ||boosteroid.com
 ||bosch-home.com
@@ -151,6 +156,7 @@
 ||downloads.gtnewhorizons.com
 ||driver.gaomon.net
 ||dw.com
+||e4mc.link
 ||e621.net
 ||easylist-downloads.adblockplus.org
 ||edge.microsoft.com
@@ -175,6 +181,7 @@
 ||forklog.com
 ||formula1.com
 ||forum.voynaplemyon.com
+||fsn1.your-objectstorage.com
 ||fw-download.ubnt.com
 ||fw-update.ubnt.com
 ||g2a.com
@@ -194,6 +201,8 @@
 ||gordonua.com
 ||gql.twitch.tv
 ||grammarly.com
+||graph.whatsapp.com
+||graph.whatsapp.net
 ||grazie.ai
 ||grok.com
 ||gtagarage.com
@@ -397,6 +406,9 @@
 ||telega.one
 ||telegra.ph
 ||telegram-cdn.org
+||telegram.app
+||telegram.com
+||telegram.dev
 ||telegram.dog
 ||telegram.me
 ||telegram.org
@@ -454,14 +466,23 @@
 ||vipdrive.net
 ||vrv.co
 ||vyos.io
+||wa.me
 ||warnerbrosgames.com
 ||watchguard.com
 ||weather.com
 ||weblance.com.ua
 ||welt.de
 ||wetransfer.com
+||whatsapp-plus.info
+||whatsapp-plus.me
+||whatsapp-plus.net
+||whatsapp.cc
 ||whatsapp.com
+||whatsapp.info
 ||whatsapp.net
+||whatsapp.org
+||whatsapp.tv
+||whatsappbrand.com
 ||wheather.com
 ||whispersystems.org
 ||white.instagram.com
