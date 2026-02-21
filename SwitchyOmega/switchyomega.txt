@@ -2531,4 +2531,4 @@
 *://*.zoomshare.com/*
 #END
 # Domain count: 2529
-# Generated on: 2026-02-20 05:36:00 (MSK)
+# Generated on: 2026-02-21 05:29:54 (MSK)
