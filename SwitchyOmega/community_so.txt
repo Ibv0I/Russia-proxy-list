@@ -428,6 +428,10 @@
 *://*.signal.art/*
 *://*.signal.org/*
 *://*.signalusers.org/*
+*://*.signon.goliath.prod.deadorbit.net/*
+*://*.signon.goliath.prod.gravityshavings.net/*
+*://*.signon2.deadorbit.net/*
+*://*.signon2.gravityshavings.net/*
 *://*.soundcloud.com/*
 *://*.sndcdn.com/*
 *://*.spotify.com/*
@@ -552,6 +556,6 @@
 *://*.t3.chat/*
 *://*.x.ai/*
 #END
-# Domain count: 551
+# Domain count: 555
 
-# Generated on 2026-03-02 05:37:23 (MSK)
+# Generated on 2026-03-03 05:40:13 (MSK)
