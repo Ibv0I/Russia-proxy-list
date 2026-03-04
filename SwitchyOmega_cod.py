@@ -7,7 +7,6 @@ from zoneinfo import ZoneInfo  # для Python 3.9+
 URLS = {
     "community": "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst",
     "domains_all": "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/domains_all.lst",
-    "ooni": "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst",
 }
 
 # Папка для итоговых файлов
