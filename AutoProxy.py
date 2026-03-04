@@ -4,10 +4,9 @@ from datetime import datetime
 from zoneinfo import ZoneInfo   # для Python 3.9+
 
 # URLs
-url_1 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/ooni_domains.lst"
-url_2 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"
-url_3 = "https://community.antifilter.download/list/domains.lst"
-url_4 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst"
+url_1 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"
+url_2 = "https://community.antifilter.download/list/domains.lst"
+url_3 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst"
 
 # Папка для вывода
 output_folder = "AutoProxy"
