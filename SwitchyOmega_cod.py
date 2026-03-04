@@ -17,7 +17,6 @@ if not os.path.exists(OUTPUT_DIR):
 OUTPUT_FILES = {
     "community": os.path.join(OUTPUT_DIR, "community_so.txt"),
     "domains_all": os.path.join(OUTPUT_DIR, "domains_all_so.txt"),
-    "ooni": os.path.join(OUTPUT_DIR, "ooni_so.txt"),
 }
 
 def download_list(url):
