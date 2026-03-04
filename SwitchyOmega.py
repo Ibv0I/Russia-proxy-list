@@ -35,7 +35,7 @@ def save_to_file(filename, data):
     print(f"Итоговый список сохранён в {filename}")
 
 def process_and_refilter(output_file):
-    urls = [url_1, url_2, url_3, url_4]
+    urls = [url_1, url_2, url_3,]
     all_domains = set()
     for url in urls:
         lines = download_list(url)
