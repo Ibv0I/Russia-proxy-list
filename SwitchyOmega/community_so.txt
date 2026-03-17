@@ -61,6 +61,7 @@
 *://*.bitcoin.org/*
 *://*.bitru.org/*
 *://*.byteoversea.com/*
+*://*.broadcom.com/*
 *://*.booktracker.org/*
 *://*.boosteroid.com/*
 *://*.bosch-home.com/*
@@ -556,6 +557,6 @@
 *://*.t3.chat/*
 *://*.x.ai/*
 #END
-# Domain count: 555
+# Domain count: 556
 
-# Generated on 2026-03-16 05:54:19 (MSK)
+# Generated on 2026-03-17 05:37:27 (MSK)

@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Domain count: 529
-! Generated on 2026-03-16 05:54:20 (MSK)
+! Domain count: 530
+! Generated on 2026-03-17 05:37:28 (MSK)
 
 ||4pda.ru
 ||4pda.to
@@ -77,6 +77,7 @@
 ||boosteroid.com
 ||bosch-home.com
 ||bradyid.com
+||broadcom.com
 ||builds.parsec.app
 ||bungiestore.com
 ||business.instagram.com
