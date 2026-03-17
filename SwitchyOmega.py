@@ -7,6 +7,7 @@ from zoneinfo import ZoneInfo  # Для Python 3.9+
 url_1 = "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/main/community.lst"
 url_2 = "https://community.antifilter.download/list/domains.lst"
 url_3 = "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst"
+url_4 = "https://raw.githubusercontent.com/GubernievS/AntiZapret-VPN/refs/heads/main/setup/root/antizapret/download/include-hosts.txt"
 
 # Папка для итогового файла
 output_dir = "SwitchyOmega"
@@ -35,7 +36,7 @@ def save_to_file(filename, data):
     print(f"Итоговый список сохранён в {filename}")
 
 def process_and_refilter(output_file):
-    urls = [url_1, url_2, url_3,]
+    urls = [url_1, url_2, url_3, url_4]
     all_domains = set()
     for url in urls:
         lines = download_list(url)
