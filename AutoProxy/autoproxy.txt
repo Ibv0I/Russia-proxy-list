@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-04-05 06:16:25 (MSK)
-! Domain count: 1709
+! Generated on : 2026-04-06 06:19:26 (MSK)
+! Domain count: 1734
 
 ||.ua
 ||10minutemail.com
@@ -63,6 +63,9 @@
 ||ahrefs.com
 ||ai-chat.bsg.brave.com
 ||ai.com
+||aimlab.gg
+||aimlabs.com
+||aimlabspages.kinsta.cloud
 ||aircanada.com
 ||aistudio.google.com
 ||akc.org
@@ -109,6 +112,7 @@
 ||api.jetbrains.ai
 ||api.openai.com
 ||api.protonmail.ch
+||api.pwnedpasswords.com
 ||api.radarr.video
 ||api.service-kp.com
 ||api.theins.info
@@ -130,6 +134,7 @@
 ||archive.ph
 ||archiveofourown.org
 ||arduino.cc
+||arkoselabs.com
 ||arm.com
 ||artifacts.elastic.co
 ||as6723.net
@@ -171,6 +176,7 @@
 ||bellingcat.com
 ||bestbuy.com
 ||bestchange.ru
+||beyond.hg-cdn.com
 ||bihus.info
 ||bitbucket.org
 ||bitcoin.org
@@ -182,6 +188,7 @@
 ||blinkshot.io
 ||blog.business.instagram.com
 ||blog.instagram.com
+||bloody.com
 ||bluehost.com
 ||bng.gg
 ||booktracker.org
@@ -214,6 +221,7 @@
 ||business.instagram.com
 ||buymeacoffee.com
 ||byteoversea.com
+||caesium.app
 ||canva.com
 ||canva.dev
 ||capacitorjs.com
@@ -263,6 +271,7 @@
 ||cloud.mongodb.com
 ||cloudflare-dns.com
 ||cloudflare-ech.com
+||cloudflareclient.com
 ||cloudtorrents.com
 ||cms-twdigitalassets.com
 ||cnd2exp.online
@@ -363,6 +372,7 @@
 ||disctech.com
 ||disneyplus.com
 ||dist.torproject.org
+||distrochooser.de
 ||dkr.com
 ||dl.discordapp.net
 ||dl.tailscale.com
@@ -404,6 +414,7 @@
 ||e621.net
 ||easydmarc.com
 ||easylist-downloads.adblockplus.org
+||eaton.com
 ||echofm.online
 ||edge.microsoft.com
 ||edgeservices.bing.com
@@ -433,6 +444,7 @@
 ||euroradio.fm
 ||eutrp.eu
 ||event.on24.com
+||events.ccc.de
 ||everand.com
 ||exchanger.bits.media
 ||excitebots.com
@@ -490,6 +502,7 @@
 ||forklog.com
 ||formula1.com
 ||fortanga.org
+||forum.dcs.world
 ||forum.netgate.com
 ||forum.ru-board.com
 ||forum.voynaplemyon.com
@@ -521,6 +534,7 @@
 ||geni.us
 ||genius.com
 ||genspark.ai
+||geo.captcha-delivery.com
 ||geode-sdk.org
 ||geolocation.onetrust.com
 ||germania.one
@@ -667,6 +681,7 @@
 ||istories.media
 ||itch.io
 ||itch.zone
+||itdog.info
 ||itninja.com
 ||itsmycity.ru
 ||jamf.com
@@ -732,6 +747,7 @@
 ||lib.rus.ec
 ||libgen.li
 ||libgen.rs
+||libsdl.org
 ||licdn.com
 ||lidarr.audio
 ||lifehacker.com
@@ -825,6 +841,7 @@
 ||miracleptr.wordpress.com
 ||mixcloud.com
 ||mobile.events.data.microsoft.com
+||modartt.com
 ||modrinth.com
 ||mongodb.com
 ||monolisa.dev
@@ -966,6 +983,7 @@
 ||octopus.do
 ||oculus.com
 ||ohmyswift.ru
+||ohmyz.sh
 ||oi.legal
 ||okx.com
 ||olx.ua
@@ -1000,6 +1018,7 @@
 ||ovd.news
 ||ovdinfo.org
 ||ozodi.org
+||packages.cachyos.org
 ||packages.gitlab.com
 ||paddle.com
 ||paddlestatus.com
@@ -1029,6 +1048,7 @@
 ||pdq.com
 ||penguin.com
 ||penguinrandomhouse.com
+||penpot.app
 ||pepperl-fuchs.com
 ||periscope.tv
 ||personaltrainermath.com
@@ -1203,6 +1223,7 @@
 ||rutracker.ru
 ||rutracker.wiki
 ||s3-1.amazonaws.com
+||saerasoft.com
 ||sakhalin.info
 ||sakharovfoundation.org
 ||salesforce-experience.com
@@ -1323,6 +1344,7 @@
 ||speedtest.net
 ||spektr.press
 ||spiceworks.com
+||spiceworksstatic.com
 ||spiegel.de
 ||spitfireaudio.com
 ||splatoon2tournament.com
@@ -1548,6 +1570,7 @@
 ||video.twimg.com
 ||video.twimg.com.cdn.cloudflare.net
 ||vine.co
+||vintagestory.at
 ||vipdrive.net
 ||vipergirls.to
 ||visualcapitalist.com
@@ -1640,8 +1663,10 @@
 ||www.lostfilmtv5.site
 ||www.microchip.com
 ||www.mongodb.com
+||www.montechpc.com
 ||www.moscowtimes.ru
 ||www.mouser.com
+||www.noctua.at
 ||www.postfix.org
 ||www.qualcomm.com
 ||www.smashwords.com
