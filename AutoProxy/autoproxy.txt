@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-04-07 05:52:53 (MSK)
-! Domain count: 1734
+! Generated on : 2026-04-08 05:54:02 (MSK)
+! Domain count: 1767
 
 ||.ua
 ||10minutemail.com
@@ -101,6 +101,7 @@
 ||annas-archive.org
 ||ansys.com
 ||anthropic.com
+||anthropic.qualtrics.com
 ||antizapret.prostovpn.org
 ||any.do
 ||aol.com
@@ -159,7 +160,9 @@
 ||avira.com
 ||azathabar.com
 ||azattyq.org
+||babepedia.com
 ||babook.org
+||backend-v2.crixet.com
 ||baginya.org
 ||baikal-journal.ru
 ||bard.google.com
@@ -225,7 +228,6 @@
 ||canva.com
 ||canva.dev
 ||capacitorjs.com
-||capcut.com
 ||carnegieendowment.org
 ||carrefouruae.com
 ||cats.com
@@ -244,7 +246,9 @@
 ||censor.net
 ||censortracker.org
 ||certifytheweb.com
+||chainreactioncycles.com
 ||chaos.com
+||charhub.io
 ||chat.com
 ||chat.openai.com
 ||chat.openai.com.cdn.cloudflare.net
@@ -265,6 +269,7 @@
 ||clashofclans.com
 ||clashroyaleapp.com
 ||claude.ai
+||claude.com
 ||clevelandclinic.org
 ||clickup.com
 ||clip.opus.pro
@@ -314,6 +319,8 @@
 ||daemon-tools.cc
 ||dailylviv.com
 ||danbooru.donmai.us
+||dashboard.algolia.com
+||dashboard.gitguardian.com
 ||data-cdn.mbamupdates.com
 ||data.cline.bot
 ||database.clamav.net
@@ -395,11 +402,11 @@
 ||download.wetransfer.com
 ||download3.omnissa.com
 ||downloads.gtnewhorizons.com
+||downloads.intercomcdn.com
 ||doxa.team
 ||doxajournal.ru
 ||dpidetector.org
 ||dreamhost.com
-||dreamina.capcut.com
 ||driver.gaomon.net
 ||drmario-world.com
 ||dual-a-0001.a-msedge.net
@@ -459,6 +466,7 @@
 ||facebook.com
 ||facebook.net
 ||fansly.com
+||fapello.com
 ||fast-torrent.club
 ||fast.com
 ||fastpic.org
@@ -480,6 +488,7 @@
 ||fingerium.stream.voidboost.cc
 ||firefly-ps.adobe.io
 ||fitgirl-repacks.site
+||fivetran.com
 ||flashscore.com
 ||flibusta.is
 ||flibusta.net
@@ -555,8 +564,10 @@
 ||gnome-look.org
 ||godaddy.com
 ||gofile.io
+||gofund.me
 ||gofundme.com
 ||golosameriki.com
+||gonift.com
 ||gonitro.com
 ||goodreads.com
 ||googletagmanager.com
@@ -576,6 +587,7 @@
 ||grazie.ai
 ||grizzlysms.com
 ||grok.com
+||grok.x.com
 ||groq.com
 ||groupon.com
 ||gtagarage.com
@@ -627,6 +639,7 @@
 ||hromadske.ua
 ||hs.fi
 ||htmhell.dev
+||httptoolkit.com
 ||hume.ai
 ||hybrid-analysis.com
 ||hyperhost.ua
@@ -640,6 +653,7 @@
 ||id.cisco.com
 ||idelreal.org
 ||iditelesombase.org
+||idolcomplex.com
 ||iedb.org
 ||ig.me
 ||ign.com
@@ -668,6 +682,7 @@
 ||intel.nl
 ||intelix.sophos.com
 ||interactivebrokers.co.uk
+||intercom.io
 ||interfax.com.ua
 ||internalfb.com
 ||intuit.com
@@ -689,6 +704,7 @@
 ||jetbrains.com
 ||jetbrains.space
 ||jnn-pa.googleapis.com
+||joesandbox.com
 ||jskor.ill.in.ua
 ||jut-su.net
 ||jut.su
@@ -737,6 +753,7 @@
 ||lamcdn.net
 ||langdock.com
 ||lantern.io
+||last.fm
 ||ldoceonline.com
 ||le-production.tv
 ||leafletjs.com
@@ -818,6 +835,7 @@
 ||medicalnewstoday.com
 ||medium.com
 ||meduza.io
+||meetup.com
 ||mega.co.nz
 ||mega.nz
 ||megapeer.ru
@@ -854,6 +872,7 @@
 ||mrakopedia.net
 ||mssg.me
 ||mullvad.net
+||multisim.com
 ||multporn.net
 ||muscdn.com
 ||music.youtube.com
@@ -904,6 +923,7 @@
 ||nhentai.com
 ||nhentai.net
 ||nhl.com
+||ni.com
 ||nih.gov
 ||nike.com
 ||nintendo-europe-sales.com
@@ -1011,6 +1031,7 @@
 ||openwrt.wk.cz
 ||opposition-news.com
 ||oracle.com
+||oraclecloud.com
 ||orbit-games.com
 ||os.mbed.com
 ||ovd.info
@@ -1053,6 +1074,7 @@
 ||periscope.tv
 ||personaltrainermath.com
 ||pexels.com
+||philiascans.org
 ||phncdn.com
 ||phncdn.com.sds.rncdn7.com
 ||phoenixcontact.com
@@ -1136,6 +1158,8 @@
 ||public.parsec.app
 ||pump.fun
 ||pvpessence.com
+||qodana.cloud
+||qoder.com
 ||qt.io
 ||qualcomm.com
 ||quicknode.com
@@ -1234,12 +1258,16 @@
 ||salesforce.com
 ||salesforceiq.com
 ||salesforceliveagent.com
+||sankakuapi.com
+||sankakucomplex.com
+||sankakustatic.com
 ||sap.com
 ||saveeditonline.com
 ||saverudata.info
 ||saverudata.net
 ||sc-jpl.com
 ||sc-static.net
+||schneider-electric.com
 ||sci-hub.se
 ||sci-hub.st
 ||scontent.cdninstagram.com
@@ -1261,6 +1289,7 @@
 ||scryde8.net
 ||scryde9.net
 ||sdxcentral.com
+||se.com
 ||searchfloor.org
 ||seasonvar.ru
 ||sebeanus.online
@@ -1281,6 +1310,7 @@
 ||sfdcopens.com
 ||shift.services.gearbox.com
 ||shikimori.me
+||shikimori.one
 ||shinyhardware.co.uk
 ||shiza-project.com
 ||shop.gameloft.com
@@ -1559,6 +1589,7 @@
 ||vectorworks.net
 ||veeam.com
 ||velocidrone.com
+||verificationacademy.com
 ||veritas.com
 ||verstka.media
 ||vesma.one
@@ -1598,6 +1629,7 @@
 ||warnerbrosgames.com
 ||watchguard.com
 ||watermarkremover.io
+||wbagora.com
 ||wbgames.com
 ||weather.com
 ||weblance.com.ua
@@ -1697,6 +1729,7 @@
 ||xnxx.net
 ||xnxx.tv
 ||xnxx3.com
+||xrite.com
 ||xsts.auth.xboxlive.com
 ||xtracloud.net
 ||xv-ru.com
