@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-04-24 06:26:58 (MSK)
-! Domain count: 1767
+! Generated on : 2026-04-25 05:54:56 (MSK)
+! Domain count: 1768
 
 ||.ua
 ||10minutemail.com
@@ -694,6 +694,7 @@
 ||is.fi
 ||island-of-pleasure.site
 ||istories.media
+||it-tools.tech
 ||itch.io
 ||itch.zone
 ||itdog.info

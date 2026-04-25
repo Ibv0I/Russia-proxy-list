@@ -692,6 +692,7 @@
 *://*.is.fi/*
 *://*.island-of-pleasure.site/*
 *://*.istories.media/*
+*://*.it-tools.tech/*
 *://*.itch.io/*
 *://*.itch.zone/*
 *://*.itdog.info/*
@@ -1768,5 +1769,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 1767
-# Generated on: 2026-04-24 06:26:57 (MSK)
+# Domain count: 1768
+# Generated on: 2026-04-25 05:54:54 (MSK)
