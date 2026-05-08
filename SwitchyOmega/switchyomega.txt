@@ -234,6 +234,7 @@
 *://*.cdn-telegram.org/*
 *://*.cdn.betterttv.net/*
 *://*.cdn.id.supercell.com/*
+*://*.cdn.jsdelivr.net/*
 *://*.cdn.oaistatic.com/*
 *://*.cdn.web-platform.io/*
 *://*.cdn2site.com/*
@@ -1769,5 +1770,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 1768
-# Generated on: 2026-05-07 06:40:25 (MSK)
+# Domain count: 1769
+# Generated on: 2026-05-08 06:34:22 (MSK)

@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-05-07 06:40:28 (MSK)
-! Domain count: 1768
+! Generated on : 2026-05-08 06:34:24 (MSK)
+! Domain count: 1769
 
 ||.ua
 ||10minutemail.com
@@ -236,6 +236,7 @@
 ||cdn-telegram.org
 ||cdn.betterttv.net
 ||cdn.id.supercell.com
+||cdn.jsdelivr.net
 ||cdn.oaistatic.com
 ||cdn.web-platform.io
 ||cdn2site.com
