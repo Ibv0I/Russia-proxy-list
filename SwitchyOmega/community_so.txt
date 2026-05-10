@@ -182,7 +182,6 @@
 *://*.discord.gg/*
 *://*.discord.com/*
 *://*.dis.gd/*
-*://*.discord.media/*
 *://*.discord-attachments-uploads-prd.storage.googleapis.com/*
 *://*.dis.gd/*
 *://*.discord.co/*
@@ -214,7 +213,6 @@
 *://*.discord-attachments-uploads-prd.storage.googleapis.com/*
 *://*.dis.gd/*
 *://*.discordstatus.com/*
-*://*.discord.media/*
 *://*.discordapp.net/*
 *://*.discordcdn.com/*
 *://*.discord.dev/*
@@ -699,6 +697,6 @@
 *://*.xn--mts47c3w9b1qr.cn/*
 *://*.xn--mts47c3w9b1qr.net/*
 #END
-# Domain count: 698
+# Domain count: 696
 
-# Generated on 2026-05-09 06:34:46 (MSK)
+# Generated on 2026-05-10 06:50:29 (MSK)
