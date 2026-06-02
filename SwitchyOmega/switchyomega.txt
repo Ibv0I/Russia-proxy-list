@@ -617,6 +617,7 @@
 *://*.hdrzk.org/*
 *://*.hdstudio.org/*
 *://*.healthline.com/*
+*://*.helioadditive.com/*
 *://*.helm.releases.hashicorp.com/*
 *://*.help.instagram.com/*
 *://*.hentai-foundry.com/*
@@ -1770,5 +1771,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 1769
-# Generated on: 2026-06-01 07:49:33 (MSK)
+# Domain count: 1770
+# Generated on: 2026-06-02 07:38:43 (MSK)

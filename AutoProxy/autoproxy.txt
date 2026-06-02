@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-06-01 07:49:35 (MSK)
-! Domain count: 1769
+! Generated on : 2026-06-02 07:38:44 (MSK)
+! Domain count: 1770
 
 ||.ua
 ||10minutemail.com
@@ -619,6 +619,7 @@
 ||hdrzk.org
 ||hdstudio.org
 ||healthline.com
+||helioadditive.com
 ||helm.releases.hashicorp.com
 ||help.instagram.com
 ||hentai-foundry.com
