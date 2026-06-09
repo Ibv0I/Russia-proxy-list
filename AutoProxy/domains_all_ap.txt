@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
 ! Domain count: 81257
-! Generated on 2026-06-08 07:41:14 (MSK)
+! Generated on 2026-06-09 07:01:50 (MSK)
 
 ||0.nb-novorossiysk.net
 ||0.torlink.site
