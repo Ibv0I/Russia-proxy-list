@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-06-16 08:01:10 (MSK)
-! Domain count: 1770
+! Generated on : 2026-06-17 07:44:53 (MSK)
+! Domain count: 1791
 
 ||.ua
 ||10minutemail.com
@@ -35,6 +35,7 @@
 ||activatica.org
 ||adafruit.com
 ||adblockplus.org
+||adguard-vpn.com
 ||adguard.com
 ||adidas.com
 ||admin.instagram.com
@@ -311,6 +312,9 @@
 ||cub.red
 ||currenttime.tv
 ||curseforge.com
+||cursor-cdn.com
+||cursor.sh
+||cursorapi.com
 ||cursorinfo.co.il
 ||cvedetails.com
 ||cyberghostvpn.com
@@ -449,6 +453,7 @@
 ||etsy.com
 ||eu-iot-prod.aws.tcljd.com
 ||euronews.com
+||europesays.com
 ||euroradio.fm
 ||eutrp.eu
 ||event.on24.com
@@ -517,7 +522,12 @@
 ||forum.ru-board.com
 ||forum.voynaplemyon.com
 ||foxnews.com
+||framer.app
 ||framer.com
+||framercanvas.com
+||framercdn.com
+||framerstatic.com
+||framerusercontent.com
 ||freecodecamp.org
 ||freedomletters.org
 ||freeimages.com
@@ -669,6 +679,7 @@
 ||images.instagram.com
 ||imgur.com
 ||important-stories.com
+||incy.cc
 ||indeed.com
 ||indiehackers.com
 ||infineon.com
@@ -706,13 +717,12 @@
 ||jetbrains.ai
 ||jetbrains.com
 ||jetbrains.space
+||jetbrains.team
 ||jnn-pa.googleapis.com
 ||joesandbox.com
 ||jskor.ill.in.ua
 ||jut-su.net
 ||jut.su
-||jw-russia.org
-||jw.org
 ||k1-api.wbagora.com
 ||kaktus.media
 ||kaleido.ai
@@ -808,6 +818,7 @@
 ||mailo.com
 ||make.com
 ||malwarebytes.com
+||manga-chan.me
 ||mangadex.org
 ||mangahub.ru
 ||mangapark.net
@@ -861,6 +872,7 @@
 ||mintmobile.com
 ||miracleptr.wordpress.com
 ||mixcloud.com
+||mmcdn.com
 ||mobile.events.data.microsoft.com
 ||modartt.com
 ||modrinth.com
@@ -1062,6 +1074,7 @@
 ||patriot.dp.ua
 ||pay.buckaroo.nl
 ||paypal.com
+||paywithmoon.com
 ||pb.wtf
 ||pbs.twimg.com
 ||pbs.twimg.com.cdn.cloudflare.net
@@ -1161,6 +1174,7 @@
 ||public.parsec.app
 ||pump.fun
 ||pvpessence.com
+||qobuz.com
 ||qodana.cloud
 ||qoder.com
 ||qt.io
@@ -1311,6 +1325,8 @@
 ||services.gearboxsoftware.com
 ||severreal.org
 ||sfdcopens.com
+||sharefile.com
+||sharefile.io
 ||shift.services.gearbox.com
 ||shikimori.me
 ||shikimori.one
@@ -1327,6 +1343,7 @@
 ||signon.goliath.prod.gravityshavings.net
 ||signon2.deadorbit.net
 ||signon2.gravityshavings.net
+||sigsauer.com
 ||simplex.chat
 ||simplex.im
 ||simplix.info
@@ -1439,6 +1456,7 @@
 ||sydney.bing.com
 ||synoforum.com
 ||sysdig.com
+||syslog-ng.com
 ||t-invariant.org
 ||t.co
 ||t.me
@@ -1484,6 +1502,7 @@
 ||theporndude.com
 ||thetruestory.news
 ||thetvdb.com
+||threads.com
 ||threads.net
 ||threema.ch
 ||ti.com
@@ -1634,6 +1653,7 @@
 ||watermarkremover.io
 ||wbagora.com
 ||wbgames.com
+||wdfiles.com
 ||weather.com
 ||weblance.com.ua
 ||webmd.com
@@ -1765,6 +1785,7 @@
 ||zedge.net
 ||zendesk.com
 ||zerkalo.io
+||zerossl.com
 ||zetflix.online
 ||zimbra.com
 ||zimbra.org
