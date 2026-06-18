@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-06-17 07:44:53 (MSK)
+! Generated on : 2026-06-18 07:38:50 (MSK)
 ! Domain count: 1791
 
 ||.ua
