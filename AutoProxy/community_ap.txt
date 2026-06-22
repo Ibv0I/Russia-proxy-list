@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
 ! Domain count: 672
-! Generated on 2026-06-21 07:52:42 (MSK)
+! Generated on 2026-06-22 08:01:15 (MSK)
 
 ||4pda.ru
 ||4pda.to
