@@ -1793,4 +1793,4 @@
 *://*.zona.media/*
 #END
 # Domain count: 1791
-# Generated on: 2026-07-06 07:03:42 (MSK)
+# Generated on: 2026-07-07 06:54:46 (MSK)
