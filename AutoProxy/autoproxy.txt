@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-07-31 06:28:47 (MSK)
-! Domain count: 1791
+! Generated on : 2026-08-01 06:27:43 (MSK)
+! Domain count: 1793
 
 ||.ua
 ||10minutemail.com
@@ -991,6 +991,7 @@
 ||nordcdn.com
 ||nordvpn.com
 ||notebooklm.google
+||notebooklm.google.com
 ||notepad-plus-plus.org
 ||notion-emojis.s3-us-west-2.amazonaws.com
 ||notion-static.com
@@ -1173,6 +1174,7 @@
 ||psiphon.ca
 ||public.parsec.app
 ||pump.fun
+||pushbr.com
 ||pvpessence.com
 ||qobuz.com
 ||qodana.cloud

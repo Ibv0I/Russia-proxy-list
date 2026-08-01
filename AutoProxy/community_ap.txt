@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Domain count: 672
-! Generated on 2026-07-31 06:28:47 (MSK)
+! Domain count: 675
+! Generated on 2026-08-01 06:27:43 (MSK)
 
 ||4pda.ru
 ||4pda.to
@@ -311,6 +311,7 @@
 ||muscdn.com
 ||music.youtube.com
 ||musical.ly
+||myheritage.com
 ||myworld-portal.leica-geosystems.com
 ||netflix.com
 ||newsupermariobrosu.com
@@ -361,6 +362,7 @@
 ||nordcdn.com
 ||nordvpn.com
 ||notebooklm.google
+||notebooklm.google.com
 ||notepad-plus-plus.org
 ||notion.com
 ||notion.site
@@ -440,6 +442,7 @@
 ||protonmail.com
 ||proxyscrape.com
 ||pump.fun
+||pushbr.com
 ||quora.com
 ||radarr.servarr.com
 ||ranger.stream.voidboost.cc
