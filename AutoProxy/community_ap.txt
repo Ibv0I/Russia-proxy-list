@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Domain count: 675
-! Generated on 2026-10-11 08:06:54 (MSK)
+! Domain count: 680
+! Generated on 2026-10-12 08:20:48 (MSK)
 
 ||4pda.ru
 ||4pda.to
@@ -81,6 +81,7 @@
 ||blog.business.instagram.com
 ||blog.instagram.com
 ||bloody.com
+||bluearchiveyostar.com
 ||bng.gg
 ||booktracker.org
 ||boosteroid.com
@@ -207,6 +208,7 @@
 ||formula1.com
 ||forum.dcs.world
 ||forum.voynaplemyon.com
+||freeanimehentai.net
 ||fsn1.your-objectstorage.com
 ||fw-download.ubnt.com
 ||fw-update.ubnt.com
@@ -237,6 +239,7 @@
 ||gtagarage.com
 ||gvt1.com
 ||habr.com
+||hanime-cdn.com
 ||hath.network
 ||hbomax.com
 ||hdrezka.ag
@@ -438,6 +441,7 @@
 ||prnt.sc
 ||prod-network-api.wbagora.com
 ||production-openaicom-storage.azureedge.net
+||production.cloudfront.docker.com
 ||protonmail.ch
 ||protonmail.com
 ||proxyscrape.com
@@ -662,6 +666,7 @@
 ||xn--mts47c3w9b1qr.cn
 ||xn--mts47c3w9b1qr.net
 ||xsts.auth.xboxlive.com
+||yostarplat.com
 ||youtu.be
 ||youtube-nocookie.com
 ||youtube-ui.l.google.com

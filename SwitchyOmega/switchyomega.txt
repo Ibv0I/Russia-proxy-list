@@ -191,6 +191,7 @@
 *://*.blog.business.instagram.com/*
 *://*.blog.instagram.com/*
 *://*.bloody.com/*
+*://*.bluearchiveyostar.com/*
 *://*.bluehost.com/*
 *://*.bng.gg/*
 *://*.booktracker.org/*
@@ -526,6 +527,7 @@
 *://*.framercdn.com/*
 *://*.framerstatic.com/*
 *://*.framerusercontent.com/*
+*://*.freeanimehentai.net/*
 *://*.freecodecamp.org/*
 *://*.freedomletters.org/*
 *://*.freeimages.com/*
@@ -607,6 +609,7 @@
 *://*.hackernoon.com/*
 *://*.hackmd.io/*
 *://*.halooglasi.com/*
+*://*.hanime-cdn.com/*
 *://*.happycolorapp.com/*
 *://*.hashicorp.com/*
 *://*.hath.network/*
@@ -1155,6 +1158,7 @@
 *://*.proactivebackend-pa.googleapis.com/*
 *://*.prod-network-api.wbagora.com/*
 *://*.production-openaicom-storage.azureedge.net/*
+*://*.production.cloudfront.docker.com/*
 *://*.proekt.media/*
 *://*.profitwell.com/*
 *://*.pronouns.page/*
@@ -1761,6 +1765,7 @@
 *://*.yande.re/*
 *://*.yeggi.com/*
 *://*.yle.fi/*
+*://*.yostarplat.com/*
 *://*.youtrack.cloud/*
 *://*.youtu.be/*
 *://*.youtube-nocookie.com/*
@@ -1794,5 +1799,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 1793
-# Generated on: 2026-10-11 08:06:53 (MSK)
+# Domain count: 1798
+# Generated on: 2026-10-12 08:20:46 (MSK)

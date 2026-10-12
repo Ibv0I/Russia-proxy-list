@@ -85,6 +85,7 @@
 *://*.bowsersinsidestory.com/*
 *://*.brawlstarsgame.com/*
 *://*.feed.rutracker.cc/*
+*://*.freeanimehentai.net/*
 *://*.caesium.app/*
 *://*.canva.com/*
 *://*.cdn.id.supercell.com/*
@@ -95,6 +96,7 @@
 *://*.chatgpt.livekit.cloud/*
 *://*.turn.livekit.cloud/*
 *://*.host.livekit.cloud/*
+*://*.hanime-cdn.com/*
 *://*.checkout.buckaroo.nl/*
 *://*.chess.com/*
 *://*.cisco.com/*
@@ -111,6 +113,7 @@
 *://*.black.instagram.com/*
 *://*.blog.business.instagram.com/*
 *://*.blog.instagram.com/*
+*://*.bluearchiveyostar.com/*
 *://*.business.instagram.com/*
 *://*.community.instagram.com/*
 *://*.developers.instagram.com/*
@@ -463,6 +466,7 @@
 *://*.ppy.sh/*
 *://*.protonmail.com/*
 *://*.pump.fun/*
+*://*.production.cloudfront.docker.com/*
 *://*.personaltrainermath.com/*
 *://*.playnintendo.com/*
 *://*.pokedex3d.com/*
@@ -672,6 +676,7 @@
 *://*.www.support.xerox.com/*
 *://*.www.youtube.com/*
 *://*.youtu.be/*
+*://*.yostarplat.com/*
 *://*.ubnt.com/*
 *://*.ui.com/*
 *://*.www.ti.com/*
@@ -700,6 +705,6 @@
 *://*.xn--mts47c3w9b1qr.cn/*
 *://*.xn--mts47c3w9b1qr.net/*
 #END
-# Domain count: 699
+# Domain count: 704
 
-# Generated on 2026-10-11 08:06:53 (MSK)
+# Generated on 2026-10-12 08:20:47 (MSK)
