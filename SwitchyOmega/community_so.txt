@@ -236,6 +236,9 @@
 *://*.etsy.com/*
 *://*.event.on24.com/*
 *://*.events.ccc.de/*
+*://*.elevenlabs.io/*
+*://*.api.elevenlabs.io/*
+*://*.help.elevenlabs.io/*
 *://*.exler.ru/*
 *://*.e621.net/*
 *://*.static1.e621.net/*
@@ -705,6 +708,6 @@
 *://*.xn--mts47c3w9b1qr.cn/*
 *://*.xn--mts47c3w9b1qr.net/*
 #END
-# Domain count: 704
+# Domain count: 707
 
-# Generated on 2026-10-14 07:20:23 (MSK)
+# Generated on 2026-10-15 07:02:41 (MSK)

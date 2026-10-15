@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Domain count: 680
-! Generated on 2026-10-14 07:20:24 (MSK)
+! Domain count: 683
+! Generated on 2026-10-15 07:02:43 (MSK)
 
 ||4pda.ru
 ||4pda.to
@@ -38,6 +38,7 @@
 ||anilibria.tv
 ||antizapret.prostovpn.org
 ||api.app.prod.grazie.aws.intellij.net
+||api.elevenlabs.io
 ||api.github.com
 ||api.githubcopilot.com
 ||api.home-connect.com
@@ -186,6 +187,7 @@
 ||edge.microsoft.com
 ||edgeservices.bing.com
 ||ej.ru
+||elevenlabs.io
 ||elgato.com
 ||essential.gg
 ||etsy.com
@@ -244,6 +246,7 @@
 ||hbomax.com
 ||hdrezka.ag
 ||helm.releases.hashicorp.com
+||help.elevenlabs.io
 ||help.instagram.com
 ||host.livekit.cloud
 ||hyperhost.ua

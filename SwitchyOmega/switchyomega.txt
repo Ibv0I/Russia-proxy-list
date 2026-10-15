@@ -105,6 +105,7 @@
 *://*.any.do/*
 *://*.aol.com/*
 *://*.api.app.prod.grazie.aws.intellij.net/*
+*://*.api.elevenlabs.io/*
 *://*.api.github.com/*
 *://*.api.githubcopilot.com/*
 *://*.api.home-connect.com/*
@@ -632,6 +633,7 @@
 *://*.healthline.com/*
 *://*.helioadditive.com/*
 *://*.helm.releases.hashicorp.com/*
+*://*.help.elevenlabs.io/*
 *://*.help.instagram.com/*
 *://*.hentai-foundry.com/*
 *://*.herokucdn.com/*
@@ -1799,5 +1801,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 1798
-# Generated on: 2026-10-14 07:20:22 (MSK)
+# Domain count: 1800
+# Generated on: 2026-10-15 07:02:41 (MSK)

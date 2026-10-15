@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-10-14 07:20:24 (MSK)
-! Domain count: 1798
+! Generated on : 2026-10-15 07:02:43 (MSK)
+! Domain count: 1800
 
 ||.ua
 ||10minutemail.com
@@ -107,6 +107,7 @@
 ||any.do
 ||aol.com
 ||api.app.prod.grazie.aws.intellij.net
+||api.elevenlabs.io
 ||api.github.com
 ||api.githubcopilot.com
 ||api.home-connect.com
@@ -634,6 +635,7 @@
 ||healthline.com
 ||helioadditive.com
 ||helm.releases.hashicorp.com
+||help.elevenlabs.io
 ||help.instagram.com
 ||hentai-foundry.com
 ||herokucdn.com
