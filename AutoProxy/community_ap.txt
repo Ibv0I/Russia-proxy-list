@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Domain count: 683
-! Generated on 2026-10-23 07:11:07 (MSK)
+! Domain count: 689
+! Generated on 2026-10-24 07:03:06 (MSK)
 
 ||4pda.ru
 ||4pda.to
@@ -308,6 +308,9 @@
 ||meteo.paraplan.net
 ||miitomo.com
 ||miiverse.com
+||miro-apps.com
+||miro.com
+||mirostatic.com
 ||mobile.events.data.microsoft.com
 ||modartt.com
 ||modrinth.com
@@ -384,6 +387,7 @@
 ||omv-extras.org
 ||onlineradiobox.com
 ||onlinesim.ru
+||onlinewhiteboard.com
 ||openai.com
 ||openai.com.cdn.cloudflare.net
 ||openaiapi-site.azureedge.net
@@ -455,6 +459,7 @@
 ||ranger.stream.voidboost.cc
 ||raw-data.gitlab.io
 ||rbxcdn.com
+||realtimeboard.com
 ||redis.com
 ||redtube.com
 ||refactoring.guru
@@ -615,6 +620,7 @@
 ||watchguard.com
 ||weather.com
 ||weblance.com.ua
+||webwhiteboard.com
 ||welt.de
 ||wetransfer.com
 ||whatsapp-plus.info

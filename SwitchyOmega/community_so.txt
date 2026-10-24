@@ -367,6 +367,12 @@
 *://*.mariosupersluggers.com/*
 *://*.miitomo.com/*
 *://*.miiverse.com/*
+*://*.miro.com/*
+*://*.miro-apps.com/*
+*://*.mirostatic.com/*
+*://*.onlinewhiteboard.com/*
+*://*.realtimeboard.com/*
+*://*.webwhiteboard.com/*
 *://*.netflix.com/*
 *://*.nih.gov/*
 *://*.nordvpn.com/*
@@ -708,6 +714,6 @@
 *://*.xn--mts47c3w9b1qr.cn/*
 *://*.xn--mts47c3w9b1qr.net/*
 #END
-# Domain count: 707
+# Domain count: 713
 
-# Generated on 2026-10-23 07:11:06 (MSK)
+# Generated on 2026-10-24 07:03:04 (MSK)

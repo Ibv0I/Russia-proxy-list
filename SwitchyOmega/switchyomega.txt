@@ -874,6 +874,9 @@
 *://*.miiverse.com/*
 *://*.mintmobile.com/*
 *://*.miracleptr.wordpress.com/*
+*://*.miro-apps.com/*
+*://*.miro.com/*
+*://*.mirostatic.com/*
 *://*.mixcloud.com/*
 *://*.mmcdn.com/*
 *://*.mobile.events.data.microsoft.com/*
@@ -1033,6 +1036,7 @@
 *://*.onlineradiobox.com/*
 *://*.onlinesim.io/*
 *://*.onlinesim.ru/*
+*://*.onlinewhiteboard.com/*
 *://*.onshape.com/*
 *://*.open.spotify.com/*
 *://*.openai.com/*
@@ -1201,6 +1205,7 @@
 *://*.reactflow.dev/*
 *://*.realbooru.com/*
 *://*.realist.online/*
+*://*.realtimeboard.com/*
 *://*.recraft.ai/*
 *://*.reddxxx.com/*
 *://*.redgifs.com/*
@@ -1665,6 +1670,7 @@
 *://*.webmd.com/*
 *://*.webnames.ca/*
 *://*.webtoons.com/*
+*://*.webwhiteboard.com/*
 *://*.weebly.com/*
 *://*.welt.de/*
 *://*.wetransfer.com/*
@@ -1801,5 +1807,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 1800
-# Generated on: 2026-10-23 07:11:05 (MSK)
+# Domain count: 1806
+# Generated on: 2026-10-24 07:03:04 (MSK)
