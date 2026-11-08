@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Generated on : 2026-11-07 08:27:30 (MSK)
-! Domain count: 1806
+! Generated on : 2026-11-08 08:27:30 (MSK)
+! Domain count: 1807
 
 ||.ua
 ||10minutemail.com
@@ -106,6 +106,7 @@
 ||antizapret.prostovpn.org
 ||any.do
 ||aol.com
+||api-dashboard.search.brave.com
 ||api.app.prod.grazie.aws.intellij.net
 ||api.elevenlabs.io
 ||api.github.com

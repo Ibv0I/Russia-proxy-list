@@ -104,6 +104,7 @@
 *://*.antizapret.prostovpn.org/*
 *://*.any.do/*
 *://*.aol.com/*
+*://*.api-dashboard.search.brave.com/*
 *://*.api.app.prod.grazie.aws.intellij.net/*
 *://*.api.elevenlabs.io/*
 *://*.api.github.com/*
@@ -1807,5 +1808,5 @@
 *://*.zolika1351.pages.dev/*
 *://*.zona.media/*
 #END
-# Domain count: 1806
-# Generated on: 2026-11-07 08:27:28 (MSK)
+# Domain count: 1807
+# Generated on: 2026-11-08 08:27:29 (MSK)

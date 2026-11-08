@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Domain count: 689
-! Generated on 2026-11-07 08:27:30 (MSK)
+! Domain count: 690
+! Generated on 2026-11-08 08:27:31 (MSK)
 
 ||4pda.ru
 ||4pda.to
@@ -37,6 +37,7 @@
 ||amiibo.com
 ||anilibria.tv
 ||antizapret.prostovpn.org
+||api-dashboard.search.brave.com
 ||api.app.prod.grazie.aws.intellij.net
 ||api.elevenlabs.io
 ||api.github.com

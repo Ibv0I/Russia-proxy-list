@@ -34,6 +34,7 @@
 *://*.api.app.prod.grazie.aws.intellij.net/*
 *://*.api.github.com/*
 *://*.api.pwnedpasswords.com/*
+*://*.api-dashboard.search.brave.com/*
 *://*.auth.openai.com/*
 *://*.ai.com/*
 *://*.aimlab.gg/*
@@ -714,6 +715,6 @@
 *://*.xn--mts47c3w9b1qr.cn/*
 *://*.xn--mts47c3w9b1qr.net/*
 #END
-# Domain count: 713
+# Domain count: 714
 
-# Generated on 2026-11-07 08:27:28 (MSK)
+# Generated on 2026-11-08 08:27:29 (MSK)
